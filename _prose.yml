@@ -25,11 +25,11 @@ prose:
         field:
           element: "text"
           label: "Date"
-          value: "CURRENT_DATETIME"
+          value: CURRENT_DATETIME
       - name: "author"
         field:
           element: "hidden"
-          value: "Monika Godelienė'
+          value: "Monika Godelienė"
       - name: "tags"
         field:
           element: "multiselect"
