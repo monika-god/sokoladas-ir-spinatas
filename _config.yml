@@ -28,6 +28,7 @@ baseurl: "/sokoladas-ir-spinatas/" # the subpath of your site, e.g. /blog
 url: "https://monika-god.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: monika-god
 github_username:  monika-god
+show_excerpts: true
 
 # Build settings
 theme: minima

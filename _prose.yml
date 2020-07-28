@@ -1,7 +1,7 @@
 # Prose.io Config
 prose:
   rooturl: "_posts"
-  siteurl: 'https://monika-god.github.io/sokoladas-ir-spinatas/'
+  siteurl: 'https://monika-god.github.io/sokoladas-ir-spinatas'
   relativeLinks: 'https://monika-god.github.io/sokoladas-ir-spinatas/links.jsonp'
   media: 'assests/media'
   metadata:
