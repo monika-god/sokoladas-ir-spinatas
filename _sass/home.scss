@@ -1,0 +1,81 @@
+.parallax {
+  /* The image used */
+  background-image: url("images/background_scaled.png");
+
+  /* Set a specific height */
+  height: 50vh;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  text-align: center;
+
+  .banner-container {
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align: middle;
+    width: 800px;
+  }
+
+  .banner {
+    border: 3px double black;
+  }
+}
+
+.parallax:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em;
+}
+
+.post-cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 0 15px;
+}
+
+.post {
+  a, a:visited {
+    color: #00a4c9;
+    text-decoration: none;
+  }
+}
+
+.post-link {
+  border-radius: 1em;
+  background: $background-color;
+  font-style: italic;
+  font-weight: 200;
+  margin: -30px 20px;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  z-index: 10;
+}
+
+.post-categories {
+  color: #00a4c9;
+  text-align: center;
+  padding: 10px;
+}
+
+.post-meta {
+  color: lighten($text-color, 30%);
+  padding: 40px 0 10px;
+  text-align: center;
+}
+
+.post-meta::after {
+  content: "";
+  width: 120px;
+  height: 1px;
+  background: #00a4c9;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
