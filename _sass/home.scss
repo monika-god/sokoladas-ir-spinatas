@@ -1,35 +1,31 @@
-.parallax {
-  /* The image used */
-  background-image: url("images/background_scaled.png");
+.banner-container {
+  height: 40vh;
+  margin-right: auto;
+  margin-left: auto;
+  vertical-align: middle;
 
-  /* Set a specific height */
-  height: 50vh;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position-x: center;
-  background-repeat: no-repeat;
-  text-align: center;
-
-  .banner-container {
-    display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
-    vertical-align: middle;
-    width: 800px;
+  @include media-query($on-laptop) {
+    height: 30vh;
   }
 
-  .banner {
-    border: 3px double black;
+  @include media-query($on-palm) {
+    height: 20vh;
   }
 }
 
-.parallax:before {
-  content: '';
-  display: inline-block;
-  height: 100%;
-  vertical-align: middle;
-  margin-right: -0.25em;
+.banner {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 800px;
+
+  @include media-query($on-laptop) {
+    max-width: 600px;
+  }
+
+  @include media-query($on-palm) {
+    max-width: 500px;
+  }
 }
 
 .post-cover {
@@ -39,18 +35,9 @@
   padding: 0 0 15px;
 }
 
-.post {
-  a, a:visited {
-    color: #00a4c9;
-    text-decoration: none;
-  }
-}
-
 .post-link {
-  border-radius: 1em;
-  background: $background-color;
-  font-style: italic;
-  font-weight: 200;
+  background: transparentize($background-color, 0.1);
+  font-variant: small-caps;
   margin: -30px 20px;
   position: relative;
   text-decoration: none;
@@ -59,7 +46,7 @@
 }
 
 .post-categories {
-  color: #00a4c9;
+  color: $primary-color;
   text-align: center;
   padding: 10px;
 }
@@ -74,7 +61,7 @@
   content: "";
   width: 120px;
   height: 1px;
-  background: #00a4c9;
+  background: $primary-color;
   display: block;
   margin-left: auto;
   margin-right: auto;
