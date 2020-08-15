@@ -17,15 +17,6 @@
   display: block;
   margin-right: auto;
   margin-left: auto;
-  max-width: 800px;
-
-  @include media-query($on-laptop) {
-    max-width: 600px;
-  }
-
-  @include media-query($on-palm) {
-    max-width: 500px;
-  }
 }
 
 .post-cover {
@@ -69,6 +60,6 @@
 
 .post-list {
   .post {
-    margin: 0 0 15px;  
+    margin: 0 0 15px;
   }
 }
