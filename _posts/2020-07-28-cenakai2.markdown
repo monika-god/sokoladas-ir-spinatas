@@ -2,7 +2,7 @@
 layout: post
 title:  "Čenakai"
 date:   2020-07-28 18:44:05 +0300
-cover: assets/post-images/2020-07-28-cenakai/cover.jpg
+cover: assets/media/2020-07-28-cenakai/cover.jpg
 categories: pagrindiniai žiemos
 ---
 
@@ -17,7 +17,7 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 * 800 g. jautienos kumpinės
 * Aliejus kepimui
 
-![Produktai]({{ 'assets/post-images/2020-07-28-cenakai/produktai.jpg' | relative_url }})
+![Produktai]({{ 'assets/media/2020-07-28-cenakai/produktai.jpg' | relative_url }})
 
 **Prieskoniai:**
 * 6 skiltelės česnako
@@ -28,7 +28,7 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 * Pipirai pagal skonį
 * Druska pagal skonį
 
-![Prieskoniai]({{ 'assets/post-images/2020-07-28-cenakai/prieskoniai.jpg' | relative_url }})
+![Prieskoniai]({{ 'assets/media/2020-07-28-cenakai/prieskoniai.jpg' | relative_url }})
 
 Patiekimui:
 

@@ -1,9 +1,9 @@
 # Prose.io Config
 prose:
-  rooturl: "_posts"
   siteurl: 'https://monika-god.github.io/sokoladas-ir-spinatas'
   relativeLinks: 'https://monika-god.github.io/sokoladas-ir-spinatas/links.jsonp'
-  media: 'assests/media'
+  media: 'assets/media'
+  ignore: ['_config.yml', '_prose.yml']
   metadata:
     _posts:
       - name: "published"
@@ -30,9 +30,14 @@ prose:
         field:
           element: "hidden"
           value: "Monika Godelienė"
-      - name: "tags"
+      - name: "cover"
+        field:
+          element: "text"
+          label: "Cover image URL"
+          placeholder: "Enter URL"
+      - name: "categories"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Add Tags"
+          label: "Add Categories"
+          placeholder: "Add Categories"
           alterable: true
