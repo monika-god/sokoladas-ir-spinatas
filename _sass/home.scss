@@ -1,19 +1,17 @@
 .banner-container {
-  height: 40vh;
   margin-right: auto;
   margin-left: auto;
   vertical-align: middle;
-
-  @include media-query($on-laptop) {
-    height: 30vh;
-  }
-
-  @include media-query($on-palm) {
-    height: 20vh;
-  }
 }
 
 .banner {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.kredo {
+  margin-top: -7%;
   display: block;
   margin-right: auto;
   margin-left: auto;
