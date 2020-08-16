@@ -22,10 +22,14 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 * 800 g. jautienos kumpinės
 * Aliejus kepimui
 
+<div class="row">
+  <div class="six columns" markdown="1">
 ![ingridientai cenakai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/ingridientai%20cenakai.jpg)
-
-
+  </div>
+  <div class="six columns" markdown="1">
 ![mesa.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/mesa.jpg)
+  </div>
+</div>
 
 **Prieskoniai:**
 * 6 skiltelės česnako
@@ -43,7 +47,7 @@ Patiekimui:
 * Šviežios kalendros
 * Citrinos (nebūtina)
 
-Supjaustome jautienos kumpinę didesniais gabalėliais. 
+Supjaustome jautienos kumpinę didesniais gabalėliais.
 
 ![mesa gabaleliais.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/mesa%20gabaleliais.jpg)
 
@@ -73,7 +77,7 @@ Papriką bei baklažaną pašlakstome aliejumi, pabarstome druska bei pipirais. 
 
 ![darzoves prieskoniai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
 
-Pradedame produktų sluoksniavimą čenakinėse. Ant dugno dedame jautienos kumpinę su 2 česnako skiltelėmis. 
+Pradedame produktų sluoksniavimą čenakinėse. Ant dugno dedame jautienos kumpinę su 2 česnako skiltelėmis.
 Toliau dedame bulves, 3 ketvirčius svogūno, paprikos skilteles bei baklažano kubelius. Ant viršaus pilame pomidorų sultis bei uždedame kelis vyšninius pomidoriukus.
 
 ![Sluoksnis1.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/Sluoksnis1.jpg)

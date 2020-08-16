@@ -26,7 +26,7 @@ Iš karto prisipažįstu, jog tai yra pirmoji mano virta uogienė. Paprasčiausi
 
 ![ingridientai.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/ingridientai.jpg)
 
-Nuplauname braškes ir rabarbarus. Pastaruosius dar ir nulupame. Vaisius supjaustome ir dedame į puodą. 
+Nuplauname braškes ir rabarbarus. Pastaruosius dar ir nulupame. Vaisius supjaustome ir dedame į puodą.
 
 ![ingridientai_puode_2.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/ingridientai_puode_2.jpg)
 
@@ -34,10 +34,15 @@ Užpilame vaisius putojančiu vynu (naudojau prossecco), citrinos sultimis ir va
 
 Patikrinti ar uogienė patkankamai tiršta galima įdėjus jos šiek tiek į lėkštę, atšaldžius ir perbraukus pirštu per ją. Jei uogienė nesubėga atgal į bendrą masę, vadinasi galima nuimti nuo ugnies ir pilstyti į turimas taras.
 
+
+<div class="row">
+  <div class="four columns" markdown="1">
 ![patepimas.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/patepimas.jpg)  
-
-
+  </div>
+  <div class="four columns" markdown="1">
 ![patepimas_2.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/patepimas_2.jpg)  
-
-
+  </div>
+  <div class="four columns" markdown="1">
 ![patepimas_3.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/patepimas_3.jpg)
+  </div>
+</div>
