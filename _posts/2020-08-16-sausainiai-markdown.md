@@ -55,14 +55,6 @@ Skanaus!
     
 ![sausainis leksteleje.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis%20leksteleje.jpg)  
     
-![sausainiao patiekimas2.jpg]({{site.baseurl}}/assets/media/2020-08-16 sausianiai/sausainiao%20patiekimas2.jpg)
-
-![sausainiai1.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainiai1.jpg)
-
-
-![sausainis leksteleje.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis%20leksteleje.jpg)
-
-
-![sausainiao patiekimas2.jpg]({{site.baseurl}}/assets/media/2020-08-16 sausianiai/sausainiao%20patiekimas2.jpg)
+![sausainiao patiekimas2.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainiao%20patiekimas2.jpg)
 
 Įkvėpimas iš blogo https://www.savoringitaly.com/.
