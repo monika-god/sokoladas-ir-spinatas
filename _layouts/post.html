@@ -25,9 +25,9 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
-  <p class="post-categories">
-    {% for category in page.categories %}
-      {{ category }}
+  <p class="post-tags">
+    {% for tag in page.tags %}
+      {{ tag }}
       {% if forloop.last != true %}
         &nbsp;/&nbsp;
       {% endif %}

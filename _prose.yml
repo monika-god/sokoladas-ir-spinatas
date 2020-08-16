@@ -31,10 +31,10 @@ prose:
           element: "text"
           label: "Cover image URL"
           placeholder: "Enter URL"
-      - name: "categories"
+      - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Categories"
-          placeholder: "Add Categories"
+          label: "Add Tags"
+          placeholder: "Add Tags"
           alterable: true
-          options: 'https://monika-god.github.io/sokoladas-ir-spinatas/categories.jsonp?callback=categories'
+          options: 'https://monika-god.github.io/sokoladas-ir-spinatas/tags.jsonp?callback=tags'
