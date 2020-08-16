@@ -1,12 +1,14 @@
 ---
+author: Monika Godelienė
 layout: post
-title:  "Čenakai"
-author: "Monika Godelienė"
-date:   2020-07-28 18:44:05 +0300
-cover: assets/media/2020-07-28-cenakai/cover.jpg
+title: Čenakai
+date: '2020-07-28 18:44:05 +0300'
+cover: assets/media/2020-07-28-cenakai/cenakai.jpg
 tags:
   - pagrindiniai
-  - žiemos
+  - pietūs
+  - žiemos patiekalai
+published: true
 ---
 
 Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip visad norėjosi ko nors lengvesnio bei su daug daržovių. Taip mūsų namuose atsirado šie čenakai. Taigi laikas traukti seniai užmirštas, per mamos vestuves ar močiutės jubiliejų gautas čenakines bei pradėti ruošti šeštadienio pietus!
@@ -20,7 +22,10 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 * 800 g. jautienos kumpinės
 * Aliejus kepimui
 
-![Produktai]({{ 'assets/media/2020-07-28-cenakai/produktai.jpg' | relative_url }})
+![ingridientai cenakai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/ingridientai%20cenakai.jpg)
+
+
+![mesa.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/mesa.jpg)
 
 **Prieskoniai:**
 * 6 skiltelės česnako
@@ -31,22 +36,64 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 * Pipirai pagal skonį
 * Druska pagal skonį
 
-![Prieskoniai]({{ 'assets/media/2020-07-28-cenakai/prieskoniai.jpg' | relative_url }})
+![darzoves prieskoniai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
 
 Patiekimui:
 
 * Šviežios kalendros
 * Citrinos (nebūtina)
 
-Supjaustome jautienos kumpinę didesniais gabalėliais. Taip pat pasiruošiame ir stambesniais gabalėliais supjaustome bulves, baklažaną bei papriką. Svogūnus pjaustome ketvirčiais.
+Supjaustome jautienos kumpinę didesniais gabalėliais. 
+
+![mesa gabaleliais.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/mesa%20gabaleliais.jpg)
+
+Taip pat pasiruošiame ir stambesniais gabalėliais supjaustome bulves, baklažaną bei papriką. Svogūnus pjaustome ketvirčiais.
+
+![baklazanas.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/baklazanas.jpg)
+
+
+![bulves.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/bulves.jpg)
+
+
+![paprika.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/paprika.jpg)
+
+
+![svogunai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/svogunai.jpg)
+
+
 Įkaitiname kepuvėje aliejų ir dedame kepti jautieną. Šiek tiek apkepus mėsai, sudedame prieskonius - kelendrą, kuminą, papriką, pipirą, druską bei česnaką. Mėsą pakepame dar kelias minutes, kol viskas pasidengia prieskoniais.
 
+![kepta mesa.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/kepta%20mesa.jpg)
+
 Išimame jautieną ir česnakus. Į tą pačią keptuvę su prieskoniais sudedame bulves, papildomai pabarstome pipirų bei druskos. Apkepiname bulves, kol viskas pasidenks tolygiai prieskoniais.
+
+![keptos bulves.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/keptos%20bulves.jpg)
+
 Papriką bei baklažaną pašlakstome aliejumi, pabarstome druska bei pipirais. Viską gerai išmaišome, kad daržovės pasidengtų prieskoniais.
 
-Pradedame produktų sluoksniavimą čenakinėse. Ant dugno dedame jautienos kumpinę su 2 česnako skiltelėmis. Toliau dedame bulves, 3 ketvirčius svogūno, paprikos skilteles bei baklažano kubelius. Ant viršaus pilame pomidorų sultis bei uždedame kelis vyšninius pomidoriukus.
-Įkaitiname orkaitę iki 180 laipsnių. Įkaitus orkaitei dedame šaltus čenakus kepti 1 val. 30 min. Svarbu! Čenakus dedame tik į jau įkaitusią orkaitę, kitu atveju čenakinės kaitinamos kartu su šylančia orkaite gali skilti, sutrūkinėti.
+![darzoves prieskoniai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
+
+Pradedame produktų sluoksniavimą čenakinėse. Ant dugno dedame jautienos kumpinę su 2 česnako skiltelėmis. 
+Toliau dedame bulves, 3 ketvirčius svogūno, paprikos skilteles bei baklažano kubelius. Ant viršaus pilame pomidorų sultis bei uždedame kelis vyšninius pomidoriukus.
+
+![Sluoksnis1.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/Sluoksnis1.jpg)
+
+
+![sluoksnis2.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis2.jpg)
+
+
+![sluoksnis3.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis3.jpg)
+
+
+![sluoksnis4.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis4.jpg)
+
+
+![sluoksnis5.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis5.jpg)
+
+Įkaitiname orkaitę iki 180 laipsnių. Įkaitus orkaitei dedame šaltus čenakus kepti 1 val. 30 min. Svarbu! Čenakus šaltus dedame tik į jau įkaitusią orkaitę, kitu atveju čenakinės kaitinamos kartu su šylančia orkaite gali skilti, sutrūkinėti.
 
 Po 1 val. 30 min. ištraukiame čenakus. Papuošiame kapotais kelendros lapeliais (ir citrinos griežinėliu). Svarbu! Neskubėkite valgyti, nes troškinys labai karštas.
 
 Skanaus!
+
+![cenakai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/cenakai.jpg)
