@@ -6,9 +6,9 @@ date: '2020-08-16 18:13 +0300'
 title: Itališki S formos sausainiai
 cover: assets/media/2020-08-16-sausianiai/sausainiai%20patiekimas.jpg
 tags:
-  - saldumynai
-  - užkandžiai
   - sausainiai
+  - užkandžiai
+  - saldumynai
 ---
 Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati.
 
@@ -38,17 +38,31 @@ Gumulą dedame į šaldymo kamerą ~30 min.
 
 Toliau seka linksmiausia dalis - sausainių formavimas. Atlaužiame gabalėlį tešlos, kočiojame jį iki ~sprindžio ilgio ir formuojame S raidę.
 
-![sausainis1.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis1.jpg)
-
-
+<div class="row">
+  <div class="four columns" markdown="1">
+![sausainis1.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis1.jpg) 
+  </div>
+  <div class="four columns" markdown="1">
 ![sausainis2.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis2.jpg)
-
-
+  </div>
+  <div class="four columns" markdown="1">
 ![sausainiai nekepti.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainiai%20nekepti.jpg)
+  </div>
+</div>
 
 Įkaitiname orkaitę iki ~180 laipsnių. Kepame sausainius 13-15 min. arba kol lengvai įrus. Svarbu! Sausainiai skaniausi su arbata. :)
 
 Skanaus!
+
+<div class="row">
+  <div class="four columns" markdown="1">
+![sausainiai1.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainiai1.jpg)
+  </div>
+  <div class="four columns" markdown="1">
+![sausainis leksteleje.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis%20leksteleje.jpg)  </div>
+  <div class="four columns" markdown="1">
+![sausainiao patiekimas2.jpg]({{site.baseurl}}/assets/media/2020-08-16 sausianiai/sausainiao%20patiekimas2.jpg)  </div>
+</div>
 
 ![sausainiai1.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainiai1.jpg)
 
@@ -56,6 +70,6 @@ Skanaus!
 ![sausainis leksteleje.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainis%20leksteleje.jpg)
 
 
-![sausainiao patiekimas2.jpg]({{site.baseurl}}/assets/media/2020-08-16-sausianiai/sausainiao%20patiekimas2.jpg)
+![sausainiao patiekimas2.jpg]({{site.baseurl}}/assets/media/2020-08-16 sausianiai/sausainiao%20patiekimas2.jpg)
 
 Įkvėpimas iš blogo https://www.savoringitaly.com/.
