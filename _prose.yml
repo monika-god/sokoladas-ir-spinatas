@@ -17,11 +17,6 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Enter title of the Article"
-          placeholder: "Enter Title"
       - name: "date"
         field:
           element: "text"
@@ -42,3 +37,4 @@ prose:
           label: "Add Categories"
           placeholder: "Add Categories"
           alterable: true
+          options: 'https://monika-god.github.io/sokoladas-ir-spinatas/categories.jsonp?callback=categories'

@@ -1,0 +1,7 @@
+---
+---
+categories([
+{% for category in site.categories reversed | sort %}
+  "{{ category[0] }}"{% unless forloop.last %},{% endunless%}
+{% endfor %}
+])
