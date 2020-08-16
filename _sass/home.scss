@@ -11,10 +11,14 @@
 }
 
 .kredo {
-  margin-top: -7%;
+  margin-top: -4%;
   display: block;
   margin-right: auto;
   margin-left: auto;
+
+  @include media-query(1920px) {
+    margin-top: -7%;
+  }
 }
 
 .post-cover {
