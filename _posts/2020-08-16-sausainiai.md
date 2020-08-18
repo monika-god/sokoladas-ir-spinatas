@@ -22,6 +22,7 @@ Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formo
 * 1 a. š. kepimo miltelių
 * Vienos citrinos žievelė
 
+
 ![sausainiai produktai.jpg](/sokoladas-ir-spinatas/assets/media/2020-08-16-sausianiai/sausainiai%20produktai.jpg)
 
 Ištirpiname sviestą. Kiaušinius išplakame su cukrumi. Supilame tirpintą sviestą, vanilės ekstraktą bei citrinos žievelę. Į gautą masę suberiame birius produktus - miltus ir kepimo miltelius.
