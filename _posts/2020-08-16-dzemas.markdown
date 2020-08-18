@@ -24,11 +24,11 @@ Iš karto prisipažįstu, jog tai yra pirmoji mano virta uogienė. Paprasčiausi
 * 1 medinis šaukštas
 * 1 skambutis mamai
 
-![ingridientai.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/ingridientai.jpg)
+![ingridientai.jpg](/sokoladas-ir-spinatas/assets/media/2020-08-16-dzemas/ingridientai.jpg)
 
 Nuplauname braškes ir rabarbarus. Pastaruosius dar ir nulupame. Vaisius supjaustome ir dedame į puodą.
 
-![ingridientai_puode_2.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/ingridientai_puode_2.jpg)
+![ingridientai_puode_2.jpg](/sokoladas-ir-spinatas/assets/media/2020-08-16-dzemas/ingridientai_puode_2.jpg)
 
 Užpilame vaisius putojančiu vynu (naudojau prossecco), citrinos sultimis ir vanile. Masei pradėjus konkuliuoti viską nekruopščiai sublenderiuoju palikdama dar nemažai vaisių gabalėlių. Verdame ant mažos ugnies 15-20 min. Skambutis mamai, ką daryti, kad uogienė greičiau imtų tirštėti. Patarimas - atšaldyti ir užvirti dar kartą. Taip ir padarome. Antrą kartą užvirus verdame tol, kol masė atrodys pakankamai tiršta (~15 min.)
 
@@ -37,12 +37,12 @@ Patikrinti ar uogienė patkankamai tiršta galima įdėjus jos šiek tiek į lė
 
 <div class="row">
   <div class="four columns" markdown="1">
-![patepimas.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/patepimas.jpg)  
+![patepimas.jpg](/sokoladas-ir-spinatas/assets/media/2020-08-16-dzemas/patepimas.jpg)  
   </div>
   <div class="four columns" markdown="1">
-![patepimas_2.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/patepimas_2.jpg)  
+![patepimas_2.jpg](/sokoladas-ir-spinatas/assets/media/2020-08-16-dzemas/patepimas_2.jpg)  
   </div>
   <div class="four columns" markdown="1">
-![patepimas_3.jpg]({{site.baseurl}}/assets/media/2020-08-16-dzemas/patepimas_3.jpg)
+![patepimas_3.jpg](/sokoladas-ir-spinatas/assets/media/2020-08-16-dzemas/patepimas_3.jpg)
   </div>
 </div>

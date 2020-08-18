@@ -24,10 +24,10 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 
 <div class="row">
   <div class="six columns" markdown="1">
-![ingridientai cenakai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/ingridientai%20cenakai.jpg)
+![ingridientai cenakai.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/ingridientai%20cenakai.jpg)
   </div>
   <div class="six columns" markdown="1">
-![mesa.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/mesa.jpg)
+![mesa.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/mesa.jpg)
   </div>
 </div>
 
@@ -40,7 +40,7 @@ Paprastai čenakus atsimenu kaip riebų mėsos ir bulvių patiekalą. Mums kaip 
 * Pipirai pagal skonį
 * Druska pagal skonį
 
-![darzoves prieskoniai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
+![darzoves prieskoniai.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
 
 Patiekimui:
 
@@ -49,50 +49,50 @@ Patiekimui:
 
 Supjaustome jautienos kumpinę didesniais gabalėliais.
 
-![mesa gabaleliais.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/mesa%20gabaleliais.jpg)
+![mesa gabaleliais.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/mesa%20gabaleliais.jpg)
 
 Taip pat pasiruošiame ir stambesniais gabalėliais supjaustome bulves, baklažaną bei papriką. Svogūnus pjaustome ketvirčiais.
 
-![baklazanas.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/baklazanas.jpg)
+![baklazanas.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/baklazanas.jpg)
 
 
-![bulves.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/bulves.jpg)
+![bulves.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/bulves.jpg)
 
 
-![paprika.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/paprika.jpg)
+![paprika.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/paprika.jpg)
 
 
-![svogunai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/svogunai.jpg)
+![svogunai.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/svogunai.jpg)
 
 
 Įkaitiname kepuvėje aliejų ir dedame kepti jautieną. Šiek tiek apkepus mėsai, sudedame prieskonius - kelendrą, kuminą, papriką, pipirą, druską bei česnaką. Mėsą pakepame dar kelias minutes, kol viskas pasidengia prieskoniais.
 
-![kepta mesa.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/kepta%20mesa.jpg)
+![kepta mesa.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/kepta%20mesa.jpg)
 
 Išimame jautieną ir česnakus. Į tą pačią keptuvę su prieskoniais sudedame bulves, papildomai pabarstome pipirų bei druskos. Apkepiname bulves, kol viskas pasidenks tolygiai prieskoniais.
 
-![keptos bulves.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/keptos%20bulves.jpg)
+![keptos bulves.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/keptos%20bulves.jpg)
 
 Papriką bei baklažaną pašlakstome aliejumi, pabarstome druska bei pipirais. Viską gerai išmaišome, kad daržovės pasidengtų prieskoniais.
 
-![darzoves prieskoniai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
+![darzoves prieskoniai.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/darzoves%20prieskoniai.jpg)
 
 Pradedame produktų sluoksniavimą čenakinėse. Ant dugno dedame jautienos kumpinę su 2 česnako skiltelėmis.
 Toliau dedame bulves, 3 ketvirčius svogūno, paprikos skilteles bei baklažano kubelius. Ant viršaus pilame pomidorų sultis bei uždedame kelis vyšninius pomidoriukus.
 
-![Sluoksnis1.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/Sluoksnis1.jpg)
+![Sluoksnis1.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/Sluoksnis1.jpg)
 
 
-![sluoksnis2.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis2.jpg)
+![sluoksnis2.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/sluoksnis2.jpg)
 
 
-![sluoksnis3.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis3.jpg)
+![sluoksnis3.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/sluoksnis3.jpg)
 
 
-![sluoksnis4.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis4.jpg)
+![sluoksnis4.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/sluoksnis4.jpg)
 
 
-![sluoksnis5.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/sluoksnis5.jpg)
+![sluoksnis5.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/sluoksnis5.jpg)
 
 Įkaitiname orkaitę iki 180 laipsnių. Įkaitus orkaitei dedame šaltus čenakus kepti 1 val. 30 min. Svarbu! Čenakus šaltus dedame tik į jau įkaitusią orkaitę, kitu atveju čenakinės kaitinamos kartu su šylančia orkaite gali skilti, sutrūkinėti.
 
@@ -100,4 +100,4 @@ Po 1 val. 30 min. ištraukiame čenakus. Papuošiame kapotais kelendros lapeliai
 
 Skanaus!
 
-![cenakai.jpg]({{site.baseurl}}/assets/media/2020-07-28-cenakai/cenakai.jpg)
+![cenakai.jpg](/sokoladas-ir-spinatas/assets/media/2020-07-28-cenakai/cenakai.jpg)
