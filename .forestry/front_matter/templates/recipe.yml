@@ -4,19 +4,31 @@ hide_body: false
 fields:
 - type: text
   name: author
-  label: author
+  label: Author
+  hidden: true
+  default: Monika Godelienė
+  config:
+    required: true
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  default: post.html
+  config:
+    required: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+  default: now
+  config:
+    required: true
 - type: file
   name: cover
-  label: cover
-- type: list
-  name: tags
-  label: tags
+  label: Cover
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
