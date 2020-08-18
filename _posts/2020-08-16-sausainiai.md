@@ -12,7 +12,7 @@ tags:
 ---
 Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati.
 
-**Ingridientai:**
+**Ingredientai:**
 
 * 580 g. miltų
 * 155 g. sviesto
