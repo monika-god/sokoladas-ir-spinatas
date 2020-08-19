@@ -23,9 +23,9 @@ email: labas@sokoladasirspinatas.lt
 author: Monika Godelienė
 description: >- # this means to ignore newlines until "baseurl:"
   Apie maistą žingsnis po žingsnio.
-url: "www.sokoladasirspinatas.lt" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: 'sokoladas-ir-spinatas'
-instagram_username:  'sokoladas-ir-spinatas'
+url: "https://sokoladasirspinatas.lt" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: 'sokoladasirspinatas.lt'
+instagram_username:  'sokoladasirspinatas.lt'
 show_excerpts: true
 
 # Build settings
