@@ -53,7 +53,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-![](assets/media/2020-08-20/img_20200820_113800_bokeh_2.jpg) 
+![](assets/media/2020-08-20/img_20200820_113800_bokeh_2.jpg)
 
 </div>
 
@@ -67,4 +67,6 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 Vuolia! Patiekalas paruoštas. :)
 
-Skanaus!
+Skanaus!  
+  
+![](assets/media/2020-08-20/img_20200820_114315_bokeh-2.jpg)
