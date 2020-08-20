@@ -7,7 +7,7 @@ title: Daržovių sriuba su moliūgu ir brokoliu
 cover: "/assets/media/2020-08-20/img_20200820_184409_bokeh-2.jpg"
 
 ---
-Kai norsi kažko komfortiško ir šildančio šaltą, niūrų vakarą kepuosi obuolių pyragą arba verdu daržovių sriubą. Šį kartą šaldytuve turėjau moliūgo gabalėlį ir brokolių. Taigi gavosi visiškai paprasta, greitai paruošiama, šildanti sriuba. :)
+Kai norsi kažko komfortiško vėsų, niūrų vakarą kepuosi obuolių pyragą arba verdu daržovių sriubą. Šį kartą šaldytuve turėjau moliūgo gabalėlį ir brokolių. Taigi gavosi visiškai paprasta, greitai paruošiama, šildanti sriuba. :)
 
 **Produktai:**
 
