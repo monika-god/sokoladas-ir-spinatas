@@ -29,7 +29,7 @@ Daržoves nulupame ir supjaustome mažais kubeliais. Įkatiname keptuvę su svie
 
 ![](/assets/media/2020-08-20/img_20200820_180754_bokeh-2.jpg)
 
-Į puodą pilame sultinį ir dedame kubeliais pjaustytas bulves. Sultiniui užvirus sudedame kepintas daržoves ir verdame 20 min.
+Į puodą pilame daržovių ar vištienos sultinį ir sudedame kubeliais pjaustytas bulves. Sultiniui užvirus sudedame kepintas daržoves ir verdame 20 min.
 
 ![](/assets/media/2020-08-20/img_20200820_181028_bokeh-2.jpg)
 
