@@ -11,6 +11,7 @@ Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nu
 
 **Ingridientai:**
 
+* Cannelloni
 * 500 g. moliūgo
 * 800 ml. konservuotų pomidorų
 * 150 ml. 35% grietinėlės
