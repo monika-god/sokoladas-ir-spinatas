@@ -41,7 +41,7 @@ Iškeptą moliūgą trintuvo pagalba sumalame kartu su rikota. Įdedame druskos 
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-20/img_20200818_160403_bokeh_2.jpg) 
+![](/assets/media/2020-08-20/img_20200818_160403_bokeh_2.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![](/assets/media/2020-08-20/cannelonni_prikimsti.jpg)
@@ -65,4 +65,7 @@ Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą
 
 Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min.
 
-Skanaus!
+Skanaus!  
+  
+![](/assets/media/2020-08-20/canneloni_paruosta2.jpg)  
+![](/assets/media/2020-08-20/cannelloni_gabalelis.jpg)
