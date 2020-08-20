@@ -23,7 +23,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 * Pipirai
 * Šviežas bazilikas (nebūtina, bet labai rekomenduotina)
 
-![](assets/media/2020-08-20/img_20200820_111633_bokeh-2.jpg)
+![](/assets/media/2020-08-20/img_20200820_111633_bokeh-2.jpg)
 
 Į verdantį vandenį sudedame makaronus. Verdame \~8 min. Į dar šiltus makaronus dedame turimą/norimą tarkuotą sūrį, mocarelos rutuliukus, saulėje džiovintus pomidorus, pipirus, baziliką, šiek tiek aliejaus iš saulėje džiovintų pomidorų stiklainiuko ir viską išmaišome. Gaunasi 2 porcijos.
 
@@ -31,13 +31,13 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-![](assets/media/2020-08-20/img_20200820_113701_bokeh-2.jpg)
+![](/assets/media/2020-08-20/img_20200820_113701_bokeh-2.jpg)
 
 </div>
 
 <div class="six columns" markdown="1">
 
-![](assets/media/2020-08-20/img_20200820_113745_bokeh-2.jpg)
+![](/assets/media/2020-08-20/img_20200820_113745_bokeh-2.jpg)
 
 </div>
 
@@ -47,13 +47,13 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-![](assets/media/2020-08-20/img_20200820_113800_bokeh_2.jpg)
+![](/assets/media/2020-08-20/img_20200820_113800_bokeh_2.jpg)
 
 </div>
 
 <div class="six columns" markdown="1">
 
-![](assets/media/2020-08-20/img_20200820_113821_bokeh-2.jpg)
+![](/assets/media/2020-08-20/img_20200820_113821_bokeh-2.jpg)
 
 </div>
 
@@ -63,4 +63,4 @@ Vuolia! Patiekalas paruoštas. :)
 
 Skanaus!
 
-![](assets/media/2020-08-20/img_20200820_114315_bokeh-2.jpg)
+![](/assets/media/2020-08-20/img_20200820_114315_bokeh-2.jpg)
