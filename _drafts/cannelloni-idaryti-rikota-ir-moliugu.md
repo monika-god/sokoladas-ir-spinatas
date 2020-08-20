@@ -21,28 +21,30 @@ Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nu
 * Druska
 * Pipirai
 
-![](assets/media/2020-08-20/cannelloni_ingridientai.jpg)  
-  
+![](assets/media/2020-08-20/cannelloni_ingridientai.jpg)
+
 Visų pirmą turime iškepti moliūgą. Pastarąjį pašlakstome aliejumi, pabarstome druska, pipirais ir dedame į 180 laipsnių įkaitintą orkaitę. Kepame 30 min.
 
-Iškeptą moliūgą trintuvo pagalba sumalame kartu su rikota. Įdedame druskos ir pipirų pagal skonį.  
-  
+Iškeptą moliūgą trintuvo pagalba sumalame kartu su rikota. Įdedame druskos ir pipirų pagal skonį.
+
 ![](assets/media/2020-08-20/cannelloni_rikota_moliugas.jpg)  
 ![](assets/media/2020-08-20/cannelloni_sumalta.jpg)
 
 Įdarome Cannelloni. Pastarųjų virti nereikia. Aš juos įdarinėjau su konditeriniu švirkštu. Seniau įdarydavau naudodama ilgesnį šaukštelį, kurio plonesnės dalies pagalba, kimšdavau įdarą.  
   
+![](assets/media/2020-08-20/img_20200818_160403_bokeh_2.jpg)  
 ![](assets/media/2020-08-20/cannelonni_prikimsti.jpg)
 
 Verdame padažą. Pakaitinam pomidorus ir supilame vyną su grietinėle. Paverdame, kol skystis šiek tiek nugaruos. Dedame druskos, pipirų bei šviežio basiliko pagal skonį.  
-Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą orkaitę 20 min.  
-  
+Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą orkaitę 20 min.
+
 ![](assets/media/2020-08-20/cannelloni_padazas.jpg)  
-![](assets/media/2020-08-20/cannelloni_padazas2.jpg)
+![](assets/media/2020-08-20/cannelloni_padazas2.jpg)  
+![](assets/media/2020-08-20/canneloni_paruosta.jpg)
 
 Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min.
 
-Skanaus!  
-  
+Skanaus!
+
 ![](assets/media/2020-08-20/canneloni_paruosta2.jpg)  
 ![](assets/media/2020-08-20/cannelloni_gabalelis.jpg)
