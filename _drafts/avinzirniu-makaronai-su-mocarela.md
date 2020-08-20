@@ -25,7 +25,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 ![](assets/media/2020-08-20/img_20200820_111633_bokeh-2.jpg)
 
-Į verdantį vandenį sudedame makaronus. Verdame \~8 min. Į dar šiltus makaronus dedame turimą/norimą tarkuotą sūrį, mocarella rutuliukus, saulėje džiovintus pomidorus, pipirus, baziliką, šiek tiek saulėje džiovintų pomidorų aliejaus ir viską išmaišome.
+Į verdantį vandenį sudedame makaronus. Verdame \~8 min. Į dar šiltus makaronus dedame turimą/norimą tarkuotą sūrį, mocarelos rutuliukus, saulėje džiovintus pomidorus, pipirus, baziliką, šiek tiek saulėje džiovintų pomidorų aliejaus ir viską išmaišome.
 
 <div class="row">
 
