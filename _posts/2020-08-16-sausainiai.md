@@ -10,7 +10,7 @@ tags:
 - saldumynai
 
 ---
-Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati.
+Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati. Citrininiai ir tirpstantys burnoje. Mmmm... :)
 
 **Ingredientai:**
 
@@ -21,7 +21,6 @@ Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formo
 * 1 a. š. vanilės ekstrakto
 * 1 a. š. kepimo miltelių
 * Vienos citrinos žievelė
-
 
 ![sausainiai produktai.jpg](/assets/media/2020-08-16-sausianiai/sausainiai%20produktai.jpg)
 
