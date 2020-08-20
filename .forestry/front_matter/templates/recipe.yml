@@ -12,8 +12,8 @@ fields:
 - type: text
   name: layout
   label: Layout
-  hidden: true
-  default: post.html
+  hidden: false
+  default: post
   config:
     required: true
 - type: text
