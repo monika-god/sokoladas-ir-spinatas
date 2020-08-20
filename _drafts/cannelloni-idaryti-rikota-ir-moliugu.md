@@ -7,3 +7,38 @@ title: Cannelloni įdaryti rikota ir moliūgu
 cover: assets/media/2020-08-20/cannelloni_gabalelis.jpg
 
 ---
+Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Pastaruosius įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau rikotos ir moliūgo įdarą.
+
+Ingridientai:
+
+500 g. moliūgo
+
+800 ml. konservuotų pomidorų 
+
+150 ml. 35% grietinėlės
+
+\~100 ml. baltojo vyno
+
+500 g. rikotos sūrio
+
+\~120 g. fermentinio sūrio
+
+Šviežias bazilikas
+
+Druska
+
+Pipirai
+
+Visų pirmą turime iškepti moliūgą. Pastarąjį pašlakstome aliejumi, pabarstome druska, pipirais ir dedame į 180 laipsnių įkaitintą orkaitę. Kepame 30 min.
+
+Iškeptą moliūgą blenderio paagalba sumalame kartu su rikota. Įdedame druskos ir pipirų pagal skonį.
+
+Įdarome Cannelloni. Aš juos įdarinėjau su konditeriniu švirkštu. Seniau įdarydavau naudodama ilgesnį šaukštelį, kurio plonesnės dalies pagalba, kimšdavau įdarą.
+
+Verdame padažą. Pakaitinam pomidorus ir supilame vyną su grietinėle. Paverdame, kol skystis šiek tiek nugaruos. Dedame druskos, pipirų bei šviežio basiliko pagal skonį.
+
+Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą orkaitę 20 min.
+
+Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min.
+
+Skanaus!
