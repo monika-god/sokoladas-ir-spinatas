@@ -37,22 +37,33 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-!\[kiausiniai\](/assets/media/2020-08-16-pyragas/kiausiniai_icukru.jpg)
+![](assets/media/2020-08-20/img_20200820_113701_bokeh-2.jpg)
 
 </div>
 
 <div class="six columns" markdown="1">
 
-!\[sviestas\](/assets/media/2020-08-16-pyragas/sviestas_imase.jpg)
+![](assets/media/2020-08-20/img_20200820_113745_bokeh-2.jpg)
 
 </div>
 
 </div>
 
-![](assets/media/2020-08-20/img_20200820_113701_bokeh-2.jpg)  
-![](assets/media/2020-08-20/img_20200820_113745_bokeh-2.jpg)  
-![](assets/media/2020-08-20/img_20200820_113800_bokeh_2.jpg)  
+<div class="row">
+
+<div class="six columns" markdown="1">
+
+![](assets/media/2020-08-20/img_20200820_113800_bokeh_2.jpg) 
+
+</div>
+
+<div class="six columns" markdown="1">
+
 ![](assets/media/2020-08-20/img_20200820_113821_bokeh-2.jpg)
+
+</div>
+
+</div>
 
 Vuolia! Patiekalas paruoštas. :)
 
