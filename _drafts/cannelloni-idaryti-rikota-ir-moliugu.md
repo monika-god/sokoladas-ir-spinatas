@@ -7,7 +7,7 @@ title: Cannelloni įdaryti rikota ir moliūgu
 cover: assets/media/2020-08-20/cannelloni_gabalelis.jpg
 
 ---
-Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Pastaruosius įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau rikotos ir moliūgo įdarą.
+Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Pastaruosius įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau maistingesnį variantą - rikotos ir moliūgo įdarą. :)
 
 **Ingridientai:**
 
@@ -65,7 +65,7 @@ Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą
 
 Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min.
 
-Skanaus!  
+Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
@@ -75,4 +75,3 @@ Skanaus!
 ![](/assets/media/2020-08-20/cannelloni_gabalelis.jpg)
 </div>
 </div>
- 
