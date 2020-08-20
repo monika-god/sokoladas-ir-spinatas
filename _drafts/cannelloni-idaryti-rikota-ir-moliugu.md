@@ -9,7 +9,7 @@ cover: assets/media/2020-08-20/cannelloni_gabalelis.jpg
 ---
 Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Pastaruosius įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau maistingesnį variantą - rikotos ir moliūgo įdarą. :)
 
-**Ingridientai:**
+**Produktai:**
 
 * Cannelloni
 * 500 g. moliūgo
