@@ -63,7 +63,7 @@ Užpilame įdarytus Cannelloni padažu ir šauname patiekalą į 180 laipsnių �
 </div>
 </div>
 
-Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min.
+Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min., kol sūris išsilydis.
 
 Skanaus!
 
