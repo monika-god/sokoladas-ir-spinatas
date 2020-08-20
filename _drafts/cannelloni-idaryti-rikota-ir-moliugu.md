@@ -66,6 +66,13 @@ Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą
 Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min.
 
 Skanaus!  
-  
-![](/assets/media/2020-08-20/canneloni_paruosta2.jpg)  
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-20/canneloni_paruosta2.jpg)
+</div>
+<div class="six columns" markdown="1">
 ![](/assets/media/2020-08-20/cannelloni_gabalelis.jpg)
+</div>
+</div>
+ 
