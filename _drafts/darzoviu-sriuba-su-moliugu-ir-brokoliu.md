@@ -23,8 +23,8 @@ Kai norsi kažko komfortiško ir šildančio šaltą, niūrų vakarą kepuosi ob
 * Pipirai
 * Petražolė (ar kitos mėgiamos žolelės)
 
-  ![](/assets/media/2020-08-20/img_20200820_175248_bokeh-2.jpg)
-
+![](/assets/media/2020-08-20/img_20200820_175248_bokeh_3.jpg)  
+  
 Daržoves nulupame ir supjaustome mažais kubeliais. Įkatiname keptuvę su sviestu ar aliejumi ir dedame kepti moliūgus. Po kelių minučių sudedame morkas ir svogūnus. Pakepiname daržoves \~10 min. Šiek tiek įdedame druskos. Prieš baigiant kepti įdedame smulkinto česnaką ir dar kelia minutes pakepiname kartu su daržovėmis.
 
 ![](/assets/media/2020-08-20/img_20200820_180754_bokeh-2.jpg)
@@ -35,8 +35,8 @@ Daržoves nulupame ir supjaustome mažais kubeliais. Įkatiname keptuvę su svie
 
 Supilame grietinėlę ir sutriname sriubą.
 
-![](/assets/media/2020-08-20/img_20200820_183829_bokeh-2.jpg)  
-  
+![](/assets/media/2020-08-20/img_20200820_183829_bokeh-2.jpg)
+
 Paverdame trintą sriubą dar 10 min. ir galime tiekti.
 
 Skanaus!
