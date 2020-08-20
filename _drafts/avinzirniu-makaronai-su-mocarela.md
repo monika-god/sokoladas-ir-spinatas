@@ -1,6 +1,6 @@
 ---
 author: Monika Godelienė
-layout: post.html
+layout: post
 date: 2020-08-20 14:13:10 +0300
 tags:
 - pagrindiniai
