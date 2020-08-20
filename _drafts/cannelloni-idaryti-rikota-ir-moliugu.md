@@ -49,7 +49,7 @@ Iškeptą moliūgą trintuvo pagalba sumalame kartu su rikota. Įdedame druskos 
 </div>
 
 Verdame padažą. Pakaitiname pomidorus ir supilame vyną su grietinėle. Paverdame, kol skystis šiek tiek nugaruos. Dedame druskos, pipirų bei šviežio basiliko pagal skonį.  
-Užpilame Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą orkaitę 20 min.
+Užpilame įdarytus Cannelloni padažu ir šauname patiekalą į 180 laipsnių įkaitintą orkaitę 20 min.
 
 <div class="row">
 <div class="four columns" markdown="1">
