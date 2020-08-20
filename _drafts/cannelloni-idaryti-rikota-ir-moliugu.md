@@ -7,7 +7,7 @@ title: Cannelloni įdaryti rikota ir moliūgu
 cover: assets/media/2020-08-20/cannelloni_gabalelis.jpg
 
 ---
-Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Pastaruosius įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau maistingą, vegetarišką variantą - rikotos ir moliūgo įdarą. :)
+Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Nuo to laiko Lazanijos gaminti ir neteko. Cannelloni įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau maistingą, vegetarišką variantą - rikotos ir moliūgo įdarą. :)
 
 **Produktai:**
 
