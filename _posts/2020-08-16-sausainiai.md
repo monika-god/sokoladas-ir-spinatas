@@ -44,7 +44,7 @@ Toliau seka linksmiausia dalis - sausainių formavimas. Atlaužiame gabalėlį t
 
 ![sausainiai nekepti.jpg](/assets/media/2020-08-16-sausianiai/sausainiai%20nekepti.jpg)
 
-Įkaitiname orkaitę iki \~180 laipsnių. Kepame sausainius 13-15 min. arba kol lengvai įrus. Svarbu! Sausainiai skaniausi su arbata iš babos dovanotų puodelių. :)
+Įkaitiname orkaitę iki \~180 laipsnių. Kepame sausainius 13-15 min. arba kol lengvai įrus. Svarbu! Sausainiai skaniausi su arbata iš dovanotų puodelių. :)
 
 Skanaus!
 
