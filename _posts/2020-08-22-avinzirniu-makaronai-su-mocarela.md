@@ -18,7 +18,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 * 200 g. avinžirnių makaronų
 * 50 g. sūrio (kietojo ar fermentinio)
 * Mocarelos rutuliukai
-* Saulėje džiovinti makaronai
+* Saulėje džiovinti pomidorai
 * Kepintas česnakas
 * Druska
 * Pipirai
