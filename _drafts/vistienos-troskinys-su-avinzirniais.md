@@ -25,10 +25,9 @@ cover: ''
 * Pusės citrinos sulčių
 * Aliejaus kepimui
 
-**  
-  
-  
-Prieskoniai:**
+![](/assets/media/2020-08-24/img_20200824_141625_bokeh-2.jpg)
+
+**Prieskoniai:**
 
 * 2 v. š. kario prieskonių
 * 1 a. š. aštrios paprikos prieskonių
@@ -36,15 +35,27 @@ Prieskoniai:**
 * Pipirų
 * Druskos
 
-Supjaustome svogūnus kubeliais ir apkepiname kelias minutes keptuvėje. Sudedame prieskonius ir kapotą česnaką bei dar kelias minutes pakepiname. Jeigu kario prieskoniai Jums atrodo aštrūs, tuomet aštrią papriką pakeiskite saldžios paprikos prieskoniais.
+![](/assets/media/2020-08-24/img_20200824_140148_bokeh-2.jpg)  
+  
+Supjaustome svogūnus kubeliais ir apkepiname kelias minutes keptuvėje. Sudedame prieskonius ir kapotą česnaką bei dar kelias minutes pakepiname svogūnus.   
+P.S. Jeigu kario prieskoniai Jums atrodo aštrūs, tuomet aštrią papriką pakeiskite saldžios paprikos prieskoniais.  
+  
+![](/assets/media/2020-08-24/img_20200824_142727_bokeh-2.jpg)  
+![](/assets/media/2020-08-24/img_20200824_142834_bokeh-2.jpg)
 
-Sudedame vistieną ir viską kepame, kol prieskoniai pasiskirstys.
+Sudedame vistieną ir viską kepame, kol prieskoniai pasiskirstys.  
+  
+![](/assets/media/2020-08-24/img_20200824_143024_bokeh-2.jpg)
 
-Sudedame keptuvės turinį į puodą. Užpilame pomidorais bei avinžirniais. Dedame viską troškinti 
+Sudedame keptuvės turinį į puodą. Užpilame pomidorais bei avinžirniais. Dedame viską troškinti 20 min.  
+  
+![](/assets/media/2020-08-24/img_20200824_143359_bokeh-2.jpg)  
+![](/assets/media/2020-08-24/img_20200824_143509_bokeh-2.jpg)
 
- 20 min.
-
-Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troškinys sutirštėtų.
+Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troškinys sutirštėtų.  
+  
+![](/assets/media/2020-08-24/img_20200824_145759_bokeh-2.jpg)  
+![](/assets/media/2020-08-24/img_20200824_145820_bokeh-2.jpg)
 
 Dedame į dubenėlius bei pabarstome šviežios kalendros lapeliais. Jei norisi daugiau sotumo, šalia patiekite ryžius ar kitas kruopas. Aš naudoju perlines kruopas, nes jose daugiau maistingų medžiagų bei skaidulų.
 
