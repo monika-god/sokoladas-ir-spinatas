@@ -35,36 +35,36 @@ cover: "/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg"
 * Pipirų
 * Druskos
 
-![](/assets/media/2020-08-24/img_20200824_140148_bokeh-2.jpg)  
-  
-Supjaustome svogūnus kubeliais ir apkepiname kelias minutes keptuvėje. Sudedame prieskonius ir kapotą česnaką bei dar kelias minutes pakepiname svogūnus.   
-P.S. Jeigu kario prieskoniai Jums atrodo aštrūs, tuomet aštrią papriką pakeiskite saldžios paprikos prieskoniais.  
+![](/assets/media/2020-08-24/img_20200824_140148_bokeh-2.jpg)
+
+Supjaustome svogūnus kubeliais ir apkepiname kelias minutes keptuvėje. Sudedame prieskonius ir kapotą česnaką bei dar kelias minutes pakepiname svogūnus.  
+P.S. Jeigu kario prieskoniai Jums atrodo aštrūs, tuomet aštrią papriką pakeiskite saldžios paprikos prieskoniais.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_142727_bokeh-2.jpg) 
+![](/assets/media/2020-08-24/img_20200824_142727_bokeh-2.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![](/assets/media/2020-08-24/img_20200824_142834_bokeh-2.jpg)
 </div>
 </div>
 
-Sudedame vistieną ir viską kepame, kol prieskoniai pasiskirstys.  
-  
+Sudedame vistieną ir viską kepame, kol prieskoniai pasiskirstys.
+
 ![](/assets/media/2020-08-24/img_20200824_143024_bokeh-2.jpg)
 
-Sudedame keptuvės turinį į puodą. Užpilame pomidorais bei avinžirniais. Dedame viską troškinti 20 min.  
+Sudedame keptuvės turinį į puodą. Užpilame pomidorais bei avinžirniais. Dedame viską troškinti 20 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_143359_bokeh-2.jpg) 
+![](/assets/media/2020-08-24/img_20200824_143359_bokeh-2.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![](/assets/media/2020-08-24/img_20200824_143509_bokeh-2.jpg)
 </div>
 </div>
 
-Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troškinys sutirštėtų.  
+Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troškinys sutirštėtų.
 
 <div class="row">
 <div class="six columns" markdown="1">
