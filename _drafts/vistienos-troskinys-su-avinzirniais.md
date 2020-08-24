@@ -79,4 +79,7 @@ Dedame į dubenėlius bei pabarstome šviežios kalendros lapeliais. Jei norisi 
 
 Skanaus!  
   
-![](/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg)![](/assets/media/2020-08-24/img_20200824_153541.jpg)
+![](/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg)  
+  
+  
+![](/assets/media/2020-08-24/img_20200824_153541.jpg)
