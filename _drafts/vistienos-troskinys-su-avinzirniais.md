@@ -77,4 +77,6 @@ Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troški
 
 Dedame į dubenėlius bei pabarstome šviežios kalendros lapeliais. Jei norisi daugiau sotumo, šalia patiekite ryžius ar kitas kruopas. Aš naudoju perlines kruopas, nes jose daugiau maistingų medžiagų bei skaidulų.
 
-Skanaus!
+Skanaus!  
+  
+![](/assets/media/2020-08-24/img_20200824_153541.jpg)
