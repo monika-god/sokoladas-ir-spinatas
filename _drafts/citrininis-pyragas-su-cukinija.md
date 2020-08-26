@@ -4,7 +4,7 @@ layout: post
 date: 2020-08-26 19:49:34 +0300
 tags: []
 title: Citrininis pyragas su cukinija
-cover: ''
+cover: "/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg"
 
 ---
 Iki vasaros pabagos dar kelios dienos. Norisi sugaudyti paskutinius saulės spindulius ir šilumą. O ką daryti jei lauke lyja, niūru ir apsiniaukę? Praskaidrinti vakarą reikia garuojančiu, kvepiančiu, saulę primenančiu citrusiniu pyragu! Pažadu, kvapui pasklidus po namus pajusite ramybę, norėsis basomis braidžioti po žolę ar atsisėsti terasoje, sudėti koją ant kojos ir lėtai gurkšnojant arbatą prisiminti vasaros atostogas.
