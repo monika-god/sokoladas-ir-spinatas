@@ -12,7 +12,7 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 **Produktai:**
 
 * 200 g. graikiško jogurto
-* 400 g. kvietiniių miltų
+* 400 g. kvietinių miltų
 * 200 g. cukraus
 * 150 g. kokosų aliejaus
 * 3 kiaušiniai
@@ -23,6 +23,10 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * Druska
 * Cukraus pudra  
     
+  Paruošiam cukiniją. Nuplauname, sutarkuojame ir išspaudžiame sultis.  
+    
   Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukrumi. Supilame tirpintą kokosų sviestą, graikišką jogurtą, pusės citrinos sultis, vienos citrinos žievelę bei vanilės ektraktą ir viską išmaišome.  
     
-  Į gautą masę supilame likusius birius produktus - druską, miltus ir kepimo miltelius. Išmaišome
+  Į gautą masę supilame likusius birius produktus - druską, miltus ir kepimo miltelius. Išmaišome  
+    
+  Sudedame cukiniją ir išmaišome.
