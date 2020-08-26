@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-20 14:57:01 +0300
+date: 2020-08-20T14:57:01.000+03:00
 tags:
 - pagrindiniai
 - pietūs
@@ -11,7 +11,7 @@ title: Cannelloni įdaryti rikota ir moliūgu
 cover: assets/media/2020-08-20/cannelloni_gabalelis.jpg
 
 ---
-Prieš kelis metus užsimaniau pagaminti Lazaniją, tačiau baigėsi tuo, jog nusipirkau Cannelloni. Nuo to laiko Lazanijos gaminti ir neteko. Cannelloni įdarau tiek mėsos, tiek daržovių ar sūrio įdarais. Šį kartą pasirinkau maistingą, vegetarišką variantą - rikotos ir moliūgo įdarą. :)
+Nors dar vasara, bet jau kartkartėmis pagalvoju apie rudenį. Prisimenu rudeniškas spalvas, pasivaikščiojimus čežant lapams tarp kojų ir ,žinoma, kvapus. Man nėra nieko kvapniau už moliūgą rudenį. Dėl to šį kartą vedina skonio ir kvapų nostalgijos pasirinkau rikotos ir moliūgo įdarą. :)
 
 **Produktai:**
 
