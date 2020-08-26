@@ -1,13 +1,13 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-20 19:16:31 +0300
+date: 2020-08-20T19:16:31.000+03:00
 tags: []
 title: Daržovių sriuba su moliūgu ir brokoliu
 cover: "/assets/media/2020-08-20/img_20200820_184409_bokeh-2.jpg"
 
 ---
-Kai norsi kažko komfortiško vėsų, niūrų vakarą kepuosi obuolių pyragą arba verdu daržovių sriubą. Šį kartą šaldytuve turėjau moliūgo gabalėlį ir brokolių. Taigi gavosi visiškai paprasta, greitai paruošiama, šildanti sriuba. :)
+Kai norsi kažko komfortiško, šildančio šaltą, niūrų vakarą kepuosi obuolių pyragą arba verdu daržovių sriubą. Šį kartą šaldytuve turėjau moliūgo gabalėlį. Gavosi visiškai paprastutėlė, tačiau vidų sušildanti bei artėjantį rudenį primenanti daržovių sriuba. :)
 
 **Produktai:**
 
@@ -23,8 +23,8 @@ Kai norsi kažko komfortiško vėsų, niūrų vakarą kepuosi obuolių pyragą a
 * Pipirai
 * Petražolė (ar kitos mėgiamos žolelės)
 
-![](/assets/media/2020-08-20/img_20200820_175248_bokeh_3.jpg)  
-  
+![](/assets/media/2020-08-20/img_20200820_175248_bokeh_3.jpg)
+
 Daržoves nulupame ir supjaustome mažais kubeliais. Įkatiname keptuvę su sviestu ar aliejumi ir dedame kepti moliūgus. Po kelių minučių sudedame morkas ir svogūnus. Pakepiname daržoves \~10 min. Šiek tiek įdedame druskos. Prieš baigiant kepti įdedame smulkinto česnaką ir dar kelia minutes pakepiname kartu su daržovėmis.
 
 ![](/assets/media/2020-08-20/img_20200820_180754_bokeh-2.jpg)
