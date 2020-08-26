@@ -11,7 +11,7 @@ title: Vištienos troškinys su avinžirniais
 cover: "/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg"
 
 ---
-Šis receptas labai geras! Žinau, nepasikuklinau, bet šis troškinys mano favoritas. Gimęs iš šaldytuve buvusių atsitiktinių produktų, vėliau pora kulinarinių štrichų patobulintas ir negalime jo atsivalgyti. Prieskoningas, kiek neįprastas kasdienei lietuviškai virtuvei, bet man tai absoliučiai komfortiškas maistas. Išmėginti būtina!
+Šis troškinys mano favoritas. Pomidorai, avinžirniai, vištiena ir viskas pagardinta kalendra bei kario prieskoniais. Pastarieji pakvipę nukelia į tolimuosius rytus, nors apsuptas kvapo sėdi prie savo virtuvės stalo.  Gimęs iš šaldytuve buvusių atsitiktinių produktų, vėliau pora kulinarinių štrichų patobulintas ir negalime jo atsivalgyti. :)
 
 **Produktai:**
 
@@ -77,9 +77,8 @@ Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troški
 
 Dedame į dubenėlius bei pabarstome šviežios kalendros lapeliais. Jei norisi daugiau sotumo, šalia patiekite ryžius ar kitas kruopas. Aš naudoju perlines kruopas, nes jose daugiau maistingų medžiagų bei skaidulų.
 
-Skanaus!  
-  
-![](/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg)  
-  
-  
+Skanaus!
+
+![](/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg)
+
 ![](/assets/media/2020-08-24/img_20200824_153541.jpg)
