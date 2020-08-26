@@ -20,4 +20,8 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * 2 citrinos
 * 1 a. š. vanilės ekstrakto
 * 1 a. š. kepimo miltelių
-* Cukraus pudra
+* Cukraus pudra  
+    
+  Gaminame tešlą. Ištirpiname sviestą. Kiaušinius išplakame su cukrumi. Supilame tirpintą sviestą, viskį bei vanilės ektraktą ir viską išmaišome.  
+    
+  Į gautą masę supilame likusius birius produktus - druską, miltus ir kepimo miltelius. Išmaišome
