@@ -82,5 +82,6 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
   Skanaus!  
     
   ![](/assets/media/2020-08-26/img_20200826_144006_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg)![](/assets/media/2020-08-26/img_20200826_145450_bokeh_2.jpg)  
+  ![](/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg)
+  ![](/assets/media/2020-08-26/img_20200826_145450_bokeh_2.jpg)  
   ![](/assets/media/2020-08-26/img_20200826_150124_bokeh_2.jpg)
