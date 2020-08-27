@@ -88,8 +88,21 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
   Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.  
     
   Skanaus!  
-    
-  ![](/assets/media/2020-08-26/img_20200826_144006_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg)
-  ![](/assets/media/2020-08-26/img_20200826_145450_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_150124_bokeh_2.jpg)
+
+<div class="row">
+<div class="six columns" markdown="1">
+ ![](/assets/media/2020-08-26/img_20200826_144006_bokeh_2.jpg) 
+</div>
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg)
+</div>
+</div>
+
+<div class="row">
+<div class="six columns" markdown="1">
+ ![](/assets/media/2020-08-26/img_20200826_145450_bokeh_2.jpg)  
+</div>
+<div class="six columns" markdown="1">
+ ![](/assets/media/2020-08-26/img_20200826_150124_bokeh_2.jpg)
+</div>
+</div>
