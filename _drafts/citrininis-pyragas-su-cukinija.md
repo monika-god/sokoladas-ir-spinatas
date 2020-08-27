@@ -72,10 +72,18 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 </div>  
 
   Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau 19 cm. skersmens. Kepame įkaitintoje orkaitęje 180 temperatūroje 55 minutes.  
-    
-  ![](/assets/media/2020-08-26/img_20200826_131349_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_131717_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_131928_bokeh_2.jpg)  
+
+<div class="row">
+<div class="four columns" markdown="1">
+ ![](/assets/media/2020-08-26/img_20200826_131349_bokeh_2.jpg) 
+</div>
+<div class="four columns" markdown="1">
+ ![](/assets/media/2020-08-26/img_20200826_131717_bokeh_2.jpg) 
+</div>
+<div class="four columns" markdown="1">
+ ![](/assets/media/2020-08-26/img_20200826_131928_bokeh_2.jpg)
+</div>
+</div>   
     
   Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.  
     
