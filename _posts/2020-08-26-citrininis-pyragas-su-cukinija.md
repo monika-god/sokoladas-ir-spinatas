@@ -61,7 +61,7 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 ![](/assets/media/2020-08-26/img_20200826_130912_bokeh_2.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media![](/assets/media/2020-08-26/img_20200826_130858_bokeh_2.jpg)
+![](/assets/media/2020-08-26/img_20200826_130858_bokeh_2.jpg)
 </div>
 </div>
 
@@ -76,7 +76,7 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 </div>
 </div>
 
-Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau 19 cm. skersmens. Kepame įkaitintoje orkaitęje 180 temperatūroje 55 minutes.
+Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau 19 cm. skersmens kepimo formą. Kepame įkaitintoje orkaitėje 180 temperatūroje 55 minutes.
 
 <div class="row">
 <div class="six columns" markdown="1">
@@ -91,7 +91,7 @@ Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau
 
 Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.
 
-Įkvėpimo šiam pyragui sėmiausi iš blogo [https://www.alattefood.com/](https://www.alattefood.com/ "https://www.alattefood.com/")
+Įkvėpimo šiam pyragui sėmiausi iš blogo [https://www.alattefood.com
 
 Skanaus!
 
