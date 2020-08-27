@@ -22,7 +22,6 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * 1 a. š. kepimo miltelių
 * Druska
 * Cukraus pudra  
-    
 
   ![](/assets/media/2020-08-26/img_20200826_125157_bokeh_2.jpg)
 
