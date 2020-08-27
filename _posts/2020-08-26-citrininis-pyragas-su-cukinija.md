@@ -91,7 +91,7 @@ Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau
 
 Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.
 
-Įkvėpimo šiam pyragui sėmiausi iš blogo [https://www.alattefood.com
+Įkvėpimo šiam pyragui sėmiausi iš blogo https://www.alattefood.com
 
 Skanaus!
 
