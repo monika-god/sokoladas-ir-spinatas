@@ -14,7 +14,7 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * 200 g. graikiško jogurto
 * 400 g. kvietinių miltų
 * 200 g. cukraus
-* 150 g. kokosų aliejaus
+* 150 g. kokosų sviesto (aliejaus)
 * 3 kiaušiniai
 * 1 vidutinio dydžio cukinija
 * 2 citrinos
@@ -56,7 +56,14 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 </div>
 </div>
 
+<div class="row">
+<div class="six columns" markdown="1">
 ![](/assets/media/2020-08-26/img_20200826_130912_bokeh_2.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](/assets/media![](/assets/media/2020-08-26/img_20200826_130858_bokeh_2.jpg)
+</div>
+</div>
 
 Į gautą masę supilame likusius birius produktus - druską, miltus ir kepimo miltelius. Išmaišome.
 
@@ -82,9 +89,9 @@ Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau
 
 ![](/assets/media/2020-08-26/img_20200826_131928_bokeh_2.jpg)
 
-Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.  
-  
-Įkvėpimas iš blogo [https://www.alattefood.com/](https://www.alattefood.com/ "https://www.alattefood.com/")
+Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.
+
+Įkvėpimo šiam pyragui sėmiausi iš blogo [https://www.alattefood.com/](https://www.alattefood.com/ "https://www.alattefood.com/")
 
 Skanaus!
 
