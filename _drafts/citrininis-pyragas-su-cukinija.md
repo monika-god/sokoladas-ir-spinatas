@@ -23,25 +23,53 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * Druska
 * Cukraus pudra  
     
+
   ![](/assets/media/2020-08-26/img_20200826_125157_bokeh_2.jpg)
 
-  Paruošiame cukiniją. Nuplauname, sutarkuojame ir išspaudžiame sultis.  
-    
-  ![](/assets/media/2020-08-26/img_20200826_130452_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_130516_bokeh_2.jpg)
+  Paruošiame cukiniją. Nuplauname, sutarkuojame ir išspaudžiame sultis.
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_130452_bokeh_2.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_130516_bokeh_2.jpg)
+</div>
+</div>  
+
 
   Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukrumi. Supilame tirpintą kokosų sviestą, graikišką jogurtą, pusės citrinos sultis, vienos citrinos žievelę bei vanilės ekstraktą ir viską išmaišome.  
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_125604_bokeh_2.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_130801_bokeh_2.jpg)
+</div>
+</div>  
     
-  ![](/assets/media/2020-08-26/img_20200826_125604_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_130801_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_130821_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_130905_bokeh_2.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_130821_bokeh_2.jpg) 
+</div>
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_130905_bokeh_2.jpg)
+</div>
+</div> 
+     
   ![](/assets/media/2020-08-26/img_20200826_130912_bokeh_2.jpg)
 
-  Į gautą masę supilame likusius birius produktus - druską, miltus ir kepimo miltelius. Išmaišome.  
-    
-  ![](/assets/media/2020-08-26/img_20200826_131033_bokeh_2.jpg)  
-  ![](/assets/media/2020-08-26/img_20200826_131153_bokeh_2.jpg)
+  Į gautą masę supilame likusius birius produktus - druską, miltus ir kepimo miltelius. Išmaišome. 
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_131033_bokeh_2.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](/assets/media/2020-08-26/img_20200826_131153_bokeh_2.jpg)
+</div>
+</div>  
 
   Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau 19 cm. skersmens. Kepame įkaitintoje orkaitęje 180 temperatūroje 55 minutes.  
     
