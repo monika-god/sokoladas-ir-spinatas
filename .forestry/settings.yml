@@ -7,11 +7,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: assets/media
-public_path: "/assets/media"
+upload_dir: ''
+public_path: https://res.cloudinary.com/monikagod/image/upload
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":year:-:month:-:day:/:filename:"
+use_front_matter_path: 
+file_template: ":year:/:month:/:day:/:filename:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
