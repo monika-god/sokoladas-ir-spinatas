@@ -10,7 +10,7 @@ tags:
 - saldumynai
 
 ---
-Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati. Citrininiai ir tirpstantys burnoje. Mmmm... :)
+Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati. Citrininiai ir tirpstantys burnoje... Tinkantys puikiai dienos pradžiai ar dienos užbaigimui skanėstu. :)
 
 **Ingredientai:**
 
