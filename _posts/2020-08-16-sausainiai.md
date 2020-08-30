@@ -10,8 +10,8 @@ tags:
 - saldumynai
 
 ---
-Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati. Citrininiai ir tirpstantys burnoje!   
-Svarbu! Skaniausi su mėgsmiausia arbata. :)
+Ilgą laiką vyras iš vieno mėgstamo restorano parnešdavo sviestinius S formos sausainius. Jie man taip patiko, jog nusprendžiau susirasianti receptą ir išsikepsianti juos pati. Citrininiai ir tirpstantys burnoje!  
+Svarbu! Skaniausi su mėgstamiausia arbata. :)
 
 **Ingredientai:**
 
@@ -45,7 +45,7 @@ Toliau seka linksmiausia dalis - sausainių formavimas. Atlaužiame gabalėlį t
 
 ![sausainiai nekepti.jpg](/assets/media/2020-08-16-sausianiai/sausainiai%20nekepti.jpg)
 
-Įkaitiname orkaitę iki \~180 laipsnių. Kepame sausainius 13-15 min. arba kol lengvai įrus. 
+Įkaitiname orkaitę iki \~180 laipsnių. Kepame sausainius 13-15 min. arba kol lengvai įrus.
 
 Skanaus!
 
