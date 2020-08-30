@@ -11,11 +11,11 @@ Lauke šąlant orams, vis mažiau laiko norėsis praleisti lauke kepant mėsą. 
 
 **Produktai:**
 
-* 1 kg. kaiulienos kumpio ar sprandinės
+* 1 kg. kiaulienos kumpio ar sprandinės
 * 1 a. š. kumino
 * 1 a. š. maltos kalendros
 * 1 a. š. mairūno
-* 2 a. š.  Dijon garstyčių
+* 2 a. š. Dijon garstyčių
 * Aliejaus
 * Keli gvazdikėliai
 * Keli lauro lapai
