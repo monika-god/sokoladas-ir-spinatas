@@ -50,7 +50,7 @@ Aplink mėsą užpilame sultinio. Dedame gvazdikėlius, lauro lapus bei paskirst
 </div>
 </div> 
 
-Vietoje padažo neretai mėsą pašlakstau likusiu sultiniu. Tačiau jeigu norisi padažo, dalį sultinio supilame į keptuvę, įpilame balto vyno ir grietinėlės ir viską sutirštiname. Miltų naudoti nereikia! Turėsite labai sodraus skonio padažą. Mėsą dažniausiai patiekiu su keptomis daržovėmis.
+Vietoje padažo neretai mėsą pašlakstau likusiu sultiniu. Tačiau jeigu vis gi norisi padažo, dalį sultinio supilkime į keptuvę, įpilkime balto vyno ir grietinėlės ir viską sutirštinkime. Miltų naudoti nereikia! Turėsite labai sodraus skonio padažą. Mėsą dažniausiai patiekiu su keptomis daržovėmis.
 
 Skanaus!  
   
