@@ -7,7 +7,7 @@ title: Keptas kiaulienos kumpis su prieskonių plutele
 cover: https://res.cloudinary.com/monikagod/image/upload/v1598771734/2020/08/30/IMG_20200827_162351_Bokeh_2_coeic1.jpg
 
 ---
-Lauke šąlant orams, vis mažiau laiko norėsis praleisti lauke kepant mėsą. Todėl kepkime ją būnant savo šiltuose, jaukiuose namuose! Kiaulienos kumpis ar sprandinė, apsupta sultinio su šlakeliu viskio bei padengta apskrudusia prieskonių ir garstyčių plutele. Nepajusite, kaip greitai prabėgs laikas ir dorosite patiekalą su šeima prie stalo!
+Lauke šąlant orams, vis mažiau laiko norėsis praleisti lauke kepant mėsą. Todėl kepkime ją būnant savo šiltuose, jaukiuose namuose! Kiaulienos kumpis ar sprandinė, apsupta sultinio su šlakeliu viskio bei padengta apskrudusia prieskonių ir garstyčių plutele. Nepajusite, kaip greitai prabėgs laikas ir dalinsitės patiekalu su šeima prie stalo!
 
 **Produktai:**
 
