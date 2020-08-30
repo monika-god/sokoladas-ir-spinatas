@@ -24,10 +24,16 @@ Lauke šąlant orams, vis mažiau laiko norėsis praleisti lauke kepant mėsą. 
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_140521_Bokeh_2_lyi9q9.jpg)  
   
-Imame kiaulieną bei pašlaktosme ją aliejumi. Šiek tiek įpjauname mėsą įstrižai, kad prieskoniai geriau įsigertų.  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143003_Bokeh_2_omnm7p.jpg)  
+Imame kiaulieną bei pašlaktosme ją aliejumi. Šiek tiek įpjauname mėsą įstrižai, kad prieskoniai geriau įsigertų. 
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143003_Bokeh_2_omnm7p.jpg) 
+</div>
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143130_Bokeh_3_apyve0.jpg)
+</div>
+</div> 
 
 Sumaišome kuminą, kalendrą, mairūną, pipirus ir šiek tiek druskos bei įtriname prieskoniu į mėsą. Įtrinus prieskonius padengiame viršutinę mėsos dalį garstyčiomis.  
   
@@ -35,8 +41,14 @@ Sumaišome kuminą, kalendrą, mairūną, pipirus ir šiek tiek druskos bei įtr
 
 Aplink mėsą užpilame sultinio. Dedame gvazdikėlius, lauro lapus bei paskirstome viskį. Uždedame foliją ir dedame kepti į 180 laipsnių įkaitintą orkaitę \~1 val. Po valandos nuimame foliją, padidiname kaitrą iki 200 laipsnių ir apskrudiname mėsą dar 30 min.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143752_Bokeh_2_v1alos.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![]![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143752_Bokeh_2_v1alos.jpg)
+</div>
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598771733/2020/08/30/IMG_20200827_143905_Bokeh_2_uimggc.jpg)
+</div>
+</div> 
 
 Vietoje padažo neretai mėsą pašlakstau likusiu sultiniu. Tačiau jeigu norisi padažo, dalį sultinio supilame į keptuvę, įpilame balto vyno ir grietinėlės ir viską sutirštiname. Miltų naudoti nereikia! Turėsite labai sodraus skonio padažą. Mėsą dažniausiai patiekiu su keptomis daržovėmis.
 
