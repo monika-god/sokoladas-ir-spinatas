@@ -39,7 +39,7 @@ Imame kiaulieną bei pašlaktosme ją aliejumi. Šiek tiek įpjauname mėsą įs
 </div>
 </div>
 
-Sumaišome kuminą, kalendrą, mairūną, pipirus ir šiek tiek druskos bei įtriname prieskoniu į mėsą. Įtrinus prieskonius padengiame viršutinę mėsos dalį garstyčiomis.
+Sumaišome kuminą, kalendrą, mairūną, pipirus ir šiek tiek druskos bei įtriname prieskonius į mėsą. Įtrinus prieskonius padengiame viršutinę mėsos dalį garstyčiomis.
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143530_Bokeh_2_otoxcw.jpg)
 
