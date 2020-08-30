@@ -43,7 +43,7 @@ Aplink mėsą užpilame sultinio. Dedame gvazdikėlius, lauro lapus bei paskirst
   
 <div class="row">
 <div class="six columns" markdown="1">
-![]![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143752_Bokeh_2_v1alos.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143752_Bokeh_2_v1alos.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598771733/2020/08/30/IMG_20200827_143905_Bokeh_2_uimggc.jpg)
