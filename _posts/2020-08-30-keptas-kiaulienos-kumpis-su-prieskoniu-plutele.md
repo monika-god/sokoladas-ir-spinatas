@@ -2,7 +2,10 @@
 author: Monika Godelienė
 layout: post
 date: 2020-08-30 10:11:55 +0300
-tags: []
+tags:
+- pagrindinis
+- žiemos patiekalai
+- kiauliena
 title: Keptas kiaulienos kumpis su prieskonių plutele
 cover: https://res.cloudinary.com/monikagod/image/upload/v1598771734/2020/08/30/IMG_20200827_162351_Bokeh_2_coeic1.jpg
 
