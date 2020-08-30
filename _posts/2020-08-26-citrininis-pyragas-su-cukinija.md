@@ -2,7 +2,10 @@
 author: Monika Godelienė
 layout: post
 date: 2020-08-26 19:49:34 +0300
-tags: []
+tags:
+- pyragas
+- saldumynai
+- desertai
 title: Citrininis pyragas su cukinija
 cover: "/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg"
 
