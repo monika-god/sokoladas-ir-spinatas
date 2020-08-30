@@ -11,7 +11,7 @@ title: Avinžirnių makaronai su Mocarela
 cover: "/assets/media/2020-08-23/img_20200820_114349_bokeh_2.jpg"
 
 ---
-Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip įprasti pilno grūdo makaronai, o maistinių medžiagų ir naudos nepalyginamai daugiau. O ir sotumo jausmas po jų kur kas ilgiau išlieka! Štai ir lengvas, greitai paruošiamas avinžirnių makaronų patiekalas. :)
+Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip įprasti pilno grūdo makaronai, o maistinių medžiagų ir naudos nepalyginamai daugiau. O ir sotumo jausmas po jų kur kas ilgiau išlieka! Saulėje džiovinti pomidorai, mocarela, bazilikas - tikra Italija tavo namuose! :)
 
 **Produktai:**
 
