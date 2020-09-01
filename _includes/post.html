@@ -1,6 +1,17 @@
 <div class="post">
   {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-  {% cloudinary postcover {{ post.cover }} href="{{ post.url | relative_url }}" alt="{{ post.title }}" %}
+  <img
+    class="post-cover"
+    src="{{ site.cloudinary.origin_url }}/{{ post.cover }}"
+    srcset="
+      {{ site.cloudinary.origin_url }}/image/fetch/c_thumb,f_auto,q_auto,w_320/{{ site.cloudinary.origin_url }}/{{ post.cover }} 320w,
+      {{ site.cloudinary.origin_url }}/image/fetch/c_thumb,f_auto,q_auto,w_560/{{ site.cloudinary.origin_url }}/{{ post.cover }} 560w,
+      {{ site.cloudinary.origin_url }}/image/fetch/c_thumb,f_auto,q_auto,w_800/{{ site.cloudinary.origin_url }}/{{ post.cover }} 800w
+    "
+    sizes="(min-width: 50rem) 25rem, 90vw"
+    alt="{{ post.title }}"
+    crossorigin="anonymous"
+  >
   <div class="post-link">
     <a href="{{ post.url | relative_url }}">
       {{ post.title | escape }}
