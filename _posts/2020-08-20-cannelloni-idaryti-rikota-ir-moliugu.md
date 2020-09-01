@@ -8,7 +8,7 @@ tags:
 - cannelloni
 - įdaryti makaronai
 title: Cannelloni įdaryti rikota ir moliūgu
-cover: assets/media/2020-08-20/cannelloni_gabalelis.jpg
+cover: 2020/08/16/IMG_20200818_171327_Bokeh_ifyjxb.jpg
 
 ---
 Nors dar vasara, bet jau kartkartėmis pagalvoju apie rudenį. Prisimenu rudeniškas spalvas, pasivaikščiojimus čežant lapams tarp kojų ir ,žinoma, kvapus. Man nėra nieko kvapniau rudenį už moliūgą. Dėl to šį kartą, vedina skonio ir kvapų nostalgijos, pasirinkau rikotos ir moliūgo įdarą. Tikiuosi jis Jums patiks tiek pat, kiek ir man. :)

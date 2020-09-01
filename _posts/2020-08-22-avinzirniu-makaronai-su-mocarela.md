@@ -8,7 +8,7 @@ tags:
 - pietūs
 - vakarienė
 title: Avinžirnių makaronai su Mocarela
-cover: "/assets/media/2020-08-23/img_20200820_114349_bokeh_2.jpg"
+cover: 2020/08/20/IMG_20200820_114315_Bokeh_ur9k2s.jpg
 
 ---
 Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip įprasti pilno grūdo makaronai, o maistinių medžiagų ir naudos nepalyginamai daugiau. O ir sotumo jausmas po jų kur kas ilgiau išlieka! Saulėje džiovinti pomidorai, mocarela, bazilikas - tikra Italija tavo namuose! :)

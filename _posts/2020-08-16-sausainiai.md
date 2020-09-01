@@ -3,7 +3,7 @@ author: Monika Godelienė
 layout: post
 date: 2020-08-16 18:13 +0300
 title: Itališki S formos sausainiai
-cover: assets/media/2020-08-16-sausianiai/sausainiai%20patiekimas.jpg
+cover: 2020/07/7/IMG_20200707_172544_Bokeh_dbnmvm.jpg
 tags:
 - užkandžiai
 - sausainiai

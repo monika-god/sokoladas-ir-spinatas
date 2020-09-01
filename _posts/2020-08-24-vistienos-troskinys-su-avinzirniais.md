@@ -8,7 +8,7 @@ tags:
 - vieno puodo troškinys
 - žiemos patiekalai
 title: Vištienos troškinys su avinžirniais
-cover: "/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg"
+cover: 2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg
 
 ---
 Šis troškinys mano favoritas. Pomidorai, avinžirniai, vištiena ir viskas pagardinta kalendra bei kario prieskoniais. Pastarieji pakvipę nukelia į tolimuosius rytus, nors apsuptas kvapo sėdi prie savo virtuvės stalo.  Gimęs iš šaldytuve buvusių atsitiktinių produktų, vėliau pora kulinarinių štrichų patobulintas ir negalime jo atsivalgyti. :)
