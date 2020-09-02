@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-26 19:49:34 +0300
+date: 2020-08-26T19:49:34.000+03:00
 tags:
 - pyragas
 - saldumynai
@@ -26,16 +26,16 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * Druska
 * Cukraus pudra
 
-![](/assets/media/2020-08-26/img_20200826_125157_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965378/2020/08/26/IMG_20200826_125157_Bokeh_ayuh0e.jpg)
 
 Paruošiame cukiniją. Nuplauname, sutarkuojame ir išspaudžiame sultis.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130452_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965378/2020/08/26/IMG_20200826_130452_Bokeh_hh8n9j.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130516_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965378/2020/08/26/IMG_20200826_130516_Bokeh_whjssw.jpg)
 </div>
 </div>
 
@@ -43,28 +43,28 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_125604_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965378/2020/08/26/IMG_20200826_125604_Bokeh_q7yunh.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130801_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965378/2020/08/26/IMG_20200826_130801_Bokeh_tdlghi.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130821_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130821_Bokeh_zihbhn.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130905_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130912_Bokeh_ebziku.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130912_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130905_Bokeh_kyyuxb.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_130858_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_130858_Bokeh_m2clxl.jpg)
 </div>
 </div>
 
