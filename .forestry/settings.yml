@@ -10,7 +10,7 @@ sections:
 upload_dir: ''
 public_path: https://res.cloudinary.com/monikagod/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":year:/:month:/:day:/:filename:"
 build:
   preview_env:
