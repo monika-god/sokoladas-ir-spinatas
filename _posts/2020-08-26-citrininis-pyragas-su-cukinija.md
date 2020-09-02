@@ -72,10 +72,10 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_131033_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_131033_Bokeh_uaq2ai.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_131153_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_131153_Bokeh_jvu8lv.jpg)
 </div>
 </div>
 
@@ -83,14 +83,14 @@ Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_131349_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_131349_Bokeh_anfhe5.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_131717_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_131717_Bokeh_ecgarg.jpg)
 </div>
 </div>
 
-![](/assets/media/2020-08-26/img_20200826_131928_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965381/2020/08/26/IMG_20200826_131928_Bokeh_ym6snw.jpg)
 
 Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.
 
@@ -100,11 +100,11 @@ Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_145450_bokeh_2.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965377/2020/08/26/IMG_20200826_145450_Bokeh_yvxkmg.jpg) 
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-26/img_20200826_150124_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965378/2020/08/26/IMG_20200826_150124_Bokeh_ujzpjz.jpg)
 </div>
 </div>
 
-![](/assets/media/2020-08-26/img_20200826_145044_bokeh_2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965377/2020/08/26/IMG_20200826_145044_Bokeh_lxz77i.jpg)
