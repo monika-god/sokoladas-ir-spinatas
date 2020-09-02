@@ -30,7 +30,7 @@ Supjaustome griežinėliais cukinijas ir dedame kepti ant griliaus.
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598981676/2020/09/01/IMG_20200901_192045_Bokeh_2_waq8xj.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598981675/2020/09/01/IMG_20200901_192517_Bokeh_2_mwhncs.jpg)
 
-Kol kepa cukinijos sumaišome padažą.  
+Kol kepa cukinijos sumaišome padažą. Dedame aliejų, actą, garstyčias, medų bei druską su pipirais pagal skonį. Paragaujame, jei ko nors trūkstą - įmaišome.  
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598981676/2020/09/01/IMG_20200901_193504_Bokeh_2_avuwz3.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598981676/2020/09/01/IMG_20200901_193522_Bokeh_2_bafcd7.jpg)  
@@ -39,4 +39,7 @@ Kol kepa cukinijos sumaišome padažą.
 
 Keptas cikinijas dedame į dubenį. Kartu dedame griežinėliais pjaustytu svogūnus bei užpilame padažu. Galiausiai salotas pabarstome feta.
 
-Skaunaus!
+Skaunaus!  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598981675/2020/09/01/IMG_20200901_195829_Bokeh_2_mfzjxo.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1598981676/2020/09/01/IMG_20200901_195933_Bokeh_2_ksnxk4.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598981675/2020/09/01/IMG_20200901_200358_Bokeh_2_z9ymut.jpg)
