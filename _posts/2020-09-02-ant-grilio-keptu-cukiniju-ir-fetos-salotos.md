@@ -60,7 +60,7 @@ Keptas cikinijas dedame į dubenį. Kartu dedame griežinėliais pjaustytu svog�
 
 Skaunaus!
 
-<div class="row"> <div class="six columns" markdown="1"> !\[\]!![](https://res.cloudinary.com/monikagod/image/upload/v1598981675/2020/09/01/IMG_20200901_195829_Bokeh_2_mfzjxo.jpg)
+<div class="row"> <div class="six columns" markdown="1"> ![](https://res.cloudinary.com/monikagod/image/upload/v1598981675/2020/09/01/IMG_20200901_195829_Bokeh_2_mfzjxo.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598981676/2020/09/01/IMG_20200901_195933_Bokeh_2_ksnxk4.jpg)
