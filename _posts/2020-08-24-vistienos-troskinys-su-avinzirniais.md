@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-24 16:06:03 +0300
+date: 2020-08-24T16:06:03.000+03:00
 tags:
 - pietūs
 - vakarienė
@@ -25,7 +25,7 @@ cover: 2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg
 * Pusės citrinos sulčių
 * Aliejaus kepimui
 
-![](/assets/media/2020-08-24/img_20200824_141625_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965322/2020/08/24/IMG_20200824_141640_Bokeh_p0oz2u.jpg)
 
 **Prieskoniai:**
 
@@ -35,32 +35,32 @@ cover: 2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg
 * Pipirų
 * Druskos
 
-![](/assets/media/2020-08-24/img_20200824_140148_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965322/2020/08/24/IMG_20200824_140148_Bokeh_dcjtzr.jpg)
 
 Supjaustome svogūnus kubeliais ir apkepiname kelias minutes keptuvėje. Sudedame prieskonius ir kapotą česnaką bei dar kelias minutes pakepiname svogūnus.  
 P.S. Jeigu kario prieskoniai Jums atrodo aštrūs, tuomet aštrią papriką pakeiskite saldžios paprikos prieskoniais.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_142727_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965322/2020/08/24/IMG_20200824_142727_Bokeh_ytaxhz.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_142834_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965322/2020/08/24/IMG_20200824_142834_Bokeh_x3iaub.jpg)
 </div>
 </div>
 
-Sudedame vistieną ir viską kepame, kol prieskoniai pasiskirstys.
+Sudedame vištieną ir viską kepame, kol prieskoniai pasiskirstys.
 
-![](/assets/media/2020-08-24/img_20200824_143024_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965322/2020/08/24/IMG_20200824_143024_Bokeh_hx4yil.jpg)
 
 Sudedame keptuvės turinį į puodą. Užpilame pomidorais bei avinžirniais. Dedame viską troškinti 20 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_143359_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965322/2020/08/24/IMG_20200824_143359_Bokeh_xi7af1.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_143509_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965323/2020/08/24/IMG_20200824_143509_Bokeh_ml65cy.jpg)
 </div>
 </div>
 
@@ -68,10 +68,10 @@ Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troški
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_145759_bokeh-2.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965323/2020/08/24/IMG_20200824_145759_Bokeh_d4xhbl.jpg) 
 </div>
 <div class="six columns" markdown="1">
-![](/assets/media/2020-08-24/img_20200824_145820_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965323/2020/08/24/IMG_20200824_145820_Bokeh_rdnuxz.jpg)
 </div>
 </div>
 
@@ -79,6 +79,6 @@ Dedame į dubenėlius bei pabarstome šviežios kalendros lapeliais. Jei norisi 
 
 Skanaus!
 
-![](/assets/media/2020-08-24/img_20200824_152821_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965321/2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg)
 
 ![](/assets/media/2020-08-24/img_20200824_153541.jpg)
