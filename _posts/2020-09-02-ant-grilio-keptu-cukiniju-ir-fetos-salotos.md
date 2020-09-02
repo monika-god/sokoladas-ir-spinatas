@@ -9,7 +9,7 @@ title: Ant grilio keptų cukinijų ir fetos salotos
 cover: "/v1598981675/2020/09/01/IMG_20200901_200324_Bokeh_2_dqankz.jpg"
 
 ---
-Kada cukinijų pilni šiltnamiai, ką su jomis daryti neužtenka vaizduotės. Ką daryti su peraugusiomis cukinijomis ir aš nežinau, bet jei turite užsilikusių mažesnių ar kėtinate jų įsigyti, čia galiu Jums patarti. Salotos! Lengvai pagrilintos, karamelizavusios cukinijos, apipiltos salstelėjusiu padažu ir apibarstytos sūria feta. Pastarosios puikiai tiks patiekti prie paukštienos.
+Kada cukinijų pilni šiltnamiai, ką su jomis daryti neužtenka vaizduotės. Ką daryti su peraugusiomis cukinijomis ir aš nežinau, bet jei turite užsilikusių mažesnių ar kėtinate jų įsigyti, čia galiu Jums patarti. Salotos! Lengvai pagrilintos, karamelizavusios cukinijos, apipiltos salstelėjusiu padažu ir apibarstytos sūria feta. Pastarosios puikiai tiks patiekti prie paukštienos ar kiaušinienės.
 
 **Produktai:**
 
