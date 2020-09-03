@@ -55,7 +55,7 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130821_Bokeh_zihbhn.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130912_Bokeh_ebziku.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_130858_Bokeh_m2clxl.jpg)
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130905_Bokeh_kyyuxb.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965380/2020/08/26/IMG_20200826_130858_Bokeh_m2clxl.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965379/2020/08/26/IMG_20200826_130912_Bokeh_ebziku.jpg)
 </div>
 </div>
 
