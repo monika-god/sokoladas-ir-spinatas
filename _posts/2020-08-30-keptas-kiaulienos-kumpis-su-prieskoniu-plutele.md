@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-30 10:11:55 +0300
+date: 2020-08-30T10:11:55.000+03:00
 tags:
 - pagrindinis
 - žiemos patiekalai
@@ -26,31 +26,31 @@ cover: 2020/08/27/IMG_20200827_162351_Bokeh_st0mpf.jpg
 * 60 ml. viskio
 * 0,5 l. sultinio
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_140521_Bokeh_2_lyi9q9.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965438/2020/08/27/IMG_20200827_140521_Bokeh_cynwek.jpg)
 
 Imame kiaulieną bei pašlaktosme ją aliejumi. Šiek tiek įpjauname mėsą įstrižai, kad prieskoniai geriau įsigertų.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143003_Bokeh_2_omnm7p.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965437/2020/08/27/IMG_20200827_143003_Bokeh_whnkfo.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143130_Bokeh_3_apyve0.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965437/2020/08/27/IMG_20200827_143130_Bokeh_ucgmmn.jpg)
 </div>
 </div>
 
 Sumaišome kuminą, kalendrą, mairūną, pipirus ir šiek tiek druskos bei įtriname prieskonius į mėsą. Įtrinus prieskonius padengiame viršutinę mėsos dalį garstyčiomis.
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143530_Bokeh_2_otoxcw.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965438/2020/08/27/IMG_20200827_143530_Bokeh_lrpjwo.jpg)
 
 Aplink mėsą užpilame sultinio. Dedame gvazdikėlius, lauro lapus bei paskirstome viskį. Uždedame foliją ir dedame kepti į 180 laipsnių įkaitintą orkaitę \~1 val. Po valandos nuimame foliją, padidiname kaitrą iki 200 laipsnių ir apskrudiname mėsą dar 30 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771727/2020/08/30/IMG_20200827_143752_Bokeh_2_v1alos.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965438/2020/08/27/IMG_20200827_143752_Bokeh_irdaop.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771733/2020/08/30/IMG_20200827_143905_Bokeh_2_uimggc.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965438/2020/08/27/IMG_20200827_143905_Bokeh_z77pvg.jpg)
 </div>
 </div>
 
@@ -58,4 +58,4 @@ Vietoje padažo neretai mėsą pašlakstau likusiu sultiniu. Tačiau jeigu vis g
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1598771734/2020/08/30/IMG_20200827_162351_Bokeh_2_coeic1.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965438/2020/08/27/IMG_20200827_162351_Bokeh_st0mpf.jpg)
