@@ -15,17 +15,18 @@ cover: 2020/08/27/IMG_20200827_162351_Bokeh_st0mpf.jpg
 
 **Produktai:**
 
-* 1 kg. kiaulienos kumpio ar sprandinės
-* 1 a. š. kumino
-* 1 a. š. maltos kalendros
-* 1 a. š. mairūno
-* 2 a. š. Dijon garstyčių
-* Aliejaus
-* Keli gvazdikėliai
-* Keli lauro lapai
-* 60 ml. viskio
-* 0,5 l. sultinio
+* <span itemprop="recipeIngredient">1 kg. kiaulienos kumpio ar sprandinės</span>
+* <span itemprop="recipeIngredient">1 a. š. kumino</span>
+* <span itemprop="recipeIngredient">1 a. š. maltos kalendros</span>
+* <span itemprop="recipeIngredient">1 a. š. mairūno</span>
+* <span itemprop="recipeIngredient">2 a. š. Dijon garstyčių</span>
+* <span itemprop="recipeIngredient">Aliejaus</span>
+* <span itemprop="recipeIngredient">Keli gvazdikėliai</span>
+* <span itemprop="recipeIngredient">Keli lauro lapai</span>
+* <span itemprop="recipeIngredient">60 ml. viskio</span>
+* <span itemprop="recipeIngredient">0,5 l. sultinio</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965438/2020/08/27/IMG_20200827_140521_Bokeh_cynwek.jpg)
 
 Imame kiaulieną bei pašlaktosme ją aliejumi. Šiek tiek įpjauname mėsą įstrižai, kad prieskoniai geriau įsigertų.
@@ -55,6 +56,7 @@ Aplink mėsą užpilame sultinio. Dedame gvazdikėlius, lauro lapus bei paskirst
 </div>
 
 Vietoje padažo neretai mėsą pašlakstau likusiu sultiniu. Tačiau jeigu vis gi norisi padažo, dalį sultinio supilkime į keptuvę, įpilkime balto vyno ir grietinėlės ir viską sutirštinkime. Miltų naudoti nereikia! Turėsite labai sodraus skonio padažą. Mėsą dažniausiai patiekiu su keptomis daržovėmis.
+</div>
 
 Skanaus!
 

@@ -15,15 +15,16 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 **Produktai:**
 
-* 200 g. avinžirnių makaronų
-* 50 g. sūrio (kietojo ar fermentinio)
-* Mocarelos rutuliukai
-* Saulėje džiovinti pomidorai
-* Kepintas česnakas
-* Druska
-* Pipirai
-* Šviežas bazilikas (nebūtina, bet labai rekomenduotina)
+* <span itemprop="recipeIngredient">200 g. avinžirnių makaronų</span>
+* <span itemprop="recipeIngredient">50 g. sūrio (kietojo ar fermentinio)</span>
+* <span itemprop="recipeIngredient">Mocarelos rutuliukai</span>
+* <span itemprop="recipeIngredient">Saulėje džiovinti pomidorai</span>
+* <span itemprop="recipeIngredient">Kepintas česnakas</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
+* <span itemprop="recipeIngredient">Šviežas bazilikas (nebūtina, bet labai rekomenduotina)</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_111633_Bokeh_vk9w0h.jpg)
 
 Į verdantį vandenį sudedame makaronus bei įberiame druskos. Verdame \~8 min. Į dar šiltus makaronus dedame turimą/norimą tarkuotą sūrį, mocarelos rutuliukus, saulėje džiovintus pomidorus, pipirus, baziliką, šiek tiek aliejaus iš saulėje džiovintų pomidorų stiklainiuko ir viską išmaišome. Gaunasi 2 porcijos.
@@ -61,6 +62,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 </div>
 
 Vuolia! Patiekalas paruoštas. :)
+</div>
 
 Skanaus!
 

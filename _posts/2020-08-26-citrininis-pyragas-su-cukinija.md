@@ -14,18 +14,19 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 
 **Produktai:**
 
-* 200 g. graikiško jogurto
-* 400 g. kvietinių miltų
-* 200 g. cukraus
-* 150 g. kokosų sviesto (aliejaus)
-* 3 kiaušiniai
-* 1 vidutinio dydžio cukinija
-* 2 citrinos
-* 1 a. š. vanilės ekstrakto
-* 1 a. š. kepimo miltelių
-* Druska
-* Cukraus pudra
+* <span itemprop="recipeIngredient">200 g. graikiško jogurto</span>
+* <span itemprop="recipeIngredient">400 g. kvietinių miltų</span>
+* <span itemprop="recipeIngredient">200 g. cukraus</span>
+* <span itemprop="recipeIngredient">150 g. kokosų sviesto (aliejaus)</span>
+* <span itemprop="recipeIngredient">3 kiaušiniai</span>
+* <span itemprop="recipeIngredient">1 vidutinio dydžio cukinija</span>
+* <span itemprop="recipeIngredient">2 citrinos</span>
+* <span itemprop="recipeIngredient">1 a. š. vanilės ekstrakto</span>
+* <span itemprop="recipeIngredient">1 a. š. kepimo miltelių</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Cukraus pudra</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_125157_Bokeh_ayuh0e.jpg)
 
 Paruošiame cukiniją. Nuplauname, sutarkuojame ir išspaudžiame sultis.
@@ -95,6 +96,7 @@ Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau
 Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.
 
 Įkvėpimo šiam pyragui sėmiausi iš blogo https://www.alattefood.com
+</div>
 
 Skanaus!
 

@@ -14,16 +14,17 @@ Kada cukinijų pilni šiltnamiai, ką su jomis daryti neužtenka vaizduotės. K�
 
 **Produktai:**
 
-* Dvi vidutinės cukinijos
-* Pusė raudonojo svogūno
-* 75 g. fetos (pusė pakelio)
-* Baltojo vyno actas
-* 1 a. š. medaus
-* 1 a. š. (be kaupo) Dijon garstyčių
-* Aliejaus
-* Pipirų
-* Druskos
+* <span itemprop="recipeIngredient">Dvi vidutinės cukinijos</span>
+* <span itemprop="recipeIngredient">Pusė raudonojo svogūno</span>
+* <span itemprop="recipeIngredient">75 g. fetos (pusė pakelio)</span>
+* <span itemprop="recipeIngredient">Baltojo vyno actas</span>
+* <span itemprop="recipeIngredient">1 a. š. medaus</span>
+* <span itemprop="recipeIngredient">1 a. š. (be kaupo) Dijon garstyčių</span>
+* <span itemprop="recipeIngredient">Aliejaus</span>
+* <span itemprop="recipeIngredient">Pipirų</span>
+* <span itemprop="recipeIngredient">Druskos</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_191753_Bokeh_2_hpbxrb.jpg)
 
 Supjaustome griežinėliais cukinijas ir dedame kepti ant griliaus.
@@ -58,8 +59,9 @@ Kol kepa cukinijos sumaišome padažą. Dedame aliejų, actą, garstyčias, med�
 </div>
 
 Keptas cikinijas dedame į dubenį. Kartu dedame griežinėliais pjaustytu svogūnus bei užpilame padažu. Galiausiai salotas pabarstome feta.
+</div>
 
-Skaunaus!
+Skanaus!
 
 <div class="row"> <div class="six columns" markdown="1"> ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_195829_Bokeh_2_mfzjxo.jpg)
 </div>

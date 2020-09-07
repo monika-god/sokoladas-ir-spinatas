@@ -15,17 +15,18 @@ Nors dar vasara, bet jau kartkartėmis pagalvoju apie rudenį. Prisimenu rudeni�
 
 **Produktai:**
 
-* Cannelloni
-* 500 g. moliūgo
-* 800 ml. konservuotų pomidorų
-* 150 ml. 35% grietinėlės
-* \~100 ml. baltojo vyno
-* 500 g. rikotos sūrio
-* \~120 g. fermentinio sūrio
-* Šviežias bazilikas
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Cannelloni</span>
+* <span itemprop="recipeIngredient">500 g. moliūgo</span>
+* <span itemprop="recipeIngredient">800 ml. konservuotų pomidorų</span>
+* <span itemprop="recipeIngredient">150 ml. 35% grietinėlės</span>
+* <span itemprop="recipeIngredient">\~100 ml. baltojo vyno</span>
+* <span itemprop="recipeIngredient">500 g. rikotos sūrio</span>
+* <span itemprop="recipeIngredient">\~120 g. fermentinio sūrio</span>
+* <span itemprop="recipeIngredient">Šviežias bazilikas</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965169/2020/08/16/IMG_20200818_115427_Bokeh_oxcet9.jpg)
 
 Visų pirmą turime iškepti moliūgą. Pastarąjį pašlakstome aliejumi, pabarstome druska, pipirais ir dedame į 180 laipsnių įkaitintą orkaitę. Kepame 30 min.
@@ -68,6 +69,7 @@ Užpilame įdarytus Cannelloni padažu ir šauname patiekalą į 180 laipsnių �
 </div>
 
 Išėmę apibarstome patiekalą fermentiniu sūriu ir dedame į orkaitę dar 10 min., kol sūris išsilydis.
+</div>
 
 Skanaus!
 

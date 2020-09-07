@@ -18,9 +18,7 @@ layout: default
     <div itemprop="description">
       {{ page.excerpt }}
     </div>
-    <div itemprop="recipeInstructions">
-      {{ content | remove: page.excerpt }}
-    </div>
+    {{ content | remove: page.excerpt }}
   </div>
 
   {% if site.disqus.shortname %}

@@ -15,26 +15,27 @@ cover: 2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg
 
 **Produktai:**
 
-* 500 g. viščiukų broilerių filė (ar krūtinėlės)
-* 400 g. konservuotų pomidorų
-* 150 g. virtų avinžirnių
-* 150 ml. 35% grietinėlės
-* Dviejų vidutinių svogūnų
-* Šviežios kalendros
-* Kelių česnako skiltelių
-* Pusės citrinos sulčių
-* Aliejaus kepimui
+* <span itemprop="recipeIngredient">500 g. viščiukų broilerių filė (ar krūtinėlės)</span>
+* <span itemprop="recipeIngredient">400 g. konservuotų pomidorų</span>
+* <span itemprop="recipeIngredient">150 g. virtų avinžirnių</span>
+* <span itemprop="recipeIngredient">150 ml. 35% grietinėlės</span>
+* <span itemprop="recipeIngredient">Dviejų vidutinių svogūnų</span>
+* <span itemprop="recipeIngredient">Šviežios kalendros</span>
+* <span itemprop="recipeIngredient">Kelių česnako skiltelių</span>
+* <span itemprop="recipeIngredient">Pusės citrinos sulčių</span>
+* <span itemprop="recipeIngredient">Aliejaus kepimui</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965322/2020/08/24/IMG_20200824_141640_Bokeh_p0oz2u.jpg)
 
 **Prieskoniai:**
 
-* 2 v. š. kario prieskonių
-* 1 a. š. aštrios paprikos prieskonių
-* 1 a. š. maltos kalendros prieskonių
-* Pipirų
-* Druskos
+* <span itemprop="recipeIngredient">2 v. š. kario prieskonių</span>
+* <span itemprop="recipeIngredient">1 a. š. aštrios paprikos prieskonių</span>
+* <span itemprop="recipeIngredient">1 a. š. maltos kalendros prieskonių</span>
+* <span itemprop="recipeIngredient">Pipirų</span>
+* <span itemprop="recipeIngredient">Druskos</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965322/2020/08/24/IMG_20200824_140148_Bokeh_dcjtzr.jpg)
 
 Supjaustome svogūnus kubeliais ir apkepiname kelias minutes keptuvėje. Sudedame prieskonius ir kapotą česnaką bei dar kelias minutes pakepiname svogūnus.  
@@ -76,6 +77,7 @@ Supilame grietinėlę ir citrinos sultis. Troškiname dar 10-15 min, kad troški
 </div>
 
 Dedame į dubenėlius bei pabarstome šviežios kalendros lapeliais. Jei norisi daugiau sotumo, šalia patiekite ryžius ar kitas kruopas. Aš naudoju perlines kruopas, nes jose daugiau maistingų medžiagų bei skaidulų.
+</div>
 
 Skanaus!
 

@@ -15,14 +15,15 @@ Svarbu! Skaniausi su mėgstamiausia arbata. :)
 
 **Ingredientai:**
 
-* 580 g. miltų
-* 155 g. sviesto
-* 230 g. cukraus
-* 3 kiaušiniai
-* 1 a. š. vanilės ekstrakto
-* 1 a. š. kepimo miltelių
-* Vienos citrinos žievelė
+* <span itemprop="recipeIngredient">580 g. miltų</span>
+* <span itemprop="recipeIngredient">155 g. sviesto</span>
+* <span itemprop="recipeIngredient">230 g. cukraus</span>
+* <span itemprop="recipeIngredient">3 kiaušiniai</span>
+* <span itemprop="recipeIngredient">1 a. š. vanilės ekstrakto</span>
+* <span itemprop="recipeIngredient">1 a. š. kepimo miltelių</span>
+* <span itemprop="recipeIngredient">Vienos citrinos žievelė</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598964889/2020/07/7/IMG_20200707_150528_Bokeh_pveuqe.jpg)
 
 Ištirpiname sviestą. Kiaušinius išplakame su cukrumi. Supilame tirpintą sviestą, vanilės ekstraktą bei citrinos žievelę. Į gautą masę suberiame birius produktus - miltus ir kepimo miltelius.
@@ -46,6 +47,7 @@ Toliau seka linksmiausia dalis - sausainių formavimas. Atlaužiame gabalėlį t
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598964890/2020/07/7/IMG_20200707_165303_Bokeh_dr7ccz.jpg)
 
 Įkaitiname orkaitę iki \~180 laipsnių. Kepame sausainius 13-15 min. arba kol lengvai įrus.
+</div>
 
 Skanaus!
 
@@ -53,4 +55,4 @@ Skanaus!
 
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598964888/2020/07/7/IMG_20200707_172807_Bokeh_hzs2we.jpg){:itemprop="image"}
 
-Įkvėpimas iš blogo https://www.savoringitaly.com/.
+Įkvėpimas iš blogo <https://www.savoringitaly.com/>.
