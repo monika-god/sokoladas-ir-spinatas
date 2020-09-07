@@ -76,6 +76,6 @@ Skanaus!
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_164707_Bokeh_xzzq70.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_171327_Bokeh_ifyjxb.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_171327_Bokeh_ifyjxb.jpg){:itemprop="image"}
 </div>
 </div>

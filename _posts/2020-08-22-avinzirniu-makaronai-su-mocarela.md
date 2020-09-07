@@ -64,4 +64,4 @@ Vuolia! Patiekalas paruoštas. :)
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_114349_Bokeh_x9l0jj.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_114349_Bokeh_x9l0jj.jpg){:itemprop="image"}

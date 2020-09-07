@@ -51,6 +51,6 @@ Skanaus!
 
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598964890/2020/07/7/IMG_20200707_171543_Bokeh_qxgw4o.jpg)
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598964888/2020/07/7/IMG_20200707_172807_Bokeh_hzs2we.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598964888/2020/07/7/IMG_20200707_172807_Bokeh_hzs2we.jpg){:itemprop="image"}
 
 Įkvėpimas iš blogo https://www.savoringitaly.com/.

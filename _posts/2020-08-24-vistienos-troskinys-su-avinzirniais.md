@@ -81,4 +81,4 @@ Skanaus!
 
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965321/2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg)
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599135132/2020/08/24/IMG_20200824_153541_cippwy.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599135132/2020/08/24/IMG_20200824_153541_cippwy.jpg){:itemprop="image"}

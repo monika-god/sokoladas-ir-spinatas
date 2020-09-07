@@ -58,4 +58,4 @@ Vietoje padažo neretai mėsą pašlakstau likusiu sultiniu. Tačiau jeigu vis g
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965438/2020/08/27/IMG_20200827_162351_Bokeh_st0mpf.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965438/2020/08/27/IMG_20200827_162351_Bokeh_st0mpf.jpg){:itemprop="image"}
