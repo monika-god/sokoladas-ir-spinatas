@@ -26,7 +26,7 @@ Nors dar vasara, bet jau kartkartėmis pagalvoju apie rudenį. Prisimenu rudeni�
 * Druska
 * Pipirai
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965169/2020/08/16/IMG_20200818_115427_Bokeh_oxcet9.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965169/2020/08/16/IMG_20200818_115427_Bokeh_oxcet9.jpg)
 
 Visų pirmą turime iškepti moliūgą. Pastarąjį pašlakstome aliejumi, pabarstome druska, pipirais ir dedame į 180 laipsnių įkaitintą orkaitę. Kepame 30 min.
 
@@ -34,10 +34,10 @@ Iškeptą moliūgą trintuvo pagalba sumalame kartu su rikota. Įdedame druskos 
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965167/2020/08/16/IMG_20200818_154200_Bokeh_brhjty.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965167/2020/08/16/IMG_20200818_154200_Bokeh_brhjty.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965168/2020/08/16/IMG_20200818_154847_Bokeh_qumyxg.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_154847_Bokeh_qumyxg.jpg)
 </div>
 </div>
 
@@ -45,10 +45,10 @@ Iškeptą moliūgą trintuvo pagalba sumalame kartu su rikota. Įdedame druskos 
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965167/2020/08/16/IMG_20200818_160403_Bokeh_ghipod.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965167/2020/08/16/IMG_20200818_160403_Bokeh_ghipod.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965167/2020/08/16/IMG_20200818_160642_Bokeh_vqhhyb.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965167/2020/08/16/IMG_20200818_160642_Bokeh_vqhhyb.jpg)
 </div>
 </div>
 
@@ -57,13 +57,13 @@ Užpilame įdarytus Cannelloni padažu ir šauname patiekalą į 180 laipsnių �
 
 <div class="row">
 <div class="four columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965168/2020/08/16/IMG_20200818_162337_Bokeh_jurrnb.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_162337_Bokeh_jurrnb.jpg)
 </div>
 <div class="four columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965168/2020/08/16/IMG_20200818_162405_Bokeh_clfgta.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_162405_Bokeh_clfgta.jpg)
 </div>
 <div class="four columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965168/2020/08/16/IMG_20200818_162641_Bokeh_osruyw.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_162641_Bokeh_osruyw.jpg)
 </div>
 </div>
 
@@ -73,9 +73,9 @@ Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965168/2020/08/16/IMG_20200818_164707_Bokeh_xzzq70.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_164707_Bokeh_xzzq70.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965168/2020/08/16/IMG_20200818_171327_Bokeh_ifyjxb.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965168/2020/08/16/IMG_20200818_171327_Bokeh_ifyjxb.jpg)
 </div>
 </div>
