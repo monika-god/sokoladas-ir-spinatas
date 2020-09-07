@@ -32,26 +32,10 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 cloudinary:
-  cloud_name: monikagod
   origin_url: https://res.cloudinary.com/monikagod/
-  presets:
-    default:
-      min_width: 320
-      max_width: 1600
-      fallback_max_width: 800
-      steps: 5
-      sizes: "(min-width: 50rem) 50rem, 90vw"
-    postcover:
-      min_width: 320
-      max_width: 800
-      fallback_max_width: 400
-      steps: 3
-      sizes: "(min-width: 50rem) 25rem, 90vw"
-      attributes:
-        class: "post-cover"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
