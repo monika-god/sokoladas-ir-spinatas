@@ -51,16 +51,15 @@ Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.
 Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.
 
 <div class="row">
-<div class="four columns" markdown="1">
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164355_Bokeh_edbbvl.jpg)
 </div>
-<div class="four columns" markdown="1">
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164428_Bokeh_d5itkm.jpg)  
 </div>
-<div class="four columns" markdown="1">
+</div>
+
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164451_Bokeh_gecb87.jpg)
-</div>
-</div>
 
 Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.
 
