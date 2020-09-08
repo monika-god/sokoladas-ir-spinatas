@@ -74,4 +74,4 @@ Po 5 min. nuimkite nuo ugnies ir galite tiekti.
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_170937_Bokeh_vw33w3.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_170937_Bokeh_vw33w3.jpg){:itemprop="image"}
