@@ -30,8 +30,15 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)  
   
 Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162327_Bokeh_ozdkqh.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_162344_Bokeh_jl5vzw.jpg)
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162327_Bokeh_ozdkqh.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_162344_Bokeh_jl5vzw.jpg)
+</div>
+</div>
 
 Tuo metu supilame sultinį į puodą ir sudedame virti bulves.  
   
@@ -41,11 +48,19 @@ Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162948_iobskn.jpg)
 
-Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164355_Bokeh_edbbvl.jpg)  
+Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min. 
+
+<div class="row">
+<div class="four columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164355_Bokeh_edbbvl.jpg)
+</div>
+<div class="four columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164428_Bokeh_d5itkm.jpg)  
+</div>
+<div class="four columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164451_Bokeh_gecb87.jpg)
+</div>
+</div>
 
 Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.  
   
