@@ -15,17 +15,17 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 * <span itemprop="recipeIngredient">500 g. vištienos broilerių filė</span>
 * <span itemprop="recipeIngredient">1,5 l.  vištienos sultinio</span>
 * <span itemprop="recipeIngredient">150-200 ml. 35% grietinėlės</span>
-* 200 g. šaldytų žirnelių
-* 2 morkos
-* 4 nedidelės bulvės
-* 2 vidutinio dydžio svogūnai
-* 3 skiltelės česnako
-* Šviežios petražolės
-* Šviežūs krapai
-* Keli lauro lapai
-* Aliejus
-* Pipirai
-* Druska
+* <span itemprop="recipeIngredient">200 g. šaldytų žirnelių</span>
+* <span itemprop="recipeIngredient">2 morkos</span>
+* <span itemprop="recipeIngredient">4 nedidelės bulvės</span>
+* <span itemprop="recipeIngredient">2 vidutinio dydžio svogūnai</span>
+* <span itemprop="recipeIngredient">3 skiltelės česnako</span>
+* <span itemprop="recipeIngredient">Šviežios petražolės</span>
+* <span itemprop="recipeIngredient">Šviežūs krapai</span>
+* <span itemprop="recipeIngredient">Keli lauro lapai</span>
+* <span itemprop="recipeIngredient">Aliejus</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
+* <span itemprop="recipeIngredient">Druska</span>
 
 <div itemprop="recipeInstructions" markdown="1"> ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965322/2020/08/24/IMG_20200824_140148_Bokeh_dcjtzr.jpg)
 
