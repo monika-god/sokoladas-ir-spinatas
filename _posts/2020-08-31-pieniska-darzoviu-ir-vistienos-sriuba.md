@@ -2,7 +2,10 @@
 author: Monika Godelienė
 layout: post
 date: 2020-08-31T18:06:35.000+03:00
-tags: []
+tags:
+- pietūs
+- sriuba
+- žiemos patiekalai
 title: Pieniška daržovių ir vištienos sriuba
 cover: 2020/08/30/IMG_20200831_171803_Bokeh_x8nkf7.jpg
 
