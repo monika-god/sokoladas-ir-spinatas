@@ -27,16 +27,32 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 * Pipirai
 * Druska
 
-Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)  
+  
+Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162327_Bokeh_ozdkqh.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_162344_Bokeh_jl5vzw.jpg)
 
-Tuo metu supilame sultinį į puodą ir sudedame virti bulves.
+Tuo metu supilame sultinį į puodą ir sudedame virti bulves.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162914_o2skch.jpg)
 
-Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.
+Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162948_iobskn.jpg)
 
-Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.
+Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164355_Bokeh_edbbvl.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164428_Bokeh_d5itkm.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_164451_Bokeh_gecb87.jpg)
 
-Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.
+Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_165534_Bokeh_pjdshz.jpg)
 
 Po 5 min. nuimkite nuo ugnies ir galite tiekti.
 
-Skanaus!
+Skanaus!  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_170937_Bokeh_vw33w3.jpg)
