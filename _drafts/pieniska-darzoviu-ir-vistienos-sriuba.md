@@ -27,9 +27,7 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 * <span itemprop="recipeIngredient">Pipirai</span>
 * <span itemprop="recipeIngredient">Druska</span>
 
-<div itemprop="recipeInstructions" markdown="1"> ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965322/2020/08/24/IMG_20200824_140148_Bokeh_dcjtzr.jpg)
-
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)
+<div itemprop="recipeInstructions" markdown="1">![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)
 
 Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.
 
