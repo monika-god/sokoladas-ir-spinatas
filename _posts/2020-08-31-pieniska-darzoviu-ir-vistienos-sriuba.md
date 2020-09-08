@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-31T18:06:35.000+03:00
+date: 2020-09-08 18:06:35 +0300
 tags:
 - pietūs
 - sriuba
