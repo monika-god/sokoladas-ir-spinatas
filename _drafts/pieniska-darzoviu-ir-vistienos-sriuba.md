@@ -1,14 +1,14 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-31 18:06:35 +0300
+date: 2020-08-31T18:06:35.000+03:00
 tags: []
 title: Pieniška daržovių ir vištienos sriuba
 cover: 2020/08/30/IMG_20200831_171803_Bokeh_x8nkf7.jpg
 
 ---
-Kai grįžti namo sulijęs ir nori kažko komfortiško, nostalgiško, sušildančio iš vidaus, tarsi kas nors tave viduje apgobtų su minkštu, pūkuotu pledu..Tokius jausmus man kelia šiltas garuojantis obuolių pyragas arba karšta daržovių sriuba.   
-Šį kartą pasirinkau virti sriubą - pieniška, su šviežiomis daržovėmis, sušildisianti ir priminsianti apie vasarą drėgniausią rudens vakarą.  
+Kai grįžti namo sulijęs ir nori kažko komfortiško, nostalgiško, sušildančio iš vidaus, tarsi kas nors tave viduje apgobtų su minkštu, pūkuotu pledu... Tokius jausmus man kelia šiltas garuojantis obuolių pyragas arba karšta daržovių sriuba.  
+Šį kartą pasirinkau virti sriubą - pieniška, su šviežiomis daržovėmis, sušildisianti ir priminsianti apie vasarą drėgniausią rudens vakarą.
 
 **Produktai:**
 
