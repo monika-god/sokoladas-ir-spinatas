@@ -8,7 +8,7 @@ cover: 2020/08/30/IMG_20200831_171803_Bokeh_x8nkf7.jpg
 
 ---
 Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgiško, sušildančio iš vidaus, tarsi kas nors tave viduje apgobtų su minkštu, pūkuotu pledu... Tokius jausmus man kelia šiltas garuojantis obuolių pyragas arba karšta daržovių sriuba.  
-Šį kartą pasirinkau virti sriubą - pieniška, su šviežiomis daržovėmis, sušildisianti ir priminsianti apie vasarą drėgniausią rudens vakarą.
+Šį kartą pasirinkau virti sriubą - pieniška, su šviežiomis daržovėmis, sušildisianti ir priminsianti apie vasarą drėgniausią rudens vakarą. :)
 
 **Produktai:**
 
@@ -27,9 +27,9 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 * Pipirai
 * Druska
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)  
-  
-Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.  
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)
+
+Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
@@ -40,15 +40,15 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 </div>
 </div>
 
-Tuo metu supilame sultinį į puodą ir sudedame virti bulves.  
-  
+Tuo metu supilame sultinį į puodą ir sudedame virti bulves.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162914_o2skch.jpg)
 
-Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.  
-  
+Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965474/2020/08/30/IMG_20200831_162948_iobskn.jpg)
 
-Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min. 
+Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.
 
 <div class="row">
 <div class="four columns" markdown="1">
@@ -62,12 +62,12 @@ Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.
 </div>
 </div>
 
-Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.  
-  
+Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_165534_Bokeh_pjdshz.jpg)
 
 Po 5 min. nuimkite nuo ugnies ir galite tiekti.
 
-Skanaus!  
-  
+Skanaus!
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1598965475/2020/08/30/IMG_20200831_170937_Bokeh_vw33w3.jpg)
