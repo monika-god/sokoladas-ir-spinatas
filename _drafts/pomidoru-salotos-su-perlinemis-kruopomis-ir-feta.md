@@ -27,6 +27,7 @@ Produktai:
 * <span itemprop="recipeIngredient">Druska</span>
 * <span itemprop="recipeIngredient">Pipirai</span>
 
+<div itemprop="recipeInstructions" markdown="1">  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163554_Bokeh_2_jdllta.jpg)
 
 Paruošiame padažą. Sumaišome aliejų, actą, garstyčias, medų bei pabarstome  druska ir pipirais.
@@ -49,7 +50,8 @@ Paruošiame padažą. Sumaišome aliejų, actą, garstyčias, medų bei pabarsto
 </div>
 </div>
 
-Toliau supjaustome pomidorus, svogūną, prieskonines žoleles, fetą ir viską užpilame padažu. Viską išmaišome ir galime tiekti. Puikiai tinka prie paukštienos patiekalų ar rytinės kiaušinienės.
+Toliau supjaustome pomidorus, svogūną, prieskonines žoleles, fetą ir viską užpilame padažu. Viską išmaišome ir galime tiekti. Puikiai tinka prie paukštienos patiekalų ar rytinės kiaušinienės.  
+</div>
 
 Skanaus!
 
