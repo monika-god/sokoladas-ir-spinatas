@@ -26,4 +26,13 @@ Produktai:
 * Druska
 * Pipirai
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163554_Bokeh_2_jdllta.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163554_Bokeh_2_jdllta.jpg)  
+Paruošiame padažą. Sumaišome aliejų, actą, garstyčias, medų ir pabarstome  druska ir pipirais. ![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163347_Bokeh_2_yr89gp.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163717_Bokeh_2_nyhnco.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163834_Bokeh_2_r0hoag.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164029_Bokeh_2_yzhgfb.jpg)  
+Toliau spjaustome pomidorus, svogūną, prieskonines žoleles ir viską užpilame padažu. Galiausiai pabarstome salotas feta.  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164309_Bokeh_2_cv2ia4.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164427_Bokeh_2_dwjssf.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164521_Bokeh_2_isrwvz.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599577174/2020/09/08/IMG_20200908_164553_Bokeh_2_gjslmr.jpg)
