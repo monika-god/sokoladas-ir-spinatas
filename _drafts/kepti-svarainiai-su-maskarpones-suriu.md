@@ -32,8 +32,14 @@ Visų pirmą supjaustome ir išdarinėjame svarainius.
 
 Sekantis žingsnis - paruošti užpilą. Į puodą dedame sviestą, cukrų, medų ir šlakelį vandens bei viską išlydome iki vientisos masės.
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657326/2020/09/09/IMG_20200909_150853_Bokeh_2_xp6sol.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1599657326/2020/09/09/IMG_20200909_150853_Bokeh_2_xp6sol.jpg)
+</div>
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599657326/2020/09/09/IMG_20200909_151529_Bokeh_2_fgalbu.jpg)
+</div>
+</div>
 
 Gautu užpilu apliejame svarainius ir dedame į 180 laipsnių įkatintą orkaitę 10-15 minučių, kol svarainiai tampa minkšti. Kepimo trukmė, žinoma, priklauso nuo vaisių dydžio.  
   
@@ -42,6 +48,14 @@ Gautu užpilu apliejame svarainius ir dedame į 180 laipsnių įkatintą orkait�
 Į lėkstę dedame Maskarponės sūrį. Ant viršaus dedame keptus svarainius. Pastaruosius pabarstome sausainių trupiniais bei smulkintais riešutais. Pašlakstome likusiu sirupu. Papuošti desertą galite mėtos lapeliu. Iš turimų produktų gaunasi 2 porcijos.  
   
 Skanaus!  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_152043_Bokeh_2_xmhcdw.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_153344_Bokeh_2_fwcat3.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1599657328/2020/09/09/IMG_20200909_154119_Bokeh_2_jke6v1.jpg)
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_152043_Bokeh_2_xmhcdw.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_153344_Bokeh_2_fwcat3.jpg)
+</div>
+</div>
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1599657328/2020/09/09/IMG_20200909_154119_Bokeh_2_jke6v1.jpg)
