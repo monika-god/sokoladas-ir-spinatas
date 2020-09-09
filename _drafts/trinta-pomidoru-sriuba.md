@@ -10,4 +10,4 @@ title: Trinta pomidorų sriuba
 cover: ''
 
 ---
-Greičiausiai pomidorų pintinės tuštėja verdant pomidorų sriubą. Jos nepakanka tik vieno dubenėlio, todėl kartosite. Tiršta, kreminė ir pomidoringa. Taip atrodo pastarųjų savaičių mūsų meniu.
+Greičiausiai pomidorų pintinės tuštėja verdant pomidorų sriubą. Jos nepakanka tik vieno dubenėlio, todėl tikrai kartosite. Tiršta, kreminė ir pomidoringa. Taip atrodo pastarųjų savaičių mūsų meniu.
