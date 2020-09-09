@@ -28,25 +28,25 @@ Produktai:
 * <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">  
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163554_Bokeh_2_jdllta.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577172/2020/09/08/IMG_20200908_163554_Bokeh_2_jdllta.jpg)
 
 Paruošiame padažą. Sumaišome aliejų, actą, garstyčias, medų bei pabarstome  druska ir pipirais.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163347_Bokeh_2_yr89gp.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577172/2020/09/08/IMG_20200908_163347_Bokeh_2_yr89gp.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163717_Bokeh_2_nyhnco.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577172/2020/09/08/IMG_20200908_163717_Bokeh_2_nyhnco.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163834_Bokeh_2_r0hoag.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577172/2020/09/08/IMG_20200908_163834_Bokeh_2_r0hoag.jpg)  
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164029_Bokeh_2_yzhgfb.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577173/2020/09/08/IMG_20200908_164029_Bokeh_2_yzhgfb.jpg)
 </div>
 </div>
 
@@ -57,20 +57,20 @@ Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164309_Bokeh_2_cv2ia4.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577173/2020/09/08/IMG_20200908_164309_Bokeh_2_cv2ia4.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164427_Bokeh_2_dwjssf.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577173/2020/09/08/IMG_20200908_164427_Bokeh_2_dwjssf.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577173/2020/09/08/IMG_20200908_164521_Bokeh_2_isrwvz.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577173/2020/09/08/IMG_20200908_164521_Bokeh_2_isrwvz.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577174/2020/09/08/IMG_20200908_164553_Bokeh_2_gjslmr.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577174/2020/09/08/IMG_20200908_164553_Bokeh_2_gjslmr.jpg)
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599577174/2020/09/08/IMG_20200908_165146_Bokeh_2_exugq8.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577174/2020/09/08/IMG_20200908_165146_Bokeh_2_exugq8.jpg)
