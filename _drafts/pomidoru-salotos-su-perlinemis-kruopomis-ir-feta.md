@@ -14,18 +14,18 @@ Pirmosios rudens savaitės reiškia pilnas pintines pomidorų iš mamos šiltnam
 
 Produktai:
 
-* Pomidorai
-* Perlinės kruopos
-* Pusė svogūno
-* 75 g. Fetos sūrio
-* Šviežūs krapai
-* Šviežios petražolės
-* Aliejus
-* Balzamiko actas
-* 1 a. š. Dijon garstyčių
-* 1 a. š. medaus
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Pomidorai</span>
+* <span itemprop="recipeIngredient">Perlinės kruopos</span>
+* <span itemprop="recipeIngredient">Pusė svogūno</span>
+* <span itemprop="recipeIngredient">75 g. Fetos sūrio</span>
+* <span itemprop="recipeIngredient">Šviežūs krapai</span>
+* <span itemprop="recipeIngredient">Šviežios petražolės</span>
+* <span itemprop="recipeIngredient">Aliejus</span>
+* <span itemprop="recipeIngredient">Balzamiko actas</span>
+* <span itemprop="recipeIngredient">1 a. š. Dijon garstyčių</span>
+* <span itemprop="recipeIngredient">1 a. š. medaus</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599577172/2020/09/08/IMG_20200908_163554_Bokeh_2_jdllta.jpg)
 
@@ -69,6 +69,6 @@ Skanaus!
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599577174/2020/09/08/IMG_20200908_164553_Bokeh_2_gjslmr.jpg)
 </div>
-</div>  
-  
+</div>
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599577174/2020/09/08/IMG_20200908_165146_Bokeh_2_exugq8.jpg)
