@@ -41,13 +41,13 @@ Sekantis žingsnis - paruošti užpilą. Į puodą dedame sviestą, cukrų, med�
 </div>
 </div>
 
-Gautu užpilu apliejame svarainius ir dedame į 180 laipsnių įkatintą orkaitę 10-15 minučių, kol svarainiai tampa minkšti. Kepimo trukmė, žinoma, priklauso nuo vaisių dydžio.  
-  
+Gautu užpilu apliejame svarainius ir dedame į 180 laipsnių įkatintą orkaitę 10-15 minučių, kol svarainiai tampa minkšti. Kepimo trukmė, žinoma, priklauso nuo vaisių dydžio.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_151614_Bokeh_2_uig8hg.jpg)
 
-Į lėkstę dedame Maskarponės sūrį. Ant viršaus dedame keptus svarainius. Pastaruosius pabarstome sausainių trupiniais bei smulkintais riešutais. Pašlakstome likusiu sirupu. Papuošti desertą galite mėtos lapeliu. Iš turimų produktų gaunasi 2 porcijos.  
-  
-Skanaus!  
+Į lėkstę dedame Maskarponės sūrį. Ant viršaus dedame keptus svarainius. Pastaruosius pabarstome sausainių trupiniais bei smulkintais riešutais. Pašlakstome likusiu sirupu. Papuošti desertą galite mėtos lapeliu. Iš turimų produktų gaunasi 2 porcijos.
+
+Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
