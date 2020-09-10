@@ -26,7 +26,7 @@ Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas,
 
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599732513/2020/09/10/IMG_20200910_124332_Bokeh_2_bot16n.jpg)
 
-Supjaustome pomidorus, svogūną ir bazilikų šakelę. Pabarstome viską druska ir pipirais. Tuomet sumaišome aliejų su balzamiko actu. Gautą užpilą pilame ant pjaustytų daržovių ir viską išmaišome. Tiekti galite prie bet kokios mėsos ar rytinės kiaušinienės.  
+Supjaustome pomidorus, svogūną ir bazilikų šakelę. Pabarstome viską druska ir pipirais. Tuomet sumaišome aliejų su balzamiko actu. Gautą užpilą pilame ant pjaustytų daržovių ir viską išmaišome. Tiekti galite prie bet kokios mėsos ar rytinės kiaušinienės.
 
 </div>
 
