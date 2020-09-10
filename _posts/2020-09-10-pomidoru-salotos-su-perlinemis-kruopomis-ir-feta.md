@@ -15,7 +15,7 @@ Pirmosios rudens savaitės reiškia pilnas pintines paskutinių pomidorų iš ma
 Produktai:
 
 * <span itemprop="recipeIngredient">Pomidorai</span>
-* <span itemprop="recipeIngredient">Perlinės kruopos</span>
+* <span itemprop="recipeIngredient">Virtos perlinės kruopos</span>
 * <span itemprop="recipeIngredient">Pusė svogūno</span>
 * <span itemprop="recipeIngredient">75 g. Fetos sūrio</span>
 * <span itemprop="recipeIngredient">Šviežūs krapai</span>
