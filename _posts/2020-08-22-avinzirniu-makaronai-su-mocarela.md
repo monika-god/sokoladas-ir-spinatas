@@ -25,7 +25,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 * <span itemprop="recipeIngredient">Šviežas bazilikas (nebūtina, bet labai rekomenduotina)</span>
 
 <div itemprop="recipeInstructions" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_111633_Bokeh_vk9w0h.jpg)
+![Makaronai su Mocarela-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_111633_Bokeh_vk9w0h.jpg)
 
 Į verdantį vandenį sudedame makaronus bei įberiame druskos. Verdame \~8 min. Į dar šiltus makaronus dedame turimą/norimą tarkuotą sūrį, mocarelos rutuliukus, saulėje džiovintus pomidorus, pipirus, baziliką, šiek tiek aliejaus iš saulėje džiovintų pomidorų stiklainiuko ir viską išmaišome. Gaunasi 2 porcijos.
 
@@ -33,7 +33,7 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113701_Bokeh_x0z9wn.jpg)
+![Makaronai su Mocarela-](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113701_Bokeh_x0z9wn.jpg)
 
 </div>
 
