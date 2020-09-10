@@ -10,7 +10,7 @@ title: Pomidorų salotos su perlinėmis kruopomis ir feta
 cover: "/v1599577174/2020/09/08/IMG_20200908_165222_Bokeh_k96gl3.jpg"
 
 ---
-Pirmosios rudens savaitės reiškia pilnas pintines pomidorų iš mamos šiltnamio. Nusimato nemažai pomidoringų patiekalų, kol pastarosios ištuštės. Šiandieną - salotos! Ne bet kokios, o su perlinėmis kruopomis. Traškios kruopos, minkšti, kvapnūs pomidorai, šviežios prieskoninės žolelės ir viską surišantis padažas. Vasara bet kada gali sugrįžti, bent jau mūsų lėkštėse. :)
+Pirmosios rudens savaitės reiškia pilnas pintines paskutinių pomidorų iš mamos šiltnamio. Nusimato nemažai pomidoringų patiekalų, kol pastarosios ištuštės. Šiandieną - salotos! Ne bet kokios, o su perlinėmis kruopomis. Traškios kruopos, minkšti, kvapnūs pomidorai, šviežios prieskoninės žolelės ir viską surišantis padažas. Vasara bet kada gali sugrįžti, bent jau mūsų lėkštėse. :)
 
 Produktai:
 
