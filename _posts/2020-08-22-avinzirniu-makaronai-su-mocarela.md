@@ -33,13 +33,13 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-![Makaronai su Mocarela-](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113701_Bokeh_x0z9wn.jpg)
+![Makaronai su Mocarela-česnakai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113701_Bokeh_x0z9wn.jpg)
 
 </div>
 
 <div class="six columns" markdown="1">
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113745_Bokeh_ch1e73.jpg)
+![Makaronai su Mocarela-Mocarela](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113745_Bokeh_ch1e73.jpg)
 
 </div>
 
@@ -49,13 +49,13 @@ Jei dar nemėginai, būtina išmėginti avinžirnių makaronus. Skanūs, kaip į
 
 <div class="six columns" markdown="1">
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113800_Bokeh_bj6ogm.jpg)
+![Makaronai su Mocarela-saulėje džiovinti pomidorai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_113800_Bokeh_bj6ogm.jpg)
 
 </div>
 
 <div class="six columns" markdown="1">
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965225/2020/08/20/IMG_20200820_113821_Bokeh_ut1mxm.jpg)
+![Makaronai su Mocarela-sūris](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965225/2020/08/20/IMG_20200820_113821_Bokeh_ut1mxm.jpg)
 
 </div>
 
@@ -66,4 +66,4 @@ Vuolia! Patiekalas paruoštas. :)
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_114349_Bokeh_x9l0jj.jpg){:itemprop="image"}
+![Makaronai su Mocarela](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965224/2020/08/20/IMG_20200820_114349_Bokeh_x9l0jj.jpg){:itemprop="image"}
