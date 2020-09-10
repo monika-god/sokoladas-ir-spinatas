@@ -34,4 +34,15 @@ Visų pirma paruošiame daržoves kepimui. Supjaustome ketvirčiais pomidorus ir
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727936/2020/09/10/IMG_20200909_132916_Bokeh_2_afmgyy.jpg)  
 Į puodą dedame pomidorus savose sultyse, keptas daržoves, pomidorų pastą, daulėje džiovintus pomidorus ir pilame stinklinę vandens.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1599727962/2020/09/10/IMG_20200909_135539_Bokeh_2_b3lbjo.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727962/2020/09/10/IMG_20200909_135539_Bokeh_2_b3lbjo.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727962/2020/09/10/IMG_20200909_135847_Bokeh_2_mpxy6z.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727963/2020/09/10/IMG_20200909_135906_Bokeh_2_fjxvsu.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727963/2020/09/10/IMG_20200909_135922_Bokeh_2_ofwoen.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727964/2020/09/10/IMG_20200909_135953_Bokeh_2_yybdrp.jpg)  
+Verdame 20 minučių. Sriubą sutrinamee su trintuvu. Pilame grietinėlę ir dedame saują šviežių bazilikų. paverdame dar 10 min. Po 10 minučių galime tiekti. Pašlakstome alyvuogių aliejų arba aliejų nuo saulėje džiovintų pomidorų, pabarstome kietojo sūrio ir užberiame kelis baziliko lapelius.  
+  
+Skanaus!  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_142207_Bokeh_2_du3gju.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_142314_Bokeh_2_i9rzbw.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_143837_Bokeh_2_sogcnp.jpg)
