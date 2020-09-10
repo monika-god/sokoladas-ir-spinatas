@@ -15,14 +15,14 @@ Kai visiškai įprasta yra kepti figas, kriaušes ar obuolius, kodėl mes nekepa
 
 **Produktai:**
 
-* Svarainiai
-* 200 g. Maskarponės sūrio
-* 30 g. sviesto
-* 2 v. š. cukraus
-* 2 a. š. medaus
-* Šlakelis vandens
-* 2 vnt. avižinių sausainių
-* 3 vnt. graikinių riešutų
+* <span itemprop="recipeIngredient">Svarainiai</span>
+* <span itemprop="recipeIngredient">200 g. Maskarponės sūrio</span>
+* <span itemprop="recipeIngredient">30 g. sviesto</span>
+* <span itemprop="recipeIngredient">2 v. š. cukraus</span>
+* <span itemprop="recipeIngredient">2 a. š. medaus</span>
+* <span itemprop="recipeIngredient">Šlakelis vandens</span>
+* <span itemprop="recipeIngredient">2 vnt. avižinių sausainių</span>
+* <span itemprop="recipeIngredient">3 vnt. graikinių riešutų</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599657337/2020/09/09/IMG_20200909_145816_Bokeh_2_ouxddf.jpg)
 
