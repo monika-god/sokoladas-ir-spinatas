@@ -73,4 +73,4 @@ Skanaus!
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577174/2020/09/08/IMG_20200908_165146_Bokeh_2_exugq8.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599577174/2020/09/08/IMG_20200908_165146_Bokeh_2_exugq8.jpg){:itemprop="image"}
