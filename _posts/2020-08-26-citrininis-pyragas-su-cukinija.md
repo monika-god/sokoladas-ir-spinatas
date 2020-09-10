@@ -27,16 +27,16 @@ Iki vasaros pabaigos dar kelios dienos. Norisi sugaudyti paskutinius saulės spi
 * <span itemprop="recipeIngredient">Cukraus pudra</span>
 
 <div itemprop="recipeInstructions" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_125157_Bokeh_ayuh0e.jpg)
+![Citrininis pyragas su cukinija-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_125157_Bokeh_ayuh0e.jpg)
 
 Paruošiame cukiniją. Nuplauname, sutarkuojame ir išspaudžiame sultis.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130452_Bokeh_hh8n9j.jpg)
+![Citrininis pyragas su cukinija-cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130452_Bokeh_hh8n9j.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130516_Bokeh_whjssw.jpg)
+![Citrininis pyragas su cukinija-cukinijos sultys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130516_Bokeh_whjssw.jpg)
 </div>
 </div>
 
@@ -44,28 +44,28 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_125604_Bokeh_q7yunh.jpg)
+![Citrininis pyragas su cukinija-kiaušiniai ir cukrus](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_125604_Bokeh_q7yunh.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130801_Bokeh_tdlghi.jpg)
+![Citrininis pyragas su cukinija-aliejus](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130801_Bokeh_tdlghi.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965379/2020/08/26/IMG_20200826_130821_Bokeh_zihbhn.jpg)
+![Citrininis pyragas su cukinija-jogurtas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965379/2020/08/26/IMG_20200826_130821_Bokeh_zihbhn.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_130858_Bokeh_m2clxl.jpg)
+![Citrininis pyragas su cukinija-vanilė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_130858_Bokeh_m2clxl.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965379/2020/08/26/IMG_20200826_130905_Bokeh_kyyuxb.jpg)
+![Citrininis pyragas su cukinija-žievelė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965379/2020/08/26/IMG_20200826_130905_Bokeh_kyyuxb.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965379/2020/08/26/IMG_20200826_130912_Bokeh_ebziku.jpg)
+![Citrininis pyragas su cukinija-sultys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965379/2020/08/26/IMG_20200826_130912_Bokeh_ebziku.jpg)
 </div>
 </div>
 
@@ -73,10 +73,10 @@ Gaminame tešlą. Ištirpiname kokosų sviestą. Kiaušinius išplakame su cukru
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131033_Bokeh_uaq2ai.jpg)
+![Citrininis pyragas su cukinija-birūs produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131033_Bokeh_uaq2ai.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131153_Bokeh_jvu8lv.jpg)
+![Citrininis pyragas su cukinija-maišymas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131153_Bokeh_jvu8lv.jpg)
 </div>
 </div>
 
@@ -84,14 +84,14 @@ Sudedame cukiniją ir išmaišome. Gautą masę sudedame į formą. Aš naudojau
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131349_Bokeh_anfhe5.jpg)
+![Citrininis pyragas su cukinija-cukinija į tešlą](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131349_Bokeh_anfhe5.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131717_Bokeh_ecgarg.jpg)
+![Citrininis pyragas su cukinija-tešla](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965380/2020/08/26/IMG_20200826_131717_Bokeh_ecgarg.jpg)
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965381/2020/08/26/IMG_20200826_131928_Bokeh_ym6snw.jpg)
+![Citrininis pyragas su cukinija-tešla](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965381/2020/08/26/IMG_20200826_131928_Bokeh_ym6snw.jpg)
 
 Iškepę pyragą jį atvėsiname ir paruošiame glaistą. Sumaišome pusės citrinos sultis su cukraus pudra. Pudros dedame tiek, kol gauname norimą glaisto tirštumą. Papuošiame pyragą vienos citrinos žievele.
 
@@ -102,11 +102,11 @@ Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965377/2020/08/26/IMG_20200826_145450_Bokeh_yvxkmg.jpg)
+![Citrininis pyragas su cukinija-gabalėlis](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965377/2020/08/26/IMG_20200826_145450_Bokeh_yvxkmg.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_150124_Bokeh_ujzpjz.jpg)
+![Citrininis pyragas su cukinija-gabalėlis](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_150124_Bokeh_ujzpjz.jpg)
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965377/2020/08/26/IMG_20200826_145044_Bokeh_lxz77i.jpg){:itemprop="image"}
+![Citrininis pyragas su cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965377/2020/08/26/IMG_20200826_145044_Bokeh_lxz77i.jpg){:itemprop="image"}
