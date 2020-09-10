@@ -14,13 +14,13 @@ Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas,
 
 **Produktai:**
 
-* Pomidorai
-* Pusė svogūno
-* Aliejus
-* Balzamiko actas
-* Šviežias bazilikas
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Pomidorai</span>
+* <span itemprop="recipeIngredient">Pusė svogūno</span>
+* <span itemprop="recipeIngredient">Aliejus</span>
+* <span itemprop="recipeIngredient">Balzamiko </span>actas
+* <span itemprop="recipeIngredient">Šviežias</span> bazilikas
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599732513/2020/09/10/IMG_20200910_124332_Bokeh_2_bot16n.jpg)
 
