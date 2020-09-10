@@ -50,7 +50,7 @@ Paruošiame užpilą. Sumaišome aliejų, actą, garstyčias, medų bei pabarsto
 </div>
 </div>
 
-Toliau supjaustome pomidorus, svogūną, prieskonines žoleles, fetą ir viską užpilame padažu. Išmaišome ir galime tiekti. Salotos puikiai tinka prie paukštienos patiekalų ar rytinės kiaušinienės.  
+Toliau supjaustome pomidorus, svogūną, prieskonines žoleles, fetą ir viską užpilame užpilu. Išmaišome ir galime tiekti. Salotos puikiai tinka prie paukštienos patiekalų ar rytinės kiaušinienės.  
 </div>
 
 Skanaus!
