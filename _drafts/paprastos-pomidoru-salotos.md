@@ -10,4 +10,14 @@ title: Paprastos pomidorų salotos
 cover: ''
 
 ---
-Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas, paprastas, šviežias pomidorų salotas. Pomidorų, baziliko ir balzamiko acto deriniui pakvipus namuose, pasitvirtinsite dar kartą, kad genialumas slypi paprastume. :)
+Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas, paprastas, šviežias pomidorų salotas. Pomidorų, baziliko ir balzamiko acto deriniui pakvipus namuose, pasitvirtinsite dar kartą, kad genialumas slypi paprastume. :)  
+  
+**Produktai:**
+
+* Pomidorai
+* Pusė svogūno
+* Aliejus
+* Balzamiko actas
+* Šviežias bazilikas
+* Druska
+* Pipirai
