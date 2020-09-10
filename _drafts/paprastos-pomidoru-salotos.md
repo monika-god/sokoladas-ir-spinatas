@@ -7,11 +7,11 @@ tags:
 - garnyrai
 - pietūs
 title: Paprastos pomidorų salotos
-cover: "/v1599732513/2020/09/10/IMG_20200910_124956_Bokeh_2_z8c4g1.jpg"
+cover: "/v1599733602/2020/09/10/IMG_20200910_124958_Bokeh_2_wes048.jpg"
 
 ---
-Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas, paprastas, šviežias pomidorų salotas. Pomidorų, baziliko ir balzamiko acto deriniui pakvipus namuose, pasitvirtinsite dar kartą, kad genialumas slypi paprastume. :)  
-  
+Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas, paprastas, šviežias pomidorų salotas. Pomidorų, baziliko ir balzamiko acto deriniui pakvipus namuose, pasitvirtinsite dar kartą, kad genialumas slypi paprastume. :)
+
 **Produktai:**
 
 * Pomidorai
@@ -22,16 +22,15 @@ Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas,
 * Druska
 * Pipirai
 
+![](https://res.cloudinary.com/monikagod/image/upload/v1599732513/2020/09/10/IMG_20200910_124332_Bokeh_2_bot16n.jpg)
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599732513/2020/09/10/IMG_20200910_124332_Bokeh_2_bot16n.jpg)  
+Supjaustome pomidorus, svogūną ir bazilikų šakelę. Pabarstome viską druska ir pipirais. Tuomet sumaišome aliejų su balzamiko actu. Gautą užpilą pilame ant pjaustytų daržovių ir viską išmaišome. Tiekti galite prie bet kokios mėsos ar rytinės kiaušinienės.
 
-Supjaustome pomidorus, svogūną ir bazilikų šakelę. Pabarstome viską druska ir pipirais. Tuomet sumaišome aliejų su balzamiko actu. Gautą užpilą pilame ant pjaustytų daržovių ir viską išmaišome. Tiekti galite prie bet kokios mėsos ar rytinės kiaušinienės.  
-  
-Skanaus!  
+Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599732513/2020/09/10/IMG_20200910_124956_Bokeh_2_z8c4g1.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1599733602/2020/09/10/IMG_20200910_124958_Bokeh_2_wes048.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599732513/2020/09/10/IMG_20200910_124931_Bokeh_2_we7rmz.jpg)
