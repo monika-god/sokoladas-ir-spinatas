@@ -24,26 +24,26 @@ Kai visiškai įprasta yra kepti figas, kriaušes ar obuolius, kodėl mes nekepa
 * <span itemprop="recipeIngredient">2 vnt. avižinių sausainių</span>
 * <span itemprop="recipeIngredient">3 vnt. graikinių riešutų</span>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657337/2020/09/09/IMG_20200909_145816_Bokeh_2_ouxddf.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657337/2020/09/09/IMG_20200909_145816_Bokeh_2_ouxddf.jpg)
 
 Visų pirmą supjaustome ir išdarinėjame svarainius.
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657338/2020/09/09/IMG_20200909_150514_Bokeh_2_hsq4fg.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657338/2020/09/09/IMG_20200909_150514_Bokeh_2_hsq4fg.jpg)
 
 Sekantis žingsnis - paruošti užpilą. Į puodą dedame sviestą, cukrų, medų ir šlakelį vandens bei viską išlydome iki vientisos masės.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657326/2020/09/09/IMG_20200909_150853_Bokeh_2_xp6sol.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657326/2020/09/09/IMG_20200909_150853_Bokeh_2_xp6sol.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657326/2020/09/09/IMG_20200909_151529_Bokeh_2_fgalbu.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657326/2020/09/09/IMG_20200909_151529_Bokeh_2_fgalbu.jpg)
 </div>
 </div>
 
 Gautu užpilu apliejame svarainius ir dedame į 180 laipsnių įkatintą orkaitę 10-15 minučių, kol svarainiai tampa minkšti. Kepimo trukmė, žinoma, priklauso nuo vaisių dydžio.
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_151614_Bokeh_2_uig8hg.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657327/2020/09/09/IMG_20200909_151614_Bokeh_2_uig8hg.jpg)
 
 Į lėkstę dedame Maskarponės sūrį. Ant viršaus dedame keptus svarainius. Pastaruosius pabarstome sausainių trupiniais bei smulkintais riešutais. Pašlakstome likusiu sirupu. Papuošti desertą galite mėtos lapeliu. Iš turimų produktų gaunasi 2 porcijos.
 
@@ -51,11 +51,11 @@ Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_152043_Bokeh_2_xmhcdw.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657327/2020/09/09/IMG_20200909_152043_Bokeh_2_xmhcdw.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657327/2020/09/09/IMG_20200909_153344_Bokeh_2_fwcat3.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657327/2020/09/09/IMG_20200909_153344_Bokeh_2_fwcat3.jpg)
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657328/2020/09/09/IMG_20200909_154119_Bokeh_2_jke6v1.jpg){:itemprop="image"}
+![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657328/2020/09/09/IMG_20200909_154119_Bokeh_2_jke6v1.jpg){:itemprop="image"}
