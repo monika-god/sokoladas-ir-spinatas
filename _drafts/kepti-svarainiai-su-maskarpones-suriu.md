@@ -46,6 +46,7 @@ Gautu užpilu apliejame svarainius ir dedame į 180 laipsnių įkatintą orkait�
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657327/2020/09/09/IMG_20200909_151614_Bokeh_2_uig8hg.jpg)
 
 Į lėkstę dedame Maskarponės sūrį. Ant viršaus dedame keptus svarainius. Pastaruosius pabarstome sausainių trupiniais bei smulkintais riešutais. Pašlakstome likusiu sirupu. Papuošti desertą galite mėtos lapeliu. Iš turimų produktų gaunasi 2 porcijos.
+</div>
 
 Skanaus!
 
