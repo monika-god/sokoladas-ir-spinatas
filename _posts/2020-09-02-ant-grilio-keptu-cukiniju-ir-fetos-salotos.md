@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-09-02 00:00:00 +0300
+date: 2020-09-02T00:00:00.000+03:00
 tags:
 - garnyras
 - pietūs
@@ -25,16 +25,16 @@ Kada cukinijų pilni šiltnamiai, ką su jomis daryti neužtenka vaizduotės. K�
 * <span itemprop="recipeIngredient">Druskos</span>
 
 <div itemprop="recipeInstructions" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_191753_Bokeh_2_hpbxrb.jpg)
+![Cukinijų salotos-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_191753_Bokeh_2_hpbxrb.jpg)
 
 Supjaustome griežinėliais cukinijas ir dedame kepti ant griliaus.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_192045_Bokeh_2_waq8xj.jpg)
+![Cukinijų salotos-cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_192045_Bokeh_2_waq8xj.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_192517_Bokeh_2_mwhncs.jpg)
+![Cukinijų salotos-pjaustyta cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_192517_Bokeh_2_mwhncs.jpg)
 </div>
 </div>
 
@@ -42,19 +42,19 @@ Kol kepa cukinijos sumaišome padažą. Dedame aliejų, actą, garstyčias, med�
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_193504_Bokeh_2_avuwz3.jpg)
+![Cukinijų salotos-vyno actas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_193504_Bokeh_2_avuwz3.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_193522_Bokeh_2_bafcd7.jpg)
+![Cukinijų salotos-garstyčios](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_193522_Bokeh_2_bafcd7.jpg)
 </div>
 </div>
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_193801_Bokeh_2_srf3n4.jpg)
+![Cukinijų salotos-medus](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_193801_Bokeh_2_srf3n4.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_193930_Bokeh_2_fibxhv.jpg)
+![Cukinijų salotos-maišymas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_193930_Bokeh_2_fibxhv.jpg)
 </div>
 </div>
 
@@ -63,11 +63,11 @@ Keptas cikinijas dedame į dubenį. Kartu dedame griežinėliais pjaustytu svog�
 
 Skanaus!
 
-<div class="row"> <div class="six columns" markdown="1"> ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_195829_Bokeh_2_mfzjxo.jpg)
+<div class="row"> <div class="six columns" markdown="1"> ![Cukinijų salotos-užpilas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_195829_Bokeh_2_mfzjxo.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_195933_Bokeh_2_ksnxk4.jpg)
+![Cukinijų salotos-feta](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981676/2020/09/01/IMG_20200901_195933_Bokeh_2_ksnxk4.jpg)
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_200358_Bokeh_2_z9ymut.jpg){:itemprop="image"}
+![Cukinijų salotos](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598981675/2020/09/01/IMG_20200901_200358_Bokeh_2_z9ymut.jpg){:itemprop="image"}
