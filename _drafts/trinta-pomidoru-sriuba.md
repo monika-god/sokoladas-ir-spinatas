@@ -14,19 +14,19 @@ Greičiausiai pomidorų pintinės tuštėja verdant pomidorų sriubą. Pastaroji
 
 **Produktai:**
 
-* Pomidorai
-* 400 g. pomidorų savose sutyse
-* 3 vidutinio dydžio svogūnai
-* Kelios skiltelės česnako
-* 3 v. š. pomidorų pastos
-* Saujelė saulėje džiovintų pomidorų
-* 150-200 ml. 35% grietinėlės
-* Šviežias bazilikas
-* Aliejus
-* Balzamiko actas
-* Stiklinė vandens
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Pomidorai</span>
+* <span itemprop="recipeIngredient">400 g. pomidorų savose sutyse</span>
+* <span itemprop="recipeIngredient">3 vidutinio dydžio svogūnai</span>
+* <span itemprop="recipeIngredient">Kelios skiltelės česnako</span>
+* <span itemprop="recipeIngredient">3 v. š. pomidorų pastos</span>
+* <span itemprop="recipeIngredient">Saujelė saulėje džiovintų pomidorų</span>
+* <span itemprop="recipeIngredient">150-200 ml. 35% grietinėlės</span>
+* <span itemprop="recipeIngredient">Šviežias bazilikas</span>
+* <span itemprop="recipeIngredient">Aliejus</span>
+* <span itemprop="recipeIngredient">Balzamiko actas</span>
+* <span itemprop="recipeIngredient">Stiklinė vandens</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599727935/2020/09/10/IMG_20200909_132344_Bokeh_2_xhq0u1.jpg)
