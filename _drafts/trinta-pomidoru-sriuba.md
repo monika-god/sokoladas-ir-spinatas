@@ -39,7 +39,7 @@ Visų pirma paruošiame daržoves kepimui. Supjaustome ketvirčiais pomidorus ir
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727963/2020/09/10/IMG_20200909_135906_Bokeh_2_fjxvsu.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727963/2020/09/10/IMG_20200909_135922_Bokeh_2_ofwoen.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727964/2020/09/10/IMG_20200909_135953_Bokeh_2_yybdrp.jpg)  
-Verdame 20 minučių. Sriubą sutrinamee su trintuvu. Pilame grietinėlę ir dedame saują šviežių bazilikų. paverdame dar 10 min. Po 10 minučių galime tiekti. Pašlakstome alyvuogių aliejų arba aliejų nuo saulėje džiovintų pomidorų, pabarstome kietojo sūrio ir užberiame kelis baziliko lapelius.  
+Verdame 20 minučių. Sriubą sutriname su trintuvu. Pilame grietinėlę ir dedame saują šviežių bazilikų. paverdame dar 10 min. Po 10 minučių galime tiekti. Pašlakstome alyvuogių aliejų arba aliejų iš saulėje džiovintų pomidorų indo, pabarstome kietoju sūriu ir užberiame kelis baziliko lapelius.  
   
 Skanaus!  
   
