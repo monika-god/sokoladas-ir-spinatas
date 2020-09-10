@@ -20,6 +20,7 @@ Pomidorai
 Kelios skiltelės česnako  
 3 v. š. pomidorų pastos  
 Saujelė saulėje džiovintų pomidorų  
+150-200 ml. 35% grietinėlės  
 Šviežias bazilikas  
 Aliejus  
 Balzamiko actas  
