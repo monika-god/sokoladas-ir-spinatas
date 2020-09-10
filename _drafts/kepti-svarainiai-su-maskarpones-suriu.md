@@ -24,6 +24,7 @@ Kai visiškai įprasta yra kepti figas, kriaušes ar obuolius, kodėl mes nekepa
 * <span itemprop="recipeIngredient">2 vnt. avižinių sausainių</span>
 * <span itemprop="recipeIngredient">3 vnt. graikinių riešutų</span>
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599657337/2020/09/09/IMG_20200909_145816_Bokeh_2_ouxddf.jpg)
 
 Visų pirmą supjaustome ir išdarinėjame svarainius.
