@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-09-08 18:06:35 +0300
+date: 2020-09-08T18:06:35.000+03:00
 tags:
 - pietūs
 - sriuba
@@ -30,43 +30,43 @@ Kai grįžti namo rudeniškai sužvarbęs ir nori kažko komfortiško, nostalgi�
 * <span itemprop="recipeIngredient">Pipirai</span>
 * <span itemprop="recipeIngredient">Druska</span>
 
-<div itemprop="recipeInstructions" markdown="1">![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)
+<div itemprop="recipeInstructions" markdown="1">![Pieniška daržovių i vištienos sriuba-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965476/2020/08/30/IMG_20200831_161635_Bokeh_imrbth.jpg)
 
 Įkaitiname keptuvėje aliejų ir dedame vištieną. Pakepiname kelias minutes ir sudedame kubeliais pjaustytus svogūnus, morkas ir kapotą česnaką. Kepiname 10 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965474/2020/08/30/IMG_20200831_162327_Bokeh_ozdkqh.jpg)
+![Pieniška daržovių i vištienos sriuba-svogūnai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965474/2020/08/30/IMG_20200831_162327_Bokeh_ozdkqh.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_162344_Bokeh_jl5vzw.jpg)
+![Pieniška daržovių i vištienos sriuba-morkos](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_162344_Bokeh_jl5vzw.jpg)
 </div>
 </div>
 
 Tuo metu supilame sultinį į puodą ir sudedame virti bulves.
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965474/2020/08/30/IMG_20200831_162914_o2skch.jpg)
+![Pieniška daržovių i vištienos sriuba-bulvės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965474/2020/08/30/IMG_20200831_162914_o2skch.jpg)
 
 Apkepinus svogūnus, morkas, vištieną sudedame juos į puodą. Verdame 15 min.
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965474/2020/08/30/IMG_20200831_162948_iobskn.jpg)
+![Pieniška daržovių i vištienos sriuba-keptos daržovės ir vištiena](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965474/2020/08/30/IMG_20200831_162948_iobskn.jpg)
 
 Sudedame žirnelius, lauro lapus bei grietinėlę ir verdame 10 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164355_Bokeh_edbbvl.jpg)
+![Pieniška daržovių i vištienos sriuba-žirneliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164355_Bokeh_edbbvl.jpg)
 </div>
 <div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164428_Bokeh_d5itkm.jpg)  
+![Pieniška daržovių i vištienos sriuba-lauro lapai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164428_Bokeh_d5itkm.jpg)  
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164451_Bokeh_gecb87.jpg)
+![Pieniška daržovių i vištienos sriuba-gretinėlė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_164451_Bokeh_gecb87.jpg)
 
 Sudedame kapotus krapus ir petražoles ir paverdame sriubą dar 5 min.
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_165534_Bokeh_pjdshz.jpg)
+![Pieniška daržovių i vištienos sriuba-žolelės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_165534_Bokeh_pjdshz.jpg)
 
 Po 5 min. nuimkite nuo ugnies ir galite tiekti.
 
@@ -74,4 +74,4 @@ Po 5 min. nuimkite nuo ugnies ir galite tiekti.
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_170937_Bokeh_vw33w3.jpg){:itemprop="image"}
+![Pieniška daržovių i vištienos sriuba](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965475/2020/08/30/IMG_20200831_170937_Bokeh_vw33w3.jpg){:itemprop="image"}
