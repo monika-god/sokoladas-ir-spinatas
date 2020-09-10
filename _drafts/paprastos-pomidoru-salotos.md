@@ -20,8 +20,8 @@ Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas,
 * <span itemprop="recipeIngredient">Balzamiko </span>actas
 * <span itemprop="recipeIngredient">Šviežias</span> bazilikas
 * <span itemprop="recipeIngredient">Druska</span>
-* <span itemprop="recipeIngredient">Pipirai</span>  
-    
+* <span itemprop="recipeIngredient">Pipirai</span>
+
   <div itemprop="recipeInstructions" markdown="1">
 
 ![](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1599732513/2020/09/10/IMG_20200910_124332_Bokeh_2_bot16n.jpg)
