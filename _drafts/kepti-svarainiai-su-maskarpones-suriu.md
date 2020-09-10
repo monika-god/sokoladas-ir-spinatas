@@ -58,4 +58,4 @@ Skanaus!
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599657328/2020/09/09/IMG_20200909_154119_Bokeh_2_jke6v1.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1599657328/2020/09/09/IMG_20200909_154119_Bokeh_2_jke6v1.jpg){:itemprop="image"}
