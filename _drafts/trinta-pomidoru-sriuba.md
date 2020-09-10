@@ -28,6 +28,7 @@ Greičiausiai pomidorų pintinės tuštėja verdant pomidorų sriubą. Pastaroji
 * Druska
 * Pipirai
 
+<div itemprop="recipeInstructions" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727935/2020/09/10/IMG_20200909_132344_Bokeh_2_xhq0u1.jpg)
 
 Visų pirma paruošiame daržoves kepimui. Supjaustome ketvirčiais pomidorus ir svogūnus. Kartu dedame ir česnako skilteles. Pašlakstome daržoves aliejumi ir balzamiko actu. Dedame kepti į 180 laipsnių įkaitintą orkaitę \~15 minučių arba kol matysite, kad daržovės yra iškepusios.
@@ -57,6 +58,7 @@ Visų pirma paruošiame daržoves kepimui. Supjaustome ketvirčiais pomidorus ir
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727964/2020/09/10/IMG_20200909_135953_Bokeh_2_yybdrp.jpg)
 
 Verdame 20 minučių. Sriubą sutriname su trintuvu. Pilame grietinėlę ir dedame saują šviežių bazilikų. paverdame dar 10 min. Po 10 minučių galime tiekti. Pašlakstome alyvuogių aliejų arba aliejų iš saulėje džiovintų pomidorų indo, pabarstome kietoju sūriu ir užberiame kelis baziliko lapelius.
+</div>
 
 Skanaus!
 
@@ -69,4 +71,4 @@ Skanaus!
 </div>
 </div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_143837_Bokeh_2_sogcnp.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_143837_Bokeh_2_sogcnp.jpg){:itemprop="image"}
