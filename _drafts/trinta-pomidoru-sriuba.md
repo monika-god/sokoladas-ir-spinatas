@@ -29,9 +29,11 @@ Druska
 Pipirai  
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727935/2020/09/10/IMG_20200909_132344_Bokeh_2_xhq0u1.jpg)  
+
 Visų pirma paruošiame daržoves kepimui. Supjaustome ketvirčiais pomidorus ir svogūnus. Kartu dedame ir česnako skilteles. Pašlakstome daržoves aliejumi ir balzamiko actu. Dedame kepti į 180 laipsnių įkaitintą orkaitę \~15 minučių arba kol matysite, kad daržovės yra iškepusios.  
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727936/2020/09/10/IMG_20200909_132916_Bokeh_2_afmgyy.jpg)  
+
 Į puodą dedame pomidorus savose sultyse, keptas daržoves, pomidorų pastą, saulėje džiovintus pomidorus ir pilame stinklinę vandens.  
 
 <div class="row">
