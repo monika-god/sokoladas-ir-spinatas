@@ -64,5 +64,7 @@ Skanaus!
 </div>
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_142314_Bokeh_2_i9rzbw.jpg)
+</div>
+</div>
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1599727979/2020/09/10/IMG_20200909_143837_Bokeh_2_sogcnp.jpg)
