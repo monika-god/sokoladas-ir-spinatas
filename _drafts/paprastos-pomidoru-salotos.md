@@ -7,7 +7,7 @@ tags:
 - garnyrai
 - pietūs
 title: Paprastos pomidorų salotos
-cover: "/v1599732521/2020/09/10/IMG_20200910_125349_Bokeh_2_xsowfn.jpg"
+cover: "/v1599732513/2020/09/10/IMG_20200910_124956_Bokeh_2_z8c4g1.jpg"
 
 ---
 Toliau tuštėja pomidorų pintinės ir šį kartą gaminuosi visiškai greitas, paprastas, šviežias pomidorų salotas. Pomidorų, baziliko ir balzamiko acto deriniui pakvipus namuose, pasitvirtinsite dar kartą, kad genialumas slypi paprastume. :)  
