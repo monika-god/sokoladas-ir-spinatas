@@ -21,7 +21,8 @@ Kiekvienas turime savų triukų ar ritualų, kaip dienos pradžią padaryti dži
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600338113/2020/09/17/IMG_20200917_115307_Bokeh_2_pzfm0u.jpg)  
   
-Į dubenį dedame kiaušinius, pilame šlakelį grietinėlės bei pabarstome petražoles, druską ir pipirus. Viską išplakame. Tikiu daugelis Jūsų turite savo triukus, kaip iškepti gerą omletą. Savąjį aš kepu svieste, lėtai, žemoje temperatūroje, uždengus keptuvę dangčiu. Niekada omleto nevartau.  
+Į dubenį dedame kiaušinius, pilame šlakelį grietinėlės bei pabarstome petražoles, druską ir pipirus. Viską išplakame.   
+Tikiu daugelis Jūsų turite savo triukus, kaip iškepti gerą omletą. Savąjį aš kepu svieste, lėtai, žemoje temperatūroje, uždengus keptuvę dangčiu. Niekada omleto nevartau.  
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600338117/2020/09/17/IMG_20200917_115635_Bokeh_2_vx3c5b.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600338114/2020/09/17/IMG_20200917_115805_Bokeh_2_mqot6l.jpg)  
