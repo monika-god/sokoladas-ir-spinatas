@@ -6,7 +6,7 @@ tags:
 - grybai
 - sriuba
 - pietūs
-title: Grybų sriuba su mėlynuoju sūriu
+title: Trinta grybų sriuba su mėlynuoju sūriu
 cover: ''
 
 ---
