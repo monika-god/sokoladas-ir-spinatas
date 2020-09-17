@@ -7,7 +7,7 @@ title: Omletas su voveraitėmis
 cover: "/v1600338115/2020/09/17/IMG_20200917_122755_Bokeh_2_xmeevl.jpg"
 
 ---
-Kiekvienas turime savų triukų ar ritualų, kaip dienos pradžią padaryti džiaugsmingesnę. Daugeliui pusryčiai yra laukiamiausia rytinės ceremonijos dalis. Mūsų šeimoje be pusryčių nė vienas nepajudame iš namų. Šį kartą - lėtai keptas, burnoje tirpstantis omletas su svieste išsimaudžiusiomis voveraitėmis. Mmmm tikra miško magija... :)
+Kiekvienas turime savų triukų ar ritualų, kaip dienos pradžią padaryti džiaugsmingesnę. Daugeliui pusryčiai yra laukiamiausia rytinės ceremonijos dalis. Mūsų šeimoje be pusryčių nė vienas nepajudame iš namų. Šį kartą - lėtai keptas, burnoje tirpstantis omletas su svieste išsimaudžiusiomis voveraitėmis. Mmmm... Tai tikra miško magija. :)
 
 **Produktai:**
 
