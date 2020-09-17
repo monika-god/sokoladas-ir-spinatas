@@ -27,9 +27,9 @@ Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten gausiai pū
 * <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">
-![Grybų sriuba su mėlynuoju sūriu-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347888/2020/09/17/IMG_20200917_144034_Bokeh_2_rphgaq.jpg)  
+![Grybų sriuba su mėlynuoju sūriu-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347888/2020/09/17/IMG_20200917_144034_Bokeh_2_rphgaq.jpg)
 
-Visų pirma įkaitiname keptuvę su svietu ir apkepame kelias minutes grybus. Vėliau tą patį padarome su svūgūnais ir česnakais. Apkepinus produktus svieste, sudedame juos į puoda ir užpilame 700 ml. sultinio. Verdame viską ~15-20 min. 
+Visų pirma įkaitiname keptuvę su svietu ir apkepame kelias minutes grybus. Vėliau tą patį padarome su svūgūnais ir česnakais. Apkepinus produktus svieste, sudedame juos į puoda ir užpilame 700 ml. sultinio. Verdame viską \~15-20 min.
 
 <div class="row">
 <div class="six columns" markdown="1">
@@ -38,14 +38,14 @@ Visų pirma įkaitiname keptuvę su svietu ir apkepame kelias minutes grybus. V�
 <div class="six columns" markdown="1">
 ![Grybų sriuba su mėlynuoju sūriu-svogūnai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347880/2020/09/17/IMG_20200917_145539_Bokeh_2_eyt2a2.jpg)
 </div>
-</div>  
-   
-![Grybų sriuba su mėlynuoju sūriu-puode](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347880/2020/09/17/IMG_20200917_145927_Bokeh_2_ezqcbi.jpg)  
+</div>
 
-Po 15-20 min. sutriname grybus, supilame grietinėlę ir dedame saują šviežių petražolių. Verdame sriubą dar 5-10 min. Tiekdami sriubą ją pabarstome šviežiomis petražolėmis bei mėlynuoju sūriu. 
-</div> 
-  
-Skanaus! 
+![Grybų sriuba su mėlynuoju sūriu-puode](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347880/2020/09/17/IMG_20200917_145927_Bokeh_2_ezqcbi.jpg)
+
+Po 15-20 min. sutriname grybus, supilame grietinėlę ir dedame saują šviežių petražolių. Verdame sriubą dar 5-10 min. Tiekdami sriubą ją pabarstome šviežiomis petražolėmis bei mėlynuoju sūriu.
+</div>
+
+Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
@@ -54,7 +54,7 @@ Skanaus!
 <div class="six columns" markdown="1">
 ![Grybų sriuba su mėlynuoju sūriu-grietinėlė ir petražolės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347881/2020/09/17/IMG_20200917_151206_Bokeh_2_xqw1d7.jpg)
 </div>
-</div>   
-  
-![Grybų sriuba su mėlynuoju sūriu](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600347881/2020/09/17/IMG_20200917_152422_Bokeh_2_pwbqrz.jpg)
+</div>
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1600347882/2020/09/17/IMG_20200917_152506_Bokeh_2_cvtjrb.jpg)
 {:itemprop="image"}
