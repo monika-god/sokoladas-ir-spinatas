@@ -7,10 +7,10 @@ tags:
 - sriuba
 - pietūs
 title: Trinta grybų sriuba su mėlynuoju sūriu
-cover: ''
+cover: "/v1600347882/2020/09/17/IMG_20200917_152506_Bokeh_2_cvtjrb.jpg"
 
 ---
-Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten pūpsančių grybų ir akylai kiekvieną centimetrą išieškančių grybautojų. Deja, neturėjome su savimi pintinės, nes kelis baravykus būtume ir patys susgundę paimti.
+Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten pūpsančių grybų ir akylai kiekvieną centimetrą išieškančių grybautojų. Deja, neturėjome su savimi pintinės, nes kelis baravykus būtume ir patys susigundę paimti.  O štai ir lengvas receptas, padėsiantis sunaudoti surinktus grybus. Trinta, kreminė grybų sriuba pagardinta mėlynuoju sūriu. Manau šis patiekalas galėtų tapti ne vieno grybautojo firminiu. :)
 
 **Produktai:**
 
