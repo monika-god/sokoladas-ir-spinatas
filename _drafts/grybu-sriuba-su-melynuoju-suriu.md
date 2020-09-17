@@ -27,12 +27,12 @@ Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten pūpsanči�
 * Pipirai
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600347888/2020/09/17/IMG_20200917_144034_Bokeh_2_rphgaq.jpg)  
-Visų pirma įkaitiname keptuvę su svietu ir apkepame kelias minutes grybus. Vėliau tą patį padarome su svūgūnais ir česnakais. Apkepinus produktus svieste, sudedame juos į puoda ir užpilame 700 ml. sultinio. Verdame viską \~20 min.   
+Visų pirma įkaitiname keptuvę su svietu ir apkepame kelias minutes grybus. Vėliau tą patį padarome su svūgūnais ir česnakais. Apkepinus produktus svieste, sudedame juos į puoda ir užpilame 700 ml. sultinio. Verdame viską \~15-20 min.   
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600347881/2020/09/17/IMG_20200917_144812_Bokeh_2_qd3avh.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600347880/2020/09/17/IMG_20200917_145539_Bokeh_2_eyt2a2.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600347880/2020/09/17/IMG_20200917_145927_Bokeh_2_ezqcbi.jpg)  
-Po 20 min. sutriname grybus, supilame grietinėlę ir dedame saują šviežių petražolių. Verdame sriubą dar 5-10 min. Tiekdami sriubą ją pabarstome šviežiomis petražolėmis bei mėlynuoju sūriu.  
+Po 15-20 min. sutriname grybus, supilame grietinėlę ir dedame saują šviežių petražolių. Verdame sriubą dar 5-10 min. Tiekdami sriubą ją pabarstome šviežiomis petražolėmis bei mėlynuoju sūriu.  
   
 Skanaus!  
   
