@@ -2,7 +2,10 @@
 author: Monika Godelienė
 layout: post
 date: 2020-09-18 13:19:59 +0300
-tags: []
+tags:
+- pusryčiai
+- omletas
+- grybai
 title: Omletas su voveraitėmis
 cover: "/v1600338115/2020/09/17/IMG_20200917_122755_Bokeh_2_xmeevl.jpg"
 
