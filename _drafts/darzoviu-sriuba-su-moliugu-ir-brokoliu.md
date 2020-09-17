@@ -1,13 +1,13 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-08-20T19:16:31.000+03:00
+date: 2020-09-21 19:16:31 +0300
 tags: []
 title: Daržovių sriuba su moliūgu ir brokoliu
 cover: 2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg
 
 ---
-Kai norsi kažko komfortiško, šildančio šaltą, niūrų vakarą kepuosi obuolių pyragą arba verdu daržovių sriubą. Šį kartą šaldytuve turėjau moliūgo gabalėlį. Gavosi visiškai paprastutėlė, tačiau vidų sušildanti bei artėjantį rudenį primenanti daržovių sriuba. :)
+Šį kartą šaldytuve turėjau moliūgo gabalėlį. 
 
 **Produktai:**
 
