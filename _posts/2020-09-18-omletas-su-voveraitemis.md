@@ -37,7 +37,7 @@ Tikiu daugelis Jūsų turite savo triukus, kaip iškepti gerą omletą. Savąjį
 </div>
 </div>
 
-Iškepus omletą į eptuvę dedame svieto ir sudedame kubeliais pjaustytus svogūnus. Svogūnams kiek paskrudus, dedame kepti voveraites. Dedame druskos ir pipirų. Voveraitės greitai apskrunda, joms pakanka 7-8 minučių ir galime tiekti.  
+Iškepus omletą į keptuvę dedame sviesto ir suberiame kubeliais pjaustytus svogūnus. Svogūnams kiek paskrudus, dedame kepti voveraites. Beriame druskos ir pipirų. Voveraitės greitai apskrunda, joms pakanka 7-8 minučių ir galime tiekti.  
 </div>
 
 <div class="row">
