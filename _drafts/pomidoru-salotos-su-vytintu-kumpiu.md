@@ -25,15 +25,15 @@ Ar Jums jau baigėsi pomidorai? Jei ne, štai dar vienos ekspromtu gimusios pris
 * <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">  
-![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_112838_Bokeh_2_u5elsc.jpg)  
+![Pomidorų salotos su vytintu kumpiu-produktai](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_112838_Bokeh_2_u5elsc.jpg)  
   
 Supjaustome pomidorus, susmulkiname saulėje džiovintus pomidorus, petražoles ir svogūną.  Užpilame aliejų ir balaminį actą. Salotas papiriname ir padruskiname. 
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113408_Bokeh_2_doqrss.jpg)
+![Pomidorų salotos su vytintu kumpiu-salotos](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113408_Bokeh_2_doqrss.jpg)
 
 Sudedame salotas į lėkštę ir išdėliojame vytintą kumpį.  
 </div>
 
 Skanaus!</div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113814_Bokeh_2_gdelkk.jpg)
+![Pomidorų salotos su vytintu kumpiu](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113814_Bokeh_2_gdelkk.jpg)
