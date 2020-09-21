@@ -14,24 +14,26 @@ Ar Jums jau baigėsi pomidorai? Jei ne, štai dar vienos ekspromtu gimusios pris
 
 **Produktai:**
 
-* <span itemprop="recipeIngredient">Pomidorai
-* <span itemprop="recipeIngredient">Nedidelis svogūnas
-* <span itemprop="recipeIngredient">Saulėje džiovinti pomidorai
-* <span itemprop="recipeIngredient">Vytintas kumpis
-* <span itemprop="recipeIngredient">Sauja petražolių
-* <span itemprop="recipeIngredient">Aliejus
-* <span itemprop="recipeIngredient">Balzaminis actas
-* <span itemprop="recipeIngredient">Druska
-* <span itemprop="recipeIngredient">Pipirai
+* <span itemprop="recipeIngredient">Pomidorai</span>
+* <span itemprop="recipeIngredient">Nedidelis svogūnas</span>
+* <span itemprop="recipeIngredient">Saulėje džiovinti pomidorai</span>
+* <span itemprop="recipeIngredient">Vytintas kumpis</span>
+* <span itemprop="recipeIngredient">Sauja petražolių</span>
+* <span itemprop="recipeIngredient">Aliejus</span>
+* <span itemprop="recipeIngredient">Balzaminis actas</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_112838_Bokeh_2_u5elsc.jpg)
-
-Supjaustome pomidorus, svogūną, saulėje džiovintus pomidorus, petražoles ir viską užpilame balzaminiu actu bei aliejumi. Aliejų naudojau iš saulėje džiovintų pomidorų indo. Salotas padruskiname ir papiriname.
+<div itemprop="recipeInstructions" markdown="1">  
+![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_112838_Bokeh_2_u5elsc.jpg)  
+  
+Supjaustome pomidorus, susmulkiname saulėje džiovintus pomidorus, petražoles ir svogūną.  Užpilame aliejų ir balaminį actą. Salotas papiriname ir padruskiname. 
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113408_Bokeh_2_doqrss.jpg)
 
-Sudedame salotas į lėkštę ir išdėliojame vytintą kumpį.
+Sudedame salotas į lėkštę ir išdėliojame vytintą kumpį.  
+</div>
 
-Skanaus!
+Skanaus!</div>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113814_Bokeh_2_gdelkk.jpg)
