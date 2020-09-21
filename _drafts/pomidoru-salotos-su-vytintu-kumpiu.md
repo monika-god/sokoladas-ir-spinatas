@@ -27,6 +27,7 @@ cover: "/v1600683888/2020/09/21/IMG_20200921_113814_Bokeh_2_gdelkk.jpg"
 Supjaustome pomidorus, svogūną, saulėje džiovintus pomidorus, petražoles ir viską užpilame balzaminiu actu bei aliejumi. Aliejų naudojau iš saulėje džiovintų pomidorų indo. Salotas padruskiname ir papiriname.   
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113408_Bokeh_2_doqrss.jpg)  
+  
 Sudedame salotas į lėkštę ir išdėliojame vytintą kumpį.   
   
 Skanaus!  
