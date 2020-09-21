@@ -10,7 +10,9 @@ title: Pomidorų salotos su vytintu kumpiu
 cover: "/v1600683888/2020/09/21/IMG_20200921_113814_Bokeh_2_gdelkk.jpg"
 
 ---
-**Produktai:**
+Ar Jums jau baigėsi pomidorai? Nes man vis dar ne. Dar vienos ekspromtu gimusios prisirpusių pomidorų salotos, pagardintos vytintu kumpiu. Tobuliausi dalykai gimsta netikėtai! :) **  
+  
+Produktai:**
 
 * Pomidorai
 * Nedidelis svogūnas
