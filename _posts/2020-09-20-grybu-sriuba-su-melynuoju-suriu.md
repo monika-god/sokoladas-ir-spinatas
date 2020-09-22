@@ -10,7 +10,7 @@ title: Trinta grybų sriuba su mėlynuoju sūriu
 cover: "/v1600347882/2020/09/17/IMG_20200917_152506_Bokeh_2_cvtjrb.jpg"
 
 ---
-Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten gausiai pūpsančių grybų ir akylai kiekvieną centimetrą išieškančių grybautojų. Deja, neturėjome su savimi pintinės, nes kelis baravykus būtume ir patys susigundę paimti. O tiems kam pavyko kelis grybus priglausti į kišenę siūlau lengvą receptą, padėsiantį sunaudoti surinktus gražuolius. Sodri, kreminė grybų sriuba pagardinta mėlynuoju sūriu. Manau šis patiekalas galėtų tapti ne vieno grybų entuziasto firminiu. :)
+Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten gausiai pūpsančių grybų ir akylai kiekvieną centimetrą išieškančių grybautojų. Deja, neturėjome su savimi pintinės, nes kelis baravykus būtume ir patys susigundę paimti. O tiems kam pavyko porą grybų priglausti į kišenę siūlau lengvą receptą, padėsiantį sunaudoti surinktus gražuolius. Sodri, kreminė grybų sriuba pagardinta mėlynuoju sūriu. Manau šis patiekalas galėtų tapti ne vieno grybų entuziasto firminiu. :)
 
 **Produktai:**
 
@@ -18,7 +18,8 @@ Vaikščiodami po rudenėjantį mišką negalėjome nepastebėti ten gausiai pū
 * <span itemprop="recipeIngredient">2 svogūnai</span>
 * <span itemprop="recipeIngredient">150-200 ml. grietinėlės 35%</span>
 * <span itemprop="recipeIngredient">700 ml. grybų sultinio</span>
-* <span itemprop="recipeIngredient">Mėlynojo sūrio</span>
+* <span itemprop="recipeIngredient">Mėlynasis sūris</span>
+* <span itemprop="recipeIngredient">Sviestas</span>
 * <span itemprop="recipeIngredient">Šviežios petražolės</span>
 * <span itemprop="recipeIngredient">1 a.š. rozmarino</span>
 * <span itemprop="recipeIngredient">1 a.š. mairūno</span>
