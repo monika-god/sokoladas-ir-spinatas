@@ -19,6 +19,7 @@ cover: "/v1600781659/2020/09/22/IMG_20200922_162249_Bokeh_2_zmbhij.jpg"
 * 5-6 ančiuviai
 * 5 česnako skiltelės
 * Kietasis sūris
+* Pusės citrinos sulčių
 * Aliejus
 * Druska
 * Pipirai
