@@ -10,7 +10,7 @@ title: Kepti brokoliai su ančiuviais
 cover: "/v1600781659/2020/09/22/IMG_20200922_162249_Bokeh_2_zmbhij.jpg"
 
 ---
-Šio recepto aš nesukūriau, tačiau gaminau tiek kartų, kad mūsų šeimoje prigijo, kaip savas. 
+Š
 
 **Produktai:**
 
@@ -33,7 +33,7 @@ Supjaustome brokolį žiedais, o svogūnus ketvirčiais ir dedame į kepimo ind�
   
 Kepimo indą su daržovėmis dedame į 180 laipsnių įkaitintą orkaitę ir kepame 15-20 minučių. Išėmę kepimo indą pašlakstome daržoves citrinos sultimis ir pabarstome kietuoju sūriu.  
   
-Receptas iš bonappetit.com
+Receptas įkvėptas tinklaraščio bonappetit.com
 
 Skanaus!  
   
