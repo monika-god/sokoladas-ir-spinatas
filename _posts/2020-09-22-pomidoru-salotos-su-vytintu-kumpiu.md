@@ -10,7 +10,7 @@ title: Pomidorų salotos su vytintu kumpiu
 cover: "/v1600683888/2020/09/21/IMG_20200921_113814_Bokeh_2_gdelkk.jpg"
 
 ---
-Ar Jums jau baigėsi pomidorai? Jei ne, štai dar vienos ekspromtu gimusios prisirpusių pomidorų salotos, pagardintos vytintu kumpiu. Tobuliausi dalykai atsiranda visiškai netikėtai! :)
+Ar dar turite naminių pomidorų? Jei taip, štai dar vienos ekspromtu gimusios prisirpusių raudonskruosčių salotos, pagardintos vytintu kumpiu. Tobuliausi dalykai atsiranda visiškai netikėtai! :)
 
 **Produktai:**
 
@@ -25,9 +25,9 @@ Ar Jums jau baigėsi pomidorai? Jei ne, štai dar vienos ekspromtu gimusios pris
 * <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">  
-![Pomidorų salotos su vytintu kumpiu-produktai](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_112838_Bokeh_2_u5elsc.jpg)  
-  
-Supjaustome pomidorus, susmulkiname saulėje džiovintus pomidorus, petražoles ir svogūną.  Užpilame aliejų ir balzaminį actą. Salotas papiriname ir padruskiname. 
+![Pomidorų salotos su vytintu kumpiu-produktai](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_112838_Bokeh_2_u5elsc.jpg)
+
+Supjaustome pomidorus, susmulkiname saulėje džiovintus pomidorus, petražoles ir svogūną.  Užpilame aliejų ir balzaminį actą. Salotas papiriname ir padruskiname.
 
 ![Pomidorų salotos su vytintu kumpiu-salotos](https://res.cloudinary.com/monikagod/image/upload/v1600683888/2020/09/21/IMG_20200921_113408_Bokeh_2_doqrss.jpg)
 
