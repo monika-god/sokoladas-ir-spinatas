@@ -9,22 +9,22 @@ title: Cukinijų ir perlinių kruopų blynai
 cover: "/v1600853353/2020/09/23/IMG_20200923_120020_Bokeh_2_f0pjxi.jpg"
 
 ---
-Cukinija mano namuose viena populiariausių daržovių, kurią dedu ne tik į troškinius ir salotas, bet ir į kepinius. Šį kartą cukiniją naudojau blynuose su savo mėgiamiausia kruopa. Du mėgstami dalykai tiesiog negali nederėti - išorėje apskrudusios traškios kruopos ir viduje drėgmę bei tekstūrą išlaikiusios daržovės. Puikūs nesaldūs blynai prie kurių dera jogurtinis padažas.
+Cukinija mano namuose viena populiariausių daržovių, kurią dedu ne tik į troškinius ir salotas, bet ir į kepinius. Šį kartą cukiniją naudojau blynuose su savo mėgiamiausia kruopa. Du mėgstami dalykai tiesiog negali nederėti - išorėje apskrudusios traškios kruopos ir viduje drėgmę bei tekstūrą išlaikiusios daržovės. Nesaldūs blynai prie kurių puikiai derės pasigamintas jogurtinis padažas. :)
 
 **Produtai:**
 
-* 400 g. cukinijos
-* 200 g. virtų perlinių kruopų
-* Viena nedidelė morka
-* Vienas vidutinio dydžio svogūnas
-* 30 g. kietojo sūrio
-* 3 v. š. miltų
-* 3 kiaušiniai
-* 100 g. graikiško jogurto
-* 1 v. š. citrinos sulčių
-* Pusė saujos krapų
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">400 g. cukinijos</span>
+* <span itemprop="recipeIngredient">200 g. virtų perlinių kruopų</span>
+* <span itemprop="recipeIngredient">Viena nedidelė morka</span>
+* <span itemprop="recipeIngredient">Vienas vidutinio dydžio svogūnas</span>
+* <span itemprop="recipeIngredient">30 g. kietojo sūrio</span>
+* <span itemprop="recipeIngredient">3 v. š. miltų</span>
+* <span itemprop="recipeIngredient">3 kiaušiniai</span>
+* <span itemprop="recipeIngredient">100 g. graikiško jogurto</span>
+* <span itemprop="recipeIngredient">1 v. š. citrinos sulčių</span>
+* <span itemprop="recipeIngredient">Pusė saujos krapų</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600853352/2020/09/23/IMG_20200923_105521_Bokeh_2_uxu8iy.jpg)  
 Sutarkuojame ir nusunkiame  cukinijas.  
