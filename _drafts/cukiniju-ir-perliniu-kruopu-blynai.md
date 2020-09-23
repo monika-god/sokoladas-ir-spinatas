@@ -6,6 +6,6 @@ tags:
 - blynai
 - pietūs
 title: Cukinijų ir perlinių kruopų blynai
-cover: ''
+cover: "/v1600853353/2020/09/23/IMG_20200923_120020_Bokeh_2_f0pjxi.jpg"
 
 ---
