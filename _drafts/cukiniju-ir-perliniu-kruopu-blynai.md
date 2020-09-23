@@ -40,7 +40,7 @@ Visų pirma sutarkuojame ir nusunkiame  cukinijas.
 </div>
 </div>  
 
-Sutarkuojame morką ir supjaustome kubeliais svogūnus. Cukiniją, morką, svogūną bi kruopas dedame į dubenį.
+Sutarkuojame morką ir supjaustome kubeliais svogūnus. Cukiniją, morką, svogūną bei kruopas dedame į dubenį.
 
 ![Cukinijų ir perlinių kruopų blynai-produktai dubenyje](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_110807_Bokeh_2_sb6jvm.jpg) 
  
