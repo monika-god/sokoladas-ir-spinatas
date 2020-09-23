@@ -9,7 +9,7 @@ title: Cukinijų ir perlinių kruopų blynai
 cover: "/v1600853353/2020/09/23/IMG_20200923_120020_Bokeh_2_f0pjxi.jpg"
 
 ---
-Cukinija mano namuose viena populiariausių daržovių, kurią dedu ne tik į troškinius ir salotas, bet ir į kepinius. Šį kartą cukiniją naudojau blynuose su savo mėgiamiausia kruopa. Du mėgiami dalykai tiesiog negali nederėti. Išorėje apskrudusios traškios kruopos ir viduje drėgmę ir tekstūrą išlaikiusios daržovės.
+Cukinija mano namuose viena populiariausių daržovių, kurią dedu ne tik į troškinius ir salotas, bet ir į kepinius. Šį kartą cukiniją naudojau blynuose su savo mėgiamiausia kruopa. Du mėgiami dalykai tiesiog negali nederėti - išorėje apskrudusios traškios kruopos ir viduje drėgmę bei tekstūrą išlaikiusios daržovės. Puikūs nesaldūs blynai pagardinti jogurto padažu.
 
 **Produtai:**
 
