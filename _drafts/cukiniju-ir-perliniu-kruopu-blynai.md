@@ -31,21 +31,45 @@ Cukinija mano namuose viena populiariausių daržovių, kurią dedu ne tik į tr
 
 Visų pirma sutarkuojame ir nusunkiame  cukinijas.
 
-![Cukinijų ir perlinių kruopų blynai-cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130452_Bokeh_hh8n9j.jpg)  
-![Cukinijų ir perlinių kruopų blynai- cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130516_Bokeh_whjssw.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![Cukinijų ir perlinių kruopų blynai-cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130452_Bokeh_hh8n9j.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Cukinijų ir perlinių kruopų blynai- cukinija](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1598965378/2020/08/26/IMG_20200826_130516_Bokeh_whjssw.jpg)
+</div>
+</div>  
+
 Sutarkuojame morką ir supjaustome kubeliais svogūnus. Cukiniją, morką, svogūną bi kruopas dedame į dubenį.
 
-![Cukinijų ir perlinių kruopų blynai-produktai dubenyje](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_110807_Bokeh_2_sb6jvm.jpg)  
+![Cukinijų ir perlinių kruopų blynai-produktai dubenyje](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_110807_Bokeh_2_sb6jvm.jpg) 
+ 
 Išplakame 3 kiaušinius ir pilame į tą patį dubenį. Viską išmaišome. Toliau dedame sutarkuotą sūrį, druską bei pipirus ir 3 šaukštus miltų. Viską išmaišome.  
-  
-![Cukinijų ir perlinių kruopų blynai-plakinys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111020_Bokeh_2_l2wkre.jpg)
 
-![Cukinijų ir perlinių kruopų blynai-sūris](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111547_Bokeh_2_utvbq4.jpg)  
-![Cukinijų ir perlinių kruopų blynai-prieskoniai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111633_Bokeh_2_qljtsu.jpg)  
-![Cukinijų ir perlinių kruopų blynai-miltai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111712_Bokeh_2_u4h2vn.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![Cukinijų ir perlinių kruopų blynai-plakinys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111020_Bokeh_2_l2wkre.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Cukinijų ir perlinių kruopų blynai-sūris](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111547_Bokeh_2_utvbq4.jpg)
+</div>
+</div> 
+
+<div class="row">
+<div class="six columns" markdown="1">
+![Cukinijų ir perlinių kruopų blynai-prieskoniai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111633_Bokeh_2_qljtsu.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Cukinijų ir perlinių kruopų blynai-miltai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853352/2020/09/23/IMG_20200923_111712_Bokeh_2_u4h2vn.jpg)
+</div>
+</div> 
+  
 ![Cukinijų ir perlinių kruopų blynai-tešla](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853353/2020/09/23/IMG_20200923_112020_Bokeh_2_hnv4ag.jpg)  
-Pasiruošiame padažą. Į jogurtą dedame krapus, druską, pipirus ir šaukštą citrinos sulčių. Viską išmaišome.  
+
+Pasiruošiame padažą. Į jogurtą dedame krapus, druską, pipirus ir šaukštą citrinos sulčių. Viską išmaišome.
+  
 ![Cukinijų ir perlinių kruopų blynai-padažas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600853353/2020/09/23/IMG_20200923_112717_Bokeh_2_pdpdes.jpg)  
+
 Galiausiai į įkaitintą keptuvę dedame tešlą, formuojame šaukštu blynus ir kepame kol pastarieji apskrus iš abiejų pusių. Patiekiame su pasigamintu jogurtiniu padažu.  
 </div>
 
