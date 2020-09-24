@@ -47,7 +47,7 @@ Toliau įmame pagaliukus ir formuojame rankomis koftas.
 ![Jautienos koftos-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_113712_Bokeh_2_obhbsx.jpg)
 </div>
 <div class="six columns" markdown="1">
-![Jautienos koftos-koftos](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_114157_Bokeh_2_yg07m3.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1600944322/2020/09/24/IMG_20200924_114157_Bokeh_2_srgvmp.jpg)
 </div>
 </div>
 
