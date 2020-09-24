@@ -27,27 +27,45 @@ cover: "/v1600941295/2020/09/24/IMG_20200924_121929_Bokeh_2_cl8z6e.jpg"
 * <span itemprop="recipeIngredient">Mediniai iešmeliai</span>
 
 <div itemprop="recipeInstructions" markdown="1">
-![Jautienos koftos-produktai](https://res.cloudinary.com/monikagod/image/upload/v1600941304/2020/09/24/IMG_20200924_112848_Bokeh_2_hdhnco.jpg)
+![Jautienos koftos-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941304/2020/09/24/IMG_20200924_112848_Bokeh_2_hdhnco.jpg)
 
 Susmulkiname svogūną, česnako skilteles ir šviežias prieskonines žoleles. Dedame viską į dubenį, padruskiname, papiriname pagal skonį ir įmušame kiaušinį. Viską suminkome rankomis.
 
-![Jautienos koftos-produktai dubenyje](https://res.cloudinary.com/monikagod/image/upload/v1600941294/2020/09/24/IMG_20200924_113302_Bokeh_2_bbd8an.jpg)  
-![Jautienos koftos-maišymas](https://res.cloudinary.com/monikagod/image/upload/v1600941294/2020/09/24/IMG_20200924_113503_Bokeh_2_dvjdbd.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![Jautienos koftos-produktai dubenyje](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_113302_Bokeh_2_bbd8an.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Jautienos koftos-maišymas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_113503_Bokeh_2_dvjdbd.jpg)
+</div>
+</div>
 
 Toliau įmame pagaliukus ir formuojame rankomis koftas.
 
-![Jautienos koftos-formavimas](https://res.cloudinary.com/monikagod/image/upload/v1600941294/2020/09/24/IMG_20200924_113712_Bokeh_2_obhbsx.jpg)  
-![Jautienos koftos-koftos](https://res.cloudinary.com/monikagod/image/upload/v1600941294/2020/09/24/IMG_20200924_114157_Bokeh_2_yg07m3.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![Jautienos koftos-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_113712_Bokeh_2_obhbsx.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Jautienos koftos-koftos](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_114157_Bokeh_2_yg07m3.jpg)
+</div>
+</div>
 
 Suformuotas koftas kepu ant griliaus. Tačiau jeigu griliaus neturite, koftas galite kepti 180 laispnių įkaitintoje orkaitėje 15-20 minučių. Patiekite su keptomis daržovėmis arba salotomis.
 </div>
 
 Skanaus!
 
-![Jautienos koftos-grilius](https://res.cloudinary.com/monikagod/image/upload/v1600941295/2020/09/24/IMG_20200924_115440_Bokeh_2_gx90lv.jpg)  
-![Jautienos koftos-orkaitė](https://res.cloudinary.com/monikagod/image/upload/v1600941295/2020/09/24/IMG_20200924_114810_Bokeh_2_tasprt.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![Jautienos koftos-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_113712_Bokeh_2_obhbsx.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Jautienos koftos-orkaitė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941295/2020/09/24/IMG_20200924_114810_Bokeh_2_tasprt.jpg)
+</div>
+</div>
 
-![Jautienos koftos](https://res.cloudinary.com/monikagod/image/upload/v1600941295/2020/09/24/IMG_20200924_121929_Bokeh_2_cl8z6e.jpg)  
+![Jautienos koftos](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941295/2020/09/24/IMG_20200924_121929_Bokeh_2_cl8z6e.jpg)  
 {:itemprop="image"}
 
 Puikiai prie koftų tinkančios salotos:
