@@ -58,7 +58,7 @@ Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![Jautienos koftos-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941294/2020/09/24/IMG_20200924_113712_Bokeh_2_obhbsx.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1600941295/2020/09/24/IMG_20200924_115440_Bokeh_2_gx90lv.jpg)
 </div>
 <div class="six columns" markdown="1">
 ![Jautienos koftos-orkaitė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600941295/2020/09/24/IMG_20200924_114810_Bokeh_2_tasprt.jpg)
