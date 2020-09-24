@@ -11,7 +11,7 @@ title: Jautienos koftos
 cover: "/v1600941295/2020/09/24/IMG_20200924_121929_Bokeh_2_cl8z6e.jpg"
 
 ---
-Šiandieną Artimuosiuose rytuose populiarus patiekalas - koftos. Pastarosios formuojamos ant iešmo iš maltos mėsos, žuvies ar net daržovių. Šį kartą supažindinsiu Jus su itin paprastu, tačiau kupinu šviežių skonių variantu. Griliuje karamelizavusios itin kokybiškos jautienos koftos, gausiai pagardintos  prieskoninėmis žolelėmis ir apšakstytos citrinos sultimis. Pastarosios praturtins kiekvienų namų virtuvę. :)
+Šiandieną Artimuosiuose rytuose populiarus patiekalas - koftos. Pastarosios formuojamos ant iešmo iš maltos mėsos, žuvies ar net daržovių. Šį kartą supažindinsiu Jus su itin paprastu, tačiau kupinu šviežių skonių variantu. Griliuje karamelizavusios kokybiškos jautienos koftos, gausiai pagardintos prieskoninėmis žolelėmis ir apšlakstytos citrinos sultimis. Pastarosios praturtins kiekvienų namų virtuvę. :)
 
 **Produktai:**
 
