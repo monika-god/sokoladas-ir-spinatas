@@ -10,7 +10,7 @@ title: Kepti ridikėliai
 cover: "/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg"
 
 ---
-Galvojant apie keptas daržovesm, ridikėliai tikriausiai daugeliui mūsų būtų paskutinė daržovė apie kurią pagalvotume. Be reikalo! Svieste kepti ridikėliai su šviežiomis petražolėmis turi švelnų skonį bei kaip pagardas tinka prie bet kokios mėsos.
+Galvojant apie keptas daržoves, ridikėliai tikriausiai daugeliui mūsų būtų paskutinė daržovė apie kurią pagalvotume. Be reikalo! Svieste kepti ridikėliai su šviežiomis petražolėmis turi itin švelnų skonį ir, kaip pagardas tiks ne prie vieno patiekalo.
 
 **Produktai:**
 
