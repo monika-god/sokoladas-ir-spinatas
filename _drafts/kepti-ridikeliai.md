@@ -10,3 +10,24 @@ title: Kepti ridikėliai
 cover: "/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg"
 
 ---
+Galvojant apie keptas daržovesm, ridikėliai tikriausiai daugeliui mūsų būtų paskutinė daržovė apie kurią pagalvotume. Be reikalo! Svieste kepti ridikėliai su šviežiomis petražolėmis turi švelnų skonį bei kaip pagardas tinka prie bet kokios mėsos.
+
+**Produktai:**
+
+* Ridikėliai
+* Sviestas
+* Šviežios petražolės
+* Druska
+* Pipirai
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1601904037/2020/10/05/IMG_20201005_141557_Bokeh_2_mswlij.jpg)  
+  
+Perpauname per puse ridikėlius ir dedame kepti į įkaitintą keptuvę su sviestu. Pabarstome druska ir pipirais.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1601904013/2020/10/05/IMG_20201005_152414_pgaswx.jpg)  
+  
+Kepame apie 10 minučių. Prieš baigiant kepti suberiame smulkintas šviežias petražoles.  
+  
+Skanaus!  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg)
