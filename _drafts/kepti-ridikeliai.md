@@ -30,4 +30,6 @@ Kepame apie 10 minučių. Prieš baigiant kepti suberiame smulkintas šviežias 
   
 Skanaus!  
   
+Kepti ketvirčiai su keptais ridikėliais ir burokėliais -   
+  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg)
