@@ -2,7 +2,11 @@
 author: Monika Godelienė
 layout: post
 date: 2020-10-05 12:53:39 +0300
-tags: []
+tags:
+- žuvis
+- rūkyta žuvis
+- salotos
+- pietūs
 title: Rūkytos žuvies salotos
 cover: "/v1601891612/2020/10/05/IMG_20201005_122050_Bokeh_2_mhnhbp.jpg"
 
