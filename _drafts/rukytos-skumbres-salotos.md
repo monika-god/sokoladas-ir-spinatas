@@ -7,7 +7,7 @@ title: Rūkytos žuvies salotos
 cover: "/v1601891612/2020/10/05/IMG_20201005_122050_Bokeh_2_mhnhbp.jpg"
 
 ---
-Gal šį savaitgalį Jus lankė teta iš pajūrio bei atvežė įstabiai kvapnios rūkytos skumbrės? Arba turguje bendravote su labai charizmatišku prekeiviu ir nė nepastebėjote, kaip Jūsų krepšyje atsidūrė rūkyta menkė? Variantų gali būti begalė, bet jie visi veda prie vieno - namuose turite rūkytos žuvies ir nežinia, ką su ja daryti. Mano namuose šis produktas retas svečias, tačiau, kai jo turiu, vasada gaminuosi salotas. Panašias salotas pradėjo gaminti mano mama. Per daugelį metų, jas prisitaikiau savo skoniui - pridėjau daugiau žalumynų, mažiau majonezo. Šiandieną dalinuosi man labiausiai patinkančiu šių salotų variantu -  gardi pagrindinio vaidmens atlikėja skumbrė, asistuojantys kvapnūs pomidorai ir gaivios prieskoninės žolelės. Skanaus!
+Gal šį savaitgalį Jus lankė teta iš pajūrio bei atvežė įstabiai kvapnios rūkytos skumbrės? Arba turguje bendravote su labai charizmatišku prekeiviu ir nė nepastebėjote, kaip Jūsų krepšyje atsidūrė rūkyta menkė? Variantų gali būti begalė, bet jie visi veda prie vieno - namuose turite rūkytos žuvies ir nežinia, ką su ja daryti. Mano namuose šis produktas retas svečias, tačiau, kai jo turiu, vasada gaminuosi salotas. Panašias salotas pradėjo gaminti mano mama. Per daugelį metų, jas prisitaikiau savo skoniui - pridėjau daugiau žalumynų, mažiau majonezo. Šiandieną dalinuosi man labiausiai patinkančiu šių salotų variantu -  gardi pagrindinio vaidmens atlikėja skumbrė bei asistuojantys kvapnūs pomidorai ir gaivios prieskoninės žolelės. Skanaus!
 
 **Produktai:**
 
