@@ -11,14 +11,14 @@ Gal šį savaitgalį Jus lankė teta iš pajūrio bei atvežė įstabiai kvapnio
 
 **Produktai:**
 
-* Rūkyta žuvis (naudojau skumbrę)
-* Pakelis vyšninių pomidorų
-* Vienas poras
-* Laiškiniai svogūnai
-* Šviežios petražolės
-* Du šaukštai majonezo
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Rūkyta žuvis (naudojau skumbrę)</span>
+* <span itemprop="recipeIngredient">Pakelis vyšninių pomidorų</span>
+* <span itemprop="recipeIngredient">Vienas poras</span>
+* <span itemprop="recipeIngredient">Laiškiniai svogūnai</span>
+* <span itemprop="recipeIngredient">Šviežios petražolės</span>
+* <span itemprop="recipeIngredient">Du šaukštai majonezo</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">
 ![Rūkytos žuvies salotos-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601891605/2020/10/05/IMG_20201005_115431_Bokeh_2_unbdo7.jpg)
