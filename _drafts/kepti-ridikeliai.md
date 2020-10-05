@@ -20,16 +20,16 @@ Galvojant apie keptas daržoves, ridikėliai tikriausiai daugeliui mūsų būtų
 * Druska
 * Pipirai
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1601904037/2020/10/05/IMG_20201005_141557_Bokeh_2_mswlij.jpg)  
-  
-Perpauname per puse ridikėlius ir dedame kepti į įkaitintą keptuvę su sviestu. Pabarstome druska ir pipirais.  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1601904013/2020/10/05/IMG_20201005_152414_pgaswx.jpg)  
-  
-Kepame apie 10 minučių. Prieš baigiant kepti suberiame smulkintas šviežias petražoles.  
-  
-Skanaus!  
-  
-Kepti ketvirčiai su keptais ridikėliais ir burokėliais -   
-  
+![](https://res.cloudinary.com/monikagod/image/upload/v1601904037/2020/10/05/IMG_20201005_141557_Bokeh_2_mswlij.jpg)
+
+Perpauname per puse ridikėlius ir dedame kepti į įkaitintą keptuvę su sviestu. Pabarstome druska ir pipirais.
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1601904013/2020/10/05/IMG_20201005_152414_pgaswx.jpg)
+
+Kepame apie 10 minučių. Prieš baigiant kepti suberiame smulkintas šviežias petražoles.
+
+Skanaus!
+
+Siūlau išmėginti orkaitėje keptus ketvirčius su keptais burokėliais ir ridikėliais - 
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg)
