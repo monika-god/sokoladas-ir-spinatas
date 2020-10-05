@@ -49,5 +49,4 @@ Iškepus omletą į keptuvę dedame sviesto ir suberiame kubeliais pjaustytus sv
 </div>
 </div>
 
-![Omletas su voveraitėmis](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600338115/2020/09/17/IMG_20200917_122755_Bokeh_2_xmeevl.jpg)  
-{:itemprop="image"}
+![Omletas su voveraitėmis](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1600338115/2020/09/17/IMG_20200917_122755_Bokeh_2_xmeevl.jpg){:itemprop="image"}
