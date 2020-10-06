@@ -10,13 +10,13 @@ title: Naminė imbierinė arbata
 cover: "/v1601904013/2020/10/05/IMG_20201005_151431_Bokeh_2_osppys.jpg"
 
 ---
-Atėjus žvarbiam rudeniui vis labiau norėsis vakare, po darbo įsitaisyti namuose jaukiai apsigobus pledu bei įnykus į mėgstamą knygą. Tokio vakaro neįsivaizuoju be garuojančio arbatos puodelio. 
+Atėjus žvarbiam rudeniui vis labiau norėsis vakare, po darbo įsitaisyti namuose jaukiai apsigobus pledu bei įnykus į mėgstamą knygą ar filmą. Tokio vakaro neįsivaizuoju be garuojančio arbatos puodelio. Šį kartą visiems gerai žinoma imbierinė arbata, pagaminta savo rankomis.   
 
 Produktai:
 
 * Citrina
 * Imbieras
-* 2-3 šaukšteliai medaus
+* 2-3 šaukšteliai medaus (arba cukraus)
 * Vanilės ekstraktas (nebūtina)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_145858_Bokeh_2_xzrdul.jpg)  
