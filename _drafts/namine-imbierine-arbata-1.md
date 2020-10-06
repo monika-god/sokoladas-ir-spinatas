@@ -14,10 +14,10 @@ Atėjus žvarbiam rudeniui vis dažniau norėsis vakare, po darbo įsitaisyti na
 
 Produktai:
 
-* Citrina
-* Imbieras
-* 2-3 šaukšteliai medaus (arba cukraus)
-* Vanilės ekstraktas (nebūtina)
+* <span itemprop="recipeIngredient">Citrina</span>
+* <span itemprop="recipeIngredient">Imbieras</span>
+* <span itemprop="recipeIngredient">2-3 šaukšteliai medaus (arba cukraus)</span>
+* <span itemprop="recipeIngredient">Vanilės ekstraktas (nebūtina)</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_145858_Bokeh_2_xzrdul.jpg)  
 Sutarkuojame imbierą (pastorojo aš nelupu), supjaustome citriną bei viską apipilame medumi ar cukrumi. Jeigu mėgstate vanilę, taip pat galite įpilti šlakelį vanilės ekstrakto. Produktus išmaišome šiek tiek šauktu paspausdami, kad citrina ir imbieras paleistų savo sultis.
