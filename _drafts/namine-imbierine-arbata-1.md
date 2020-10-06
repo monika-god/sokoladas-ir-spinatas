@@ -10,23 +10,26 @@ title: Naminė imbierinė arbata
 cover: "/v1601904013/2020/10/05/IMG_20201005_151431_Bokeh_2_osppys.jpg"
 
 ---
-**Produktai:**
+\**
+
+Produktai:**
 
 * Citrina
 * Imbieras
 * 2-3 šaukšteliai medaus
+* Vanilės ekstraktas (nebūtina)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_145858_Bokeh_2_xzrdul.jpg)  
-Sutarkuojame imbierą (pastorojo aš nelupu), supjaustome citriną bei viską apipilame medumi ar cukrumi. Produktus išmaišome šiek tiek šauktu paspausdami, kad citrina ir imbieras paleistų savo sultis.  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_150249_Bokeh_2_teqr2d.jpg)  
-  
-Produktus sudedame į turimą arbatai skirtą indą bei užpilame neverdančiu vandeniu.  
-  
+Sutarkuojame imbierą (pastorojo aš nelupu), supjaustome citriną bei viską apipilame medumi ar cukrumi. Jeigu mėgstate vanilę, taip pat galite įpilti šlakelį vanilės ekstrakto. Produktus išmaišome šiek tiek šauktu paspausdami, kad citrina ir imbieras paleistų savo sultis.
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_150249_Bokeh_2_teqr2d.jpg)
+
+Produktus sudedame į turimą arbatai skirtą indą bei užpilame neverdančiu vandeniu.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_150657_Bokeh_2_omxlrb.jpg)  
-Palaikome 10 minučių, kad arbata pritrauktų ir galimie tiekti.  
-  
-Skanaus!  
-  
+Palaikome 10 minučių, kad arbata pritrauktų ir galimie tiekti.
+
+Skanaus!
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904013/2020/10/05/IMG_20201005_151231_Bokeh_2_rmxnea.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904013/2020/10/05/IMG_20201005_151431_Bokeh_2_osppys.jpg)
