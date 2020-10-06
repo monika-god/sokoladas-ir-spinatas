@@ -10,7 +10,7 @@ title: Naminė imbierinė arbata
 cover: "/v1601904013/2020/10/05/IMG_20201005_151431_Bokeh_2_osppys.jpg"
 
 ---
-Atėjus žvarbiam rudeniui vis labiau norėsis vakare, po darbo įsitaisyti namuose jaukiai apsigobus pledu bei įnykus į mėgstamą knygą ar filmą. Tokio vakaro neįsivaizuoju be garuojančio arbatos puodelio. Šį kartą visiems gerai žinoma imbierinė arbata, pagaminta savo rankomis. Kvapnus šiek tiek aitrus gėrimas leis ne tik atsipalaiduoti ir atsiduoti mėgiamai veiklai, bet ir pastiprins vitaminais. :)
+Atėjus žvarbiam rudeniui vis labiau norėsis vakare, po darbo įsitaisyti namuose jaukiai apsigobus pledu bei įnykus į mėgstamą knygą ar filmą. Tokio vakaro neįsivaizuoju be garuojančio arbatos puodelio. Šį kartą visiems gerai žinoma imbierinė arbata, pagaminta savomis rankomis. Kvapnus šiek tiek aitrus gėrimas leis ne tik atsipalaiduoti ir atsiduoti mėgiamai veiklai, bet ir pastiprins vitaminais. :)
 
 Produktai:
 
