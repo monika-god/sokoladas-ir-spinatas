@@ -30,7 +30,7 @@ Produktus sudedame į turimą arbatai skirtą indą bei užpilame neverdančiu v
 
 ![Imbierinė arbata- arbata](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904012/2020/10/05/IMG_20201005_150657_Bokeh_2_omxlrb.jpg) 
  
-Palaikome 10 minučių, kad arbata pritrauktų ir galimie tiekti.
+Palaikome 10 minučių, kad arbata pritrauktų ir galime tiekti.
 </div>
 
 Skanaus!
