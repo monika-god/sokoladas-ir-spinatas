@@ -10,9 +10,9 @@ title: Naminė imbierinė arbata
 cover: "/v1601904013/2020/10/05/IMG_20201005_151431_Bokeh_2_osppys.jpg"
 
 ---
-\**
+Atėjus žvarbiam rudeniui vis labiau norėsis vakare, po darbo įsitaisyti namuose jaukiai apsigobus pledu bei įnykus į mėgstamą knygą. Tokio vakaro neįsivaizuoju be garuojančio arbatos puodelio. 
 
-Produktai:**
+Produktai:
 
 * Citrina
 * Imbieras
