@@ -55,7 +55,7 @@ Likus 5 minutėms iki kepimo pabaigos išimame burokėlius ir padidiname karšt�
 
 Skanaus!
 
-![Vištienos ketvirčiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_153521_Bokeh_2_aozjiv.jpg)
+![Vištienos ketvirčiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_153521_Bokeh_2_aozjiv.jpg){:itemprop="image"}
 
 
 ![Vištienos ketvirčiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904014/2020/10/05/IMG_20201005_153926_Bokeh_2_kqok6n.jpg)
