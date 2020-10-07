@@ -10,8 +10,8 @@ title: Orkaitėje kepti ketvirčiai su keptais ridikėliais ir burokėliais
 cover: "/v1601904013/2020/10/05/IMG_20201005_153521_Bokeh_2_aozjiv.jpg"
 
 ---
-Savaitgaliais trūksta idėjų ką gaminti? Nors ir niekur nereikia skubėti, rekomenduoju rinktis tokius patiekalus, kuriems paruošti nereikia daug laiko ir visą darbą už Jus atliktų orkaitė. Juk savaitgaliai skiti Jūsų poilsiui.  
-Šį kartą pasirinkau gardžiai apskrudusius vištienos ketvirčius, su vištienos sultyse išsitroškinusiomis bulvėmis bei saldžiarūgščiais keptais burokėliais ir švelnaus skonio keptais ridikėliais. Patiekalas glostys ne tik gomurį, bet ir savo spalvingumu džiugins šeiminiškių akis. :)
+Savaitgaliais trūksta idėjų ką gaminti? Nors ir niekur nereikia skubėti, rekomenduoju rinktis tokius patiekalus, kuriems paruošti nereikia daug laiko ir visą darbą už Jus atliktų orkaitė. Juk savaitgaliai skiti Jūsų poilsiui!  
+Šį kartą pasirinkau gardžiai apskrudusius vištienos ketvirčius, su vištienos sultyse išsitroškinusiomis bulvėmis bei saldžiarūgščiais orkaitėje keptais burokėliais ir švelnaus skonio keptais ridikėliais. Patiekalas glostys ne tik gomurį, bet ir savo spalvingumu džiugins šeiminiškių akis. :)
 
 Produktai:
 
