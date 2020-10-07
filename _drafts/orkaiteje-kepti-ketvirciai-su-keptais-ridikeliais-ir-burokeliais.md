@@ -38,7 +38,8 @@ Pradedame nuo vištienos ketvirčių. Pastaruosius pašlakstome aliejumi, citrin
 Toliau gerai nuplauname bulves. Pastarųjų nelupame. Perpjauname bulves per puse, dedame į kepimo indą, apšalstome aliejumi bei apibarstome druska, pipirais ir džiovintais rozmarinais.
 
 ![Vištienos ketvirčiai-bulvės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143741_Bokeh_2_obm0w4.jpg)  
-Paruošiame kepimui burokėlius. Supjaustome piršto storio griežinėliais, apšlakstome aliejumi, laimo sultimis, apibarstome druska ir pipirais (Detalesnis receptas paspaudus ant nuorodos - ).
+
+Paruošiame kepimui burokėlius. Supjaustome piršto storio griežinėliais, apšlakstome aliejumi, laimo sultimis, apibarstome druska ir pipirais (detalesnis receptas paspaudus ant nuorodos - ).
 
 ![Vištienos ketvirčiai-burokėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_144414_Bokeh_2_pujb1y.jpg)
 
@@ -46,7 +47,7 @@ Ant bulvių dedame vištienos ketvirčius. Pastaruosius kartu su burokėliais de
 
 ![Vištienos ketvirčiai-orkaitė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143816_Bokeh_2_w9b0b3.jpg)
 
-Kol kepa vištiena su burokėliais paruošiame ridikėlius. Įkaitiname keptuvę su sviestu bei dedame į ją per pus perjautus ridikėlius. Pabarstome druska pipirais. Kepame 10 minučių. Prieš baigiant kepti sudedame smulkintas šviežias petražoles (Detalesnis receptas paspaudus ant nuorodos - )
+Kol kepa vištiena su burokėliais paruošiame ridikėlius. Įkaitiname keptuvę su sviestu bei dedame į ją per pus perjautus ridikėlius. Pabarstome druska pipirais. Kepame 10 minučių. Prieš baigiant kepti sudedame smulkintas šviežias petražoles (detalesnis receptas paspaudus ant nuorodos - )
 
 ![Vištienos ketvirčiai-ridikėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_152414_pgaswx.jpg)
   
