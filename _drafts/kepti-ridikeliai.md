@@ -10,7 +10,7 @@ title: Kepti ridikėliai
 cover: "/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg"
 
 ---
-Galvojant apie keptas daržoves, ridikėliai tikriausiai daugeliui mūsų būtų paskutinė daržovė apie kurią pagalvotume. Be reikalo! Svieste kepti ridikėliai su šviežiomis petražolėmis turi itin švelnų skonį ir, kaip pagardas džiugins ne prie vieno patiekalo.
+Galvojant apie keptas daržoves, ridikėliai tikriausiai daugeliui mūsų būtų paskutinė daržovė apie kurią pagalvotume. Be reikalo! Svieste kepti ridikėliai su šviežiomis petražolėmis turi itin švelnų skonį ir, kaip pagardas džiugins akis bei gomurį ne prie vieno patiekalo.
 
 **Produktai:**
 
@@ -30,6 +30,6 @@ Kepame apie 10 minučių. Prieš baigiant kepti suberiame smulkintas šviežias 
 
 Skanaus!
 
-Siūlau išmėginti orkaitėje keptus ketvirčius su keptais burokėliais ir ridikėliais - 
+Siūlau išmėginti orkaitėje keptus ketvirčius su keptais burokėliais ir ridikėliais -
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg)
