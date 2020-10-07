@@ -35,7 +35,7 @@ Pradedame nuo vištienos ketvirčių. Pastaruosius pašlakstome aliejumi, citrin
 
 ![Vištienos ketvirčiai-keitvirčiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_141805_Bokeh_2_x5vwas.jpg)
 
-Toliau gerai nuplauname bulves. Pastarųjų nelupame. Perpjauname bulves per puse, dedame į kepimo indą, apšalstome aliejumi bei apivarstome druska, pipirais ir džiovintais rozmarinais.
+Toliau gerai nuplauname bulves. Pastarųjų nelupame. Perpjauname bulves per puse, dedame į kepimo indą, apšalstome aliejumi bei apibarstome druska, pipirais ir džiovintais rozmarinais.
 
 ![Vištienos ketvirčiai-bulvės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143741_Bokeh_2_obm0w4.jpg)  
 Paruošiame kepimui burokėlius. Supjaustome piršto storio griežinėliais, apšlakstome aliejumi, laimo sultimis, apibarstome druska ir pipirais (Detalesnis receptas paspaudus ant nuorodos - ).
