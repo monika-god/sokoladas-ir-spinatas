@@ -24,10 +24,15 @@ Marinuoti ar virti burokėliai tapę virtuvės klasika, o ar teko juos kepti? Or
 ![Kepti burokėliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904037/2020/10/05/IMG_20201005_141126_Bokeh_2_cr9swz.jpg)
 
 Supjaustome burokėlius piršto storio griežinėliais, pašlakstome aliejumi bei pusės laimo sultimis. Apibarstome druska ir pipirais.    
-  
-![Kepti burokėliai-paruošimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_144414_Bokeh_2_pujb1y.jpg) 
- 
-![Kepti burokėliai-laimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904012/2020/10/05/IMG_20201005_144250_Bokeh_2_vq4pti.jpg)  
+
+<div class="row">
+<div class="six columns" markdown="1">
+![Kepti burokėliai-paruošimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_144414_Bokeh_2_pujb1y.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Kepti burokėliai-laimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904012/2020/10/05/IMG_20201005_144250_Bokeh_2_vq4pti.jpg)
+</div>
+</div> 
 
 Dedame į 180 laispnių įkaitintą orkaitę ir kepame 40-45 minutes. Iškepusius burokėlius dar kartą pašlakstome laimo sultimis.
 </div>
