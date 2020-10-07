@@ -24,7 +24,7 @@ Produktai:
 * <span itemprop="recipeIngredient">Aliejus</span>
 * <span itemprop="recipeIngredient">Sviestas</span>
 * <span itemprop="recipeIngredient">Šviežios petražolės</span>
-* <span itemprop="recipeIngredient">Rozmarinai</span>
+* <span itemprop="recipeIngredient">Džiovinti rozmarinai</span>
 * <span itemprop="recipeIngredient">Druska</span>
 * <span itemprop="recipeIngredient">Pipirai</span>
 
