@@ -14,18 +14,24 @@ Marinuoti ar virti burokėliai tapę virtuvės klasika, o ar teko juos kepti? Or
 
 **Produktai:**
 
-* Burokėliai
-* Vienas laimas
-* Aliejus
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Burokėliai</span>
+* <span itemprop="recipeIngredient">Vienas laimas</span>
+* <span itemprop="recipeIngredient">Aliejus</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1601904037/2020/10/05/IMG_20201005_141126_Bokeh_2_cr9swz.jpg)
+<div itemprop="recipeInstructions" markdown="1"> 
+![Kepti burokėliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904037/2020/10/05/IMG_20201005_141126_Bokeh_2_cr9swz.jpg)
 
-Supjaustome burokėlius piršto storio griežinėliais, pašlakstome aliejumi bei pusės laimo sultimis. Apibarstome druska ir pipirais.  ![](https://res.cloudinary.com/monikagod/image/upload/v1601904011/2020/10/05/IMG_20201005_144414_Bokeh_2_pujb1y.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1601904012/2020/10/05/IMG_20201005_144250_Bokeh_2_vq4pti.jpg)  
+Supjaustome burokėlius piršto storio griežinėliais, pašlakstome aliejumi bei pusės laimo sultimis. Apibarstome druska ir pipirais.    
+  
+![Kepti burokėliai-paruošimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_144414_Bokeh_2_pujb1y.jpg) 
+ 
+![Kepti burokėliai-laimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904012/2020/10/05/IMG_20201005_144250_Bokeh_2_vq4pti.jpg)  
+
 Dedame į 180 laispnių įkaitintą orkaitę ir kepame 40-45 minutes. Iškepusius burokėlius dar kartą pašlakstome laimo sultimis.
+</div>
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1601904013/2020/10/05/IMG_20201005_152808_Bokeh_2_xtefut.jpg)
+![Kepti burokėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_152808_Bokeh_2_xtefut.jpg){:itemprop="image"}
