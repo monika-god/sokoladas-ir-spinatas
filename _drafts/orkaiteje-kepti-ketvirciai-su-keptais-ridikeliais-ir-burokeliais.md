@@ -10,8 +10,8 @@ title: Orkaitėje kepti ketvirčiai su keptais ridikėliais ir burokėliais
 cover: "/v1601904013/2020/10/05/IMG_20201005_153521_Bokeh_2_aozjiv.jpg"
 
 ---
-Savaitgaliais vis sukate galvą, ką gaminti? Nors ir niekur nereikia skubėti, rekomenduoju rinktis tokius patiekalus, kuriems paruošti nereikia daug laiko ir visą darbą už Jus atliktų orkaitė. Juk savaitgaliai skiti Jūsų poilsiui!  
-Šį kartą pasirinkau gardžiai apskrudusius vištienos ketvirčius, su vištienos sultyse išsitroškinusiomis bulvėmis bei saldžiarūgščiais orkaitėje keptais burokėliais ir švelnaus skonio keptais ridikėliais. Patiekalas glostys ne tik gomurį, bet ir savo spalvingumu džiugins šeiminiškių akis. :)
+Savaigaliais, nors ir niekur nereikia skubėti, rekomenduoju rinktis tokius patiekalus, kuriems paruošti nereikia daug laiko ir visą darbą už Jus atliktų orkaitė. Juk savaitgaliai skiti Jūsų poilsiui!  
+Šį kartą pasirinkau gardžiai apskrudusius vištienos ketvirčius, su vištienos sultyse išsitroškinusiomis bulvėmis bei saldžiarūgščiais orkaitėje keptais burokėliais ir švelnaus skonio keptais ridikėliais. Pažadu, patiekalas glostys ne tik gomurį, bet ir savo spalvingumu džiugins šeiminiškių akis. :)
 
 Produktai:
 
@@ -37,7 +37,7 @@ Pradedame nuo vištienos ketvirčių. Pastaruosius pašlakstome aliejumi, citrin
 
 Toliau gerai nuplauname bulves. Pastarųjų nelupame. Perpjauname bulves per puse, dedame į kepimo indą, apšalstome aliejumi bei apibarstome druska, pipirais ir džiovintais rozmarinais.
 
-![Vištienos ketvirčiai-bulvės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143741_Bokeh_2_obm0w4.jpg)  
+![Vištienos ketvirčiai-bulvės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143741_Bokeh_2_obm0w4.jpg)
 
 Paruošiame kepimui burokėlius. Supjaustome piršto storio griežinėliais, apšlakstome aliejumi, laimo sultimis, apibarstome druska ir pipirais (detalesnis receptas paspaudus ant nuorodos - ).
 
@@ -50,13 +50,12 @@ Ant bulvių dedame vištienos ketvirčius. Pastaruosius kartu su burokėliais de
 Kol kepa vištiena su burokėliais paruošiame ridikėlius. Įkaitiname keptuvę su sviestu bei dedame į ją per pus perjautus ridikėlius. Pabarstome druska pipirais. Kepame 10 minučių. Prieš baigiant kepti sudedame smulkintas šviežias petražoles (detalesnis receptas paspaudus ant nuorodos - )
 
 ![Vištienos ketvirčiai-ridikėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_152414_pgaswx.jpg)
-  
+
 Likus 5 minutėms iki kepimo pabaigos išimame burokėlius ir padidiname karštį iki 230 laispnių, kad vištiena apskrustų. Apskrudus vištienai galime tiekti patiekalą.  
 </div>
 
 Skanaus!
 
 ![Vištienos ketvirčiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_153521_Bokeh_2_aozjiv.jpg){:itemprop="image"}
-
 
 ![Vištienos ketvirčiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904014/2020/10/05/IMG_20201005_153926_Bokeh_2_kqok6n.jpg)
