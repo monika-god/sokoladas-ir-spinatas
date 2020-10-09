@@ -34,10 +34,11 @@ Supjaustome burokėlius piršto storio griežinėliais, pašlakstome aliejumi be
 </div>
 </div>
 
-Dedame į 180 laispnių įkaitintą orkaitę ir kepame 40-45 minutes. Iškepusius burokėlius dar kartą pašlakstome žaliosios citrinos sultimis. </div>
+Dedame į 180 laispnių įkaitintą orkaitę ir kepame 40-45 minutes. Iškepusius burokėlius dar kartą pašlakstome žaliosios citrinos sultimis.   
+</div>
 
-Skanaus!  
-  
+Skanaus!
+
 Siūlau išmėginti orkaitėje keptus ketvirčius su keptais burokėliais ir ridikėliais - [https://sokoladasirspinatas.lt/2020/10/10/orkaiteje-kepti-ketvirciai-su-keptais-ridikeliais-ir-burokeliais.html](https://sokoladasirspinatas.lt/2020/10/10/orkaiteje-kepti-ketvirciai-su-keptais-ridikeliais-ir-burokeliais.html "https://sokoladasirspinatas.lt/2020/10/10/orkaiteje-kepti-ketvirciai-su-keptais-ridikeliais-ir-burokeliais.html").
 
 ![Kepti burokėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_152808_Bokeh_2_xtefut.jpg){:itemprop="image"}
