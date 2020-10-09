@@ -20,7 +20,7 @@ Produktai:
 * <span itemprop="recipeIngredient">Ridikėliai</span>
 * <span itemprop="recipeIngredient">Nedidelės bulvės</span>
 * <span itemprop="recipeIngredient">Citrina</span>
-* <span itemprop="recipeIngredient">Laimas</span>
+* <span itemprop="recipeIngredient">Žalioji citrina</span>
 * <span itemprop="recipeIngredient">Aliejus</span>
 * <span itemprop="recipeIngredient">Sviestas</span>
 * <span itemprop="recipeIngredient">Šviežios petražolės</span>
@@ -39,7 +39,7 @@ Toliau gerai nuplauname bulves. Pastarųjų nelupame. Perpjauname bulves per pus
 
 ![Vištienos ketvirčiai-bulvės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143741_Bokeh_2_obm0w4.jpg)
 
-Paruošiame kepimui burokėlius. Supjaustome piršto storio griežinėliais, apšlakstome aliejumi, laimo sultimis, apibarstome druska ir pipirais (detalesnis receptas paspaudus ant nuorodos - ).
+Paruošiame kepimui burokėlius. Supjaustome piršto storio griežinėliais, apšlakstome aliejumi, žaliosios citrinos sultimis, apibarstome druska ir pipirais (detalesnis receptas paspaudus ant nuorodos - [https://sokoladasirspinatas.lt/2020/10/10/kepti-burokeliai.html](https://sokoladasirspinatas.lt/2020/10/10/kepti-burokeliai.html "https://sokoladasirspinatas.lt/2020/10/10/kepti-burokeliai.html")).
 
 ![Vištienos ketvirčiai-burokėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_144414_Bokeh_2_pujb1y.jpg)
 
@@ -47,7 +47,7 @@ Ant bulvių dedame vištienos ketvirčius. Pastaruosius kartu su burokėliais de
 
 ![Vištienos ketvirčiai-orkaitė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904011/2020/10/05/IMG_20201005_143816_Bokeh_2_w9b0b3.jpg)
 
-Kol kepa vištiena su burokėliais paruošiame ridikėlius. Įkaitiname keptuvę su sviestu bei dedame į ją per pus perjautus ridikėlius. Pabarstome druska pipirais. Kepame 10 minučių. Prieš baigiant kepti sudedame smulkintas šviežias petražoles (detalesnis receptas paspaudus ant nuorodos - )
+Kol kepa vištiena su burokėliais paruošiame ridikėlius. Įkaitiname keptuvę su sviestu bei dedame į ją per pus perjautus ridikėlius. Pabarstome druska pipirais. Kepame 10 minučių. Prieš baigiant kepti sudedame smulkintas šviežias petražoles (detalesnis receptas paspaudus ant nuorodos - [https://sokoladasirspinatas.lt/2020/10/10/kepti-ridikeliai.html](https://sokoladasirspinatas.lt/2020/10/10/kepti-ridikeliai.html "https://sokoladasirspinatas.lt/2020/10/10/kepti-ridikeliai.html"))
 
 ![Vištienos ketvirčiai-ridikėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904013/2020/10/05/IMG_20201005_152414_pgaswx.jpg)
 
