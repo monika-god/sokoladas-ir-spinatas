@@ -32,6 +32,6 @@ Kepame apie 10 minučių. Prieš baigiant kepti suberiame smulkintas šviežias 
 
 Skanaus!
 
-Siūlau išmėginti orkaitėje keptus ketvirčius su keptais burokėliais ir ridikėliais -
+Siūlau išmėginti orkaitėje keptus ketvirčius su keptais burokėliais ir ridikėliais - [https://sokoladasirspinatas.lt/2020/10/10/orkaiteje-kepti-ketvirciai-su-keptais-ridikeliais-ir-burokeliais.html](https://sokoladasirspinatas.lt/2020/10/10/orkaiteje-kepti-ketvirciai-su-keptais-ridikeliais-ir-burokeliais.html "https://sokoladasirspinatas.lt/2020/10/10/orkaiteje-kepti-ketvirciai-su-keptais-ridikeliais-ir-burokeliais.html").
 
 ![Kepti ridikėliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1601904014/2020/10/05/IMG_20201005_153638_Bokeh_2_rktgkm.jpg){:itemprop="image"}
