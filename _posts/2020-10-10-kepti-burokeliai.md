@@ -34,8 +34,7 @@ Supjaustome burokėlius piršto storio griežinėliais, pašlakstome aliejumi be
 </div>
 </div>
 
-Dedame į 180 laispnių įkaitintą orkaitę ir kepame 40-45 minutes. Iškepusius burokėlius dar kartą pašlakstome laimo sultimis.
-</div>
+Dedame į 180 laispnių įkaitintą orkaitę ir kepame 40-45 minutes. Iškepusius burokėlius dar kartą pašlakstome žaliosios citrinos sultimis. </div>
 
 Skanaus!
 
