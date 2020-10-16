@@ -15,7 +15,7 @@ Jau kurį laiką šaldymo kameros kampe manęs laukė naminių jautienos dešrel
 
 Produktai:
 
-* <span itemprop="recipeIngredient">itemprop="recipeIngredient">5 vnt. jautienos dešrelių</span>
+* <span itemprop="recipeIngredient">5 vnt. jautienos dešrelių</span>
 * <span itemprop="recipeIngredient">Bulvės</span>
 * <span itemprop="recipeIngredient">400 g. pievagrybių</span>
 * <span itemprop="recipeIngredient">2 vnt. salierų</span>
