@@ -45,13 +45,35 @@ Supjaustome dešreles, kiekvieną padaliname į keturias dalis. Pastarasias taip
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1602866108/2020/10/16/IMG_20201013_113702_Bokeh_2_pgw2bf.jpg)  
   
-Toliau nieko epti nebereikės. Į puodą baigiame berti likusius produktus - pupeles, bulves bei prieskonius. Supilame sultinį. Dedame troškinį ant viryklės ir verdame apie valandą.  
+Toliau nieko kepti nebereikės. Į puodą baigiame berti likusius produktus - pupeles, bulves bei prieskonius. Supilame sultinį. Dedame troškinį ant viryklės ir verdame apie valandą. 
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113738_Bokeh_2_qeqdkz.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113755_Bokeh_2_q8gr11.jpg)
+</div>
+</div>
+
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113834_Bokeh_2_rmp1gj.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)
+</div>
+</div>
+ 
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113738_Bokeh_2_qeqdkz.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113755_Bokeh_2_q8gr11.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113834_Bokeh_2_rmp1gj.jpg)  
-Kai troškinys pakankamai sutirštėjęs nuimame jį nuo viryklės. Tiekdami pabarstome smulkinta petražole.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)  
+  
+  
+Kai troškinys pakankamai sutirštėjęs (po +- valandos) nuimame jį nuo viryklės. Tiekdami pabarstome smulkinta petražole.  
   
 Skanaus!  
   
