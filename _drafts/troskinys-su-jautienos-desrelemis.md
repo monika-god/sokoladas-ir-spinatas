@@ -8,6 +8,6 @@ tags:
 - pietūs
 - žiemos patiekalai
 title: Troškinys su jautienos dešrelėmis
-cover: ''
+cover: "/v1602866107/2020/10/16/IMG_20201013_122132_Bokeh_2_y5k40k.jpg"
 
 ---
