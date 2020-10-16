@@ -25,7 +25,34 @@ Produktai:
 * 500 ml. vieštienos (ar grybų) sultinio
 * 3 a. š. rūkytos paprikos
 * 4 vnt. lauro lapų
+* Sauja šviežių petražolių
 * Druska
 * Pipirai
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1602866126/2020/10/16/IMG_20201013_110937_Bokeh_2_ballsr.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866126/2020/10/16/IMG_20201013_110937_Bokeh_2_ballsr.jpg)  
+Visų pirma supjaustome daržoves - salierus, svogūnus, morkas, pievagrybiu ir bulves.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866126/2020/10/16/IMG_20201013_111834_Bokeh_2_dx9tnw.jpg)  
+  
+Toliai apkepiname salierus, svogūnus ir morkas bei beriame į puodą.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866126/2020/10/16/IMG_20201013_112939_Bokeh_3_qcs4yv.jpg)  
+Lengvai apkepiname pievagrybiu ir beriame į puodą.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866126/2020/10/16/IMG_20201013_113304_Bokeh_2_hqdgty.jpg)  
+  
+Supjaustome dešreles, kiekvieną padaliname į keturias dalis. Pastarasias taip pat apkepiname keptuvėje. Beriame į puodą.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866108/2020/10/16/IMG_20201013_113702_Bokeh_2_pgw2bf.jpg)  
+  
+Toliau nieko epti nebereikės. Į puodą baigiame berti likusius produktus - pupeles, bulves bei prieskonius. Supilame sultinį. Dedame troškinį ant viryklės ir verdame apie valandą.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113738_Bokeh_2_qeqdkz.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113755_Bokeh_2_q8gr11.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113834_Bokeh_2_rmp1gj.jpg)  
+Kai troškinys pakankamai sutirštėjęs nuimame jį nuo viryklės. Tiekdami pabarstome smulkinta petražole.  
+  
+Skanaus!  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_122132_Bokeh_2_y5k40k.jpg)
