@@ -17,5 +17,15 @@ Produktai:
 
 * 5 vnt. jautienos dešrelių
 * Bulvės
+* 400 g. pievagrybių
+* 2 vnt. salierų
+* 2 vidutinio dydžio morkos
+* 2 vidutinio dydžio svogūnai
+* 200 g. pupelių
+* 500 ml. vieštienos (ar grybų) sultinio
+* 3 a. š. rūkytos paprikos
+* 4 vnt. lauro lapų
+* Druska
+* Pipirai
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1602866126/2020/10/16/IMG_20201013_110937_Bokeh_2_ballsr.jpg)
