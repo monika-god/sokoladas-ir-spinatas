@@ -64,14 +64,6 @@ Toliau nieko kepti nebereikės. Į puodą baigiame berti likusius produktus - pu
 ![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)
 </div>
 </div>
- 
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113738_Bokeh_2_qeqdkz.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1602866107/2020/10/16/IMG_20201013_113755_Bokeh_2_q8gr11.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113834_Bokeh_2_rmp1gj.jpg)  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)  
-  
   
 Kai troškinys pakankamai sutirštėjęs (po +- valandos) nuimame jį nuo viryklės. Tiekdami pabarstome smulkinta petražole.  
   
