@@ -30,25 +30,25 @@ Produktai:
 * <span itemprop="recipeIngredient">Pipirai</span>
 
 <div itemprop="recipeInstructions" markdown="1">
-![jautienos troškinys-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_110937_Bokeh_2_ballsr.jpg) 
- 
-Visų pirma supjaustome daržoves - salierus, svogūnus, morkas, pievagrybiu ir bulves.  
-  
-![jautienos troškinys-pjaustyti produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_111834_Bokeh_2_dx9tnw.jpg)  
-  
-Toliai apkepiname salierus, svogūnus ir morkas bei beriame į puodą.  
-  
-![jautienos troškinys- apkepinti produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_112939_Bokeh_3_qcs4yv.jpg) 
- 
-Lengvai apkepiname pievagrybiu ir beriame į puodą.  
-  
-![jautienos troškinys-kepinti pievagybiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_113304_Bokeh_2_hqdgty.jpg)  
-  
-Supjaustome dešreles, kiekvieną padaliname į keturias dalis. Pastarasias taip pat apkepiname keptuvėje. Beriame į puodą.  
-  
-![jautienos troškinys-kepintos dešrelės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866108/2020/10/16/IMG_20201013_113702_Bokeh_2_pgw2bf.jpg)  
-  
-Toliau nieko kepti nebereikės. Į puodą baigiame berti likusius produktus - pupeles, bulves bei prieskonius. Supilame sultinį. Dedame troškinį ant viryklės ir verdame apie valandą. 
+![jautienos troškinys-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_110937_Bokeh_2_ballsr.jpg)
+
+Visų pirma supjaustome daržoves - salierus, svogūnus, morkas, pievagrybius ir bulves.
+
+![jautienos troškinys-pjaustyti produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_111834_Bokeh_2_dx9tnw.jpg)
+
+Toliai apkepiname salierus, svogūnus ir morkas bei beriame į puodą.
+
+![jautienos troškinys- apkepinti produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_112939_Bokeh_3_qcs4yv.jpg)
+
+Lengvai apkepiname pievagrybius ir beriame į puodą.
+
+![jautienos troškinys-kepinti pievagybiai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866126/2020/10/16/IMG_20201013_113304_Bokeh_2_hqdgty.jpg)
+
+Supjaustome dešreles, kiekvieną padaliname į keturias dalis. Pastarasias taip pat apkepiname keptuvėje. Apkepinę, beriame į puodą.
+
+![jautienos troškinys-kepintos dešrelės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866108/2020/10/16/IMG_20201013_113702_Bokeh_2_pgw2bf.jpg)
+
+Toliau nieko kepti nebereikės. Į puodą baigiame berti likusius produktus - pupeles, bulves bei prieskonius. Supilame sultinį. Dedame troškinį ant viryklės ir verdame apie valandą.
 
 <div class="row">
 <div class="six columns" markdown="1">
@@ -67,10 +67,10 @@ Toliau nieko kepti nebereikės. Į puodą baigiame berti likusius produktus - pu
 ![jautienos troškinys-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866106/2020/10/16/IMG_20201013_113900_Bokeh_2_tk1eke.jpg)
 </div>
 </div>
-  
-Kai troškinys pakankamai sutirštėjęs (po +- valandos) nuimame jį nuo viryklės. Tiekdami pabarstome smulkinta petražole.  
-</div> 
- 
-Skanaus!  
-  
+
+Prieš baigiant troškiniui išsitroškinti suberiame saują smulkintų šviežių petražolių. Kada jau matome, jog troškinys pakankamai sutirštėjęs (po +- valandos) nuimame jį nuo viryklės. Tiekdami pabarstome smulkinta petražole.  
+</div>
+
+Skanaus!
+
 ![jautienos troškinys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1602866107/2020/10/16/IMG_20201013_122132_Bokeh_2_y5k40k.jpg){:itemprop="image"}
