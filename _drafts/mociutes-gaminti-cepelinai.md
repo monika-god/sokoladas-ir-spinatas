@@ -25,21 +25,25 @@ Kiekviena šeima turi geriausių cepelinų receptą. Mūsiškis slepiasi pas mo�
 
 Visų pirma nulupame ir nuplauname bulves. Ketvirtadalį bulvių dedame į puodą ir išverdame.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096738/2020/10/19/IMG_20201018_112816_Bokeh_2_k0oiou.jpg)  
+![Cepelinai-bulvės](https://res.cloudinary.com/monikagod/image/upload/v1603096738/2020/10/19/IMG_20201018_112816_Bokeh_2_k0oiou.jpg)  
+
 Likusią didžiąją dalį bulvių sutarkuojame. Kartu su bulvėmis sutarkuojame 3 svogūnus. Pastarieji reikalingi tam, kad tarkis nepajuodotų. Gautą masę nusunkiame. Anot močiutės, geriausiai bulvės nusunkiamos per trikotažinę medžiagą.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_115406_Bokeh_2_bjnbsy.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_120707_Bokeh_2_brkmfz.jpg)  
+![Cepelinai-bulvės tarkuotos](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_115406_Bokeh_2_bjnbsy.jpg)  
+![Cepelinai-bulvės nusunktos](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_120707_Bokeh_2_brkmfz.jpg)
+  
 Išvirtas bulves sutriname ir dar karštas sudedame kartu su nusunktu tarkiu. Dedame druskos ir viską išminkome, kol gaunasi vientisa masė.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123038_Bokeh_2_m0vnbt.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123201_gubasc.jpg)  
+![Cepelinai-tarkis](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123038_Bokeh_2_m0vnbt.jpg)  
+![Cepelinai-tešla](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123201_gubasc.jpg)
+  
 Pasiruošiame įdarus. Susmulkiname vieną svogūną ir sudedame į kiaulienos faršą. Dedame druskos bei pipirų. Įpilame šiek tiek vandens. Minkome, kol gausis vientisa masė. Suformuojame įdarą į norimą formą.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096738/2020/10/19/IMG_20201018_111038_Bokeh_2_uly5pb.jpg)  
+![Cepelinai-kiauliena](https://res.cloudinary.com/monikagod/image/upload/v1603096738/2020/10/19/IMG_20201018_111038_Bokeh_2_uly5pb.jpg)  
 Varškės įdarą ruošiant įmušąme 2 kiaušinius, dedame kmynų ir druskos. Išminkome masę ir formuojame norimos formos įdarą.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096737/2020/10/19/IMG_20201018_111021_Bokeh_2_r1s54v.jpg)  
+![Cepelinai-varškė](https://res.cloudinary.com/monikagod/image/upload/v1603096737/2020/10/19/IMG_20201018_111021_Bokeh_2_r1s54v.jpg)  
+
 Pagaliau formuojame cepelinus. Pasidarome vienodo dydžio rutuliukus. Įmame rutuliuką į delną ir jį suplojame. Dedame per vidurį įdarą. Suimame cepeliną abejais delnais ir nykščių pagalba apgaubiame įdarą tešla. Likusius tarpus užlankstome ir cepeliną pavoliojame delnuose, kol gauname norimą formą. Vualia! turime pirmąjį cepeliną. Dar liko 30. :)  
   
 ![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123918_Bokeh_2_bh4hvo.jpg)  
