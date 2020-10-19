@@ -23,7 +23,8 @@ Kiekviena šeima turi geriausių cepelinų receptą. Mūsiškis slepiasi pas mo�
 * <span itemprop="recipeIngredient">Druska</span>
 * <span itemprop="recipeIngredient">Pipirai</span>
 
-Visų pirma nulupame ir nuplauname bulves. Ketvirtadalį bulvių dedame į puodą ir išverdame.  
+<div itemprop="recipeInstructions" markdown="1">
+Visų pirma nulupame ir nuplauname bulves. Ketvirtadalį bulvių dedame į puodą ir išverdame. 
   
 ![Cepelinai-bulvės](https://res.cloudinary.com/monikagod/image/upload/v1603096738/2020/10/19/IMG_20201018_112816_Bokeh_2_k0oiou.jpg)  
 
@@ -58,9 +59,10 @@ Cepelinus dedame į verdantį vandenį. Virimo laiką skaičiuojame nuo to momen
 ![Cepelinai-verdami](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_134720_Bokeh_2_zh6elw.jpg)  
 
 Išvirusius cepelinius patiekame su spigučių ir grietinės padažu.  
-  
+</div>  
+
 Skanaus!  
   
 ![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_140928_Bokeh_2_dnchzc.jpg) 
  
-![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_135607_Bokeh_2_ywjr5f.jpg)
+![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_135607_Bokeh_2_ywjr5f.jpg){:itemprop="image"}
