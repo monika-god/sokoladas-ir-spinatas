@@ -46,18 +46,20 @@ Varškės įdarą ruošiant įmušąme 2 kiaušinius, dedame kmynų ir druskos. 
 
 Pagaliau formuojame cepelinus. Pasidarome vienodo dydžio rutuliukus. Įmame rutuliuką į delną ir jį suplojame. Dedame per vidurį įdarą. Suimame cepeliną abejais delnais ir nykščių pagalba apgaubiame įdarą tešla. Likusius tarpus užlankstome ir cepeliną pavoliojame delnuose, kol gauname norimą formą. Vualia! turime pirmąjį cepeliną. Dar liko 30. :)  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123918_Bokeh_2_bh4hvo.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123924_Bokeh_2_ag4t6a.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123931_Bokeh_2_ofy0us.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123936_Bokeh_2_kz39am.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_124815_Bokeh_2_vlww6y.jpg)  
+![Cepelinai-formavimas](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123918_Bokeh_2_bh4hvo.jpg)  
+![Cepelinai-formavimas](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123924_Bokeh_2_ag4t6a.jpg)  
+![Cepelinai-formavimas](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123931_Bokeh_2_ofy0us.jpg)  
+![Cepelinai-formavimas](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_123936_Bokeh_2_kz39am.jpg)  
+![Cepelinai-suformuoti](https://res.cloudinary.com/monikagod/image/upload/v1603096722/2020/10/19/IMG_20201018_124815_Bokeh_2_vlww6y.jpg)  
+
 Cepelinus dedame į verdantį vandenį. Virimo laiką skaičiuojame nuo to momento, kada vanduo su cepelinais užverda dar kartą. Cepelinus su varške verdame 15 minučių, su mėsa 25 minutes.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_132445_Bokeh_2_irduuc.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_134720_Bokeh_2_zh6elw.jpg)  
+![Cepelinai-dedami virti](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_132445_Bokeh_2_irduuc.jpg)  
+![Cepelinai-verdami](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_134720_Bokeh_2_zh6elw.jpg)  
+
 Išvirusius cepelinius patiekame su spigučių ir grietinės padažu.  
   
 Skanaus!  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_140928_Bokeh_2_dnchzc.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_135607_Bokeh_2_ywjr5f.jpg)
+![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_140928_Bokeh_2_dnchzc.jpg)  
+![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_135607_Bokeh_2_ywjr5f.jpg)
