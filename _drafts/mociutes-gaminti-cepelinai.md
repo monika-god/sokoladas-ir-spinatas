@@ -54,7 +54,7 @@ Pasiruošiame įdarus. Susmulkiname vieną svogūną ir sudedame į kiaulienos f
   
 ![Cepelinai-kiauliena](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603096738/2020/10/19/IMG_20201018_111038_Bokeh_2_uly5pb.jpg)  
 
-Varškės įdarą ruošiant įmušąme 2 kiaušinius, dedame kmynų ir druskos. Išminkome masę ir formuojame norimos formos įdarą.  
+Varškės įdarą ruošiant įmušame 2 kiaušinius, dedame kmynų ir druskos. Išminkome masę ir formuojame norimos formos įdarą.  
   
 ![Cepelinai-varškė](https://res.cloudinary.com/monikagod/image/w_1500,q_auto,c_fit/upload/v1603096737/2020/10/19/IMG_20201018_111021_Bokeh_2_r1s54v.jpg)  
 
