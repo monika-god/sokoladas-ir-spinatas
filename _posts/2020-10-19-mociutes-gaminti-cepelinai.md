@@ -54,9 +54,9 @@ Pasiruošiame įdarus. Susmulkiname vieną svogūną ir sudedame į kiaulienos f
 
 ![Cepelinai-kiauliena](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603096738/2020/10/19/IMG_20201018_111038_Bokeh_2_uly5pb.jpg)
 
-Varškės įdarą ruošiant įmušame 2 kiaušinius, dedame kmynų ir druskos. Išminkome masę ir formuojame norimos formos įdarą.
-
-![Cepelinai-varškė](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603096737/2020/10/19/IMG_20201018_111021_Bokeh_2_r1s54v.jpg)
+Varškės įdarą ruošiant įmušame 2 kiaušinius, dedame kmynų ir druskos. Išminkome masę ir formuojame norimos formos įdarą.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1603096737/2020/10/19/IMG_20201018_111021_Bokeh_2_r1s54v.jpg)
 
 Pagaliau formuojame cepelinus. Pasidarome vienodo dydžio rutuliukus. Įmame rutuliuką į delną ir jį suplojame. Dedame per vidurį įdarą. Suimame cepeliną abejais delnais ir nykščių pagalba apgaubiame įdarą tešla. Likusius tarpus užlankstome ir cepeliną pavoliojame delnuose, kol gauname norimą formą. Vualia! turime pirmąjį cepeliną. Dar liko 30. :)
 
