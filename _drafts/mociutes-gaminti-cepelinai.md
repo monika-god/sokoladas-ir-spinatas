@@ -91,7 +91,7 @@ Cepelinus dedame į verdantį vandenį. Virimo laiką skaičiuojame nuo to momen
 </div>
 </div>
 
-Išvirusius cepelinius patiekame su spigučių ir grietinės padažu.  
+Išvirusius cepelinius patiekame su spirgučių ir grietinės padažu.  
 </div>  
 
 Skanaus!  
