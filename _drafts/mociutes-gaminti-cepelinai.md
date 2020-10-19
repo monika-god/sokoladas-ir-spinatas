@@ -14,14 +14,14 @@ Kiekviena šeima turi geriausių cepelinų receptą. Mūsiškis slepiasi pas mo�
 
 **Produktai:**
 
-* Kibiras bulvių
-* 1 kg. riebaus kiaulienos faršo
-* 600 g. varškės
-* 2 kiaušiniai
-* 5 svogūnai
-* Kmynai
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">Kibiras bulvių</span>
+* <span itemprop="recipeIngredient">1 kg. riebaus kiaulienos faršo</span>
+* <span itemprop="recipeIngredient">600 g. varškės</span>
+* <span itemprop="recipeIngredient">2 kiaušiniai</span>
+* <span itemprop="recipeIngredient">5 svogūnai</span>
+* <span itemprop="recipeIngredient">Kmynai</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 Visų pirma nulupame ir nuplauname bulves. Ketvirtadalį bulvių dedame į puodą ir išverdame.  
   
