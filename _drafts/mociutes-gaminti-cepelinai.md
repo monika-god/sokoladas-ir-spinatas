@@ -10,7 +10,7 @@ title: Močiutės gaminti cepelinai
 cover: "/v1603096723/2020/10/19/IMG_20201018_135607_Bokeh_2_ywjr5f.jpg"
 
 ---
-Kiekviena šeima turi geriausių cepelinų receptą. Mūsiškis slepiasi pas močiutę. Daromi gausiai, iš kibiro bulvių, nes jų valgyti susirenka kelios šeimos. Receptu dalinuosi lygiai tokiu, kokį teko matyti pas močiutę. Minkštut minkštutėliai ir tirpstantys burnoje, taip kaip me pratę valgyti namuose. :)
+Kiekviena šeima turi geriausių cepelinų receptą. Mūsiškis slepiasi pas močiutę. Daromi gausiai, iš kibiro bulvių, nes jų valgyti susirenka kelios šeimos. Receptu dalinuosi lygiai tokiu, kokį teko matyti pas močiutę. Minkštut minkštutėliai ir tirpstantys burnoje, taip kaip mes pratę valgyti namuose. :)
 
 **Produktai:**
 
