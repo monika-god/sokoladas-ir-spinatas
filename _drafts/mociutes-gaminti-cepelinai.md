@@ -61,5 +61,6 @@ Išvirusius cepelinius patiekame su spigučių ir grietinės padažu.
   
 Skanaus!  
   
-![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_140928_Bokeh_2_dnchzc.jpg)  
+![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_140928_Bokeh_2_dnchzc.jpg) 
+ 
 ![Cepelinai](https://res.cloudinary.com/monikagod/image/upload/v1603096723/2020/10/19/IMG_20201018_135607_Bokeh_2_ywjr5f.jpg)
