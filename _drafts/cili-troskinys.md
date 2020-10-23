@@ -73,4 +73,4 @@ Patiekame dubenyje kartu su jogurtu, sūriu, šviežia kalendra bei jelapenais.
  
 Skanaus!  
   
-![Čili troškinys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg)
+![Čili troškinys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg){:itemprop="image"}
