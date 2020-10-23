@@ -7,7 +7,7 @@ title: Daržovių sriuba su moliūgu ir brokoliu
 cover: 2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg
 
 ---
-Šį kartą šaldytuve turėjau moliūgo gabalėlį. 
+Šį kartą šaldytuve turėjau moliūgo gabalėlį.
 
 **Produktai:**
 
@@ -23,22 +23,20 @@ cover: 2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg
 * Pipirai
 * Petražolė (ar kitos mėgiamos žolelės)
 
-![](/assets/media/2020-08-20/img_20200820_175248_bokeh_3.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965272/2020/08/22/IMG_20200820_175248_Bokeh_lbkjxo.jpg)
 
 Daržoves nulupame ir supjaustome mažais kubeliais. Įkatiname keptuvę su sviestu ar aliejumi ir dedame kepti moliūgus. Po kelių minučių sudedame morkas ir svogūnus. Pakepiname daržoves \~10 min. Šiek tiek įdedame druskos. Prieš baigiant kepti įdedame smulkinto česnaką ir dar kelia minutes pakepiname kartu su daržovėmis.
 
-![](/assets/media/2020-08-20/img_20200820_180754_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965271/2020/08/22/IMG_20200820_181028_Bokeh_x2icsw.jpg)
 
 Į puodą pilame daržovių ar vištienos sultinį ir sudedame kubeliais pjaustytas bulves. Sultiniui užvirus sudedame kepintas daržoves bei brokolį ir verdame 20 min.
 
-![](/assets/media/2020-08-20/img_20200820_181028_bokeh-2.jpg)
-
 Supilame grietinėlę ir sutriname sriubą.
 
-![](/assets/media/2020-08-20/img_20200820_183829_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965271/2020/08/22/IMG_20200820_183829_Bokeh_zu2ng3.jpg)
 
 Paverdame trintą sriubą dar 10 min. ir galime tiekti.
 
 Skanaus!
 
-![](/assets/media/2020-08-20/img_20200820_184409_bokeh-2.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1598965272/2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg)
