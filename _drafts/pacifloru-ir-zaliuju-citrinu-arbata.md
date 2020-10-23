@@ -10,7 +10,7 @@ title: Paciflorų ir žaliųjų citrinų arbata
 cover: "/v1602093416/2020/10/07/IMG_20201007_113226_Bokeh_2_kwa9ka.jpg"
 
 ---
-Citrusinė paciflorų ir žaliųjų citrinų arbata.
+Pasibaigus gaiviųjų gėrimų sezonui, prasideda karštųjų. Žinoma, arbatą galime gerti pirktą parduotuvėje, tačiau kur kas daugiau malonumo ši suteiks, jei pasigaminsite ją patys. Tokiu būdu į patiekalą įdėsite pagrindinį ingredientą - meilę paties pasigamintam maistui. Šį kartą siūlau išmėginti gaivią, citrusinę paciflorų ir žaliųjų citrinų arbatą. :)
 
 **Produktai:**
 
