@@ -11,7 +11,7 @@ title: Čili troškinys
 cover: "/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg"
 
 ---
-Troškiniai tikriausiai mėgiamiausias mūsų patiekalas.
+Troškiniai - mėgiamiausias mūsų patiekalas. Juos lengva pagaminti o ir skonių skalė gali būti labai įvairi.
 
 **Produktai:**
 
@@ -24,6 +24,8 @@ Troškiniai tikriausiai mėgiamiausias mūsų patiekalas.
 * Jelapeno pipirai
 * Jogurtas
 * Pomidorų pasta (nebūtina, bet rekomenduojama)
+* Šviežia kalendra
+* Sūris
 
 **![](https://res.cloudinary.com/monikagod/image/upload/v1603458749/2020/10/23/IMG_20201023_135640_Bokeh_2_bvxtev.jpg)  
   
