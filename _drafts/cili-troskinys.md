@@ -64,7 +64,7 @@ Visų pirma supjaustome svogūnu ir saliero stiebus kubeliais. Pastaruosius leng
     
 ![Čili troškinys-pomidorai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_141738_Bokeh_2_r7zxin.jpg) 
  
-Po 20 minučių į troškinį beriame saują šviežios kalendros ir troškiname troškinį dar 10 minučių.  
+Po 20 minučių į troškinį beriame saują šviežios kalendros ir troškiname dar 10 minučių.  
   
 ![Čili troškinys-kalendra](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_144358_Bokeh_2_yftjoz.jpg)  
 
