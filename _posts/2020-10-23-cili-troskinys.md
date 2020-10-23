@@ -36,7 +36,7 @@ Prieskoniai:
 * <span itemprop="recipeIngredient">1 a. š. raudonėlio</span>
 * <span itemprop="recipeIngredient">1 a. š. saldžiosios paprikos</span>
 * <span itemprop="recipeIngredient">1 a. š. aitriosios čili paprikos</span>
-* <span itemprop="recipeIngredient">1 a. š. juodųjų pipirų</span>
+* <span itemprop="recipeIngredient">0,5 a. š. juodųjų pipirų</span>
 * <span itemprop="recipeIngredient">Druskos</span>
 
 <div itemprop="recipeInstructions" markdown="1">
