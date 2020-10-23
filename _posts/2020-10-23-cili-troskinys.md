@@ -42,7 +42,7 @@ Prieskoniai:
 <div itemprop="recipeInstructions" markdown="1">
 ![Čili troškinys-prieskoniai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458749/2020/10/23/IMG_20201023_140009_Bokeh_3_zhealv.jpg)
 
-Visų pirma supjaustome svogūną ir saliero stiebus kubeliais. Pastaruosius lengvai pakepiname keptuvėje ir dedame į puodą. Toliau apkepiname jautienos faršą su druska, pipirais ir česnaku. Dedame į puodą. Galiausiai į puodą suberiame visus prieskonius, pupeles, jelapeno pipirus ir pomidorus. Jei atrodo per tiršta, galima įpilti 100 ml vandens. Viską išmaišome ir troškiname 20 minučių.
+Visų pirma supjaustome svogūną ir saliero stiebus kubeliais. Pastaruosius lengvai pakepiname keptuvėje ir dedame į puodą. Toliau apkepiname jautienos faršą su druska, pipirais ir česnaku. Dedame į puodą. Galiausiai į puodą suberiame visus prieskonius, pupeles, jelapeno pipirus, pomidorų pastą (jei turime) ir pomidorus. Jei atrodo per tiršta, galima įpilti 100 ml vandens. Viską išmaišome ir troškiname 20 minučių.
 
 <div class="row">
 <div class="six columns" markdown="1">
