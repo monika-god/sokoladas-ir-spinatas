@@ -15,44 +15,62 @@ Troškiniai - mėgiamiausias mūsų patiekalas. Ne vien dėl to, kad juos lengva
 
 **Produktai:**
 
-* 500 g. jautienos faršo
-* 800 g. pomidorų savose sultyse
-* 2 saliero stiebai
-* 150 g. pupelių
-* 2 dideli svogūnai
-* 3 skiltelės česnakai
-* Jelapeno pipirai
-* Jogurtas
-* Pomidorų pasta (nebūtina, bet rekomenduojama)
-* Šviežia kalendra
-* Sūris
+* <span itemprop="recipeIngredient">500 g. jautienos faršo</span>
+* <span itemprop="recipeIngredient">800 g. pomidorų savose sultyse</span>
+* <span itemprop="recipeIngredient">2 saliero stiebai</span>
+* <span itemprop="recipeIngredient">150 g. virtų pupelių</span>
+* <span itemprop="recipeIngredient">2 dideli svogūnai</span>
+* <span itemprop="recipeIngredient">3 skiltelės česnakų</span>
+* <span itemprop="recipeIngredient">Jelapeno pipirai</span>
+* <span itemprop="recipeIngredient">Jogurtas</span>
+* <span itemprop="recipeIngredient">Pomidorų pasta (nebūtina, bet rekomenduojama)</span>
+* <span itemprop="recipeIngredient">Šviežia kalendra</span>
+* <span itemprop="recipeIngredient">Sūris</span>
 
-**![](https://res.cloudinary.com/monikagod/image/upload/v1603458749/2020/10/23/IMG_20201023_135640_Bokeh_2_bvxtev.jpg)  
+![Čili troškinys-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458749/2020/10/23/IMG_20201023_135640_Bokeh_2_bvxtev.jpg)  
+
 Prieskoniai:**
 
-* 1 a. š. kumino
-* 1 a. š. maltų kalendros sėklų
-* 1 a. š. raudonėlio
-* 1 a. š. saldžiosios paprikos
-* 1 a. š. aitriosios čili paprikos
-* 1 a. š. juodųjų pipirų
-* Druskos
+* <span itemprop="recipeIngredient">1 a. š. kumino</span>
+* <span itemprop="recipeIngredient">1 a. š. maltų kalendros sėklų</span>
+* <span itemprop="recipeIngredient">1 a. š. raudonėlio</span>
+* <span itemprop="recipeIngredient">1 a. š. saldžiosios paprikos</span>
+* <span itemprop="recipeIngredient">1 a. š. aitriosios čili paprikos</span>
+* <span itemprop="recipeIngredient">1 a. š. juodųjų pipirų</span>
+* <span itemprop="recipeIngredient">Druskos</span>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458749/2020/10/23/IMG_20201023_140009_Bokeh_3_zhealv.jpg)  
+<div itemprop="recipeInstructions" markdown="1">
+![Čili troškinys-prieskoniai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458749/2020/10/23/IMG_20201023_140009_Bokeh_3_zhealv.jpg)  
   
 Visų pirma supjaustome svogūnu ir saliero stiebus kubeliais. Pastaruosius lengvai pakepiname keptuvėje ir dedame į puodą. Toliau apkepiname jautienos faršą su druska, pipirais ir česnaku. Dedame į puodą. Geliausiai į puodą suberiame visus prieskonius, pupeles, jelapeno pipirus ir pomidorus. Viską išmaišome ir troškiname 20 minučių.   
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458737/2020/10/23/IMG_20201023_141512_Bokeh_2_pino9d.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458737/2020/10/23/IMG_20201023_141641_Bokeh_2_cgsxdq.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![Čili troškinys-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_141512_Bokeh_2_pino9d.jpg)
+</div>
+<div class="six columns" markdown="1">
+![Čili troškinys-mėsa ir prieskoniai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_141641_Bokeh_2_cgsxdq.jpg)
+</div>
+</div>
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458737/2020/10/23/IMG_20201023_141710_Bokeh_2_yxfxyd.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458737/2020/10/23/IMG_20201023_141722_Bokeh_2_kh3rmt.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458737/2020/10/23/IMG_20201023_141738_Bokeh_2_r7zxin.jpg)  
+<div class="row">
+<div class="six columns" markdown="1">
+![Čili troškinys-pupelės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_141710_Bokeh_2_yxfxyd.jpg) 
+</div>
+<div class="six columns" markdown="1">
+![Čili troškinys-jelapenai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_141722_Bokeh_2_kh3rmt.jpg)  
+</div>
+</div>
+    
+![Čili troškinys-pomidorai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_141738_Bokeh_2_r7zxin.jpg) 
+ 
 Po 20 minučių į troškinį beriame saują šviežios kalendros ir troškiname troškinį dar 10 minučių.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458737/2020/10/23/IMG_20201023_144358_Bokeh_2_yftjoz.jpg)  
+![Čili troškinys-kalendra](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458737/2020/10/23/IMG_20201023_144358_Bokeh_2_yftjoz.jpg)  
+
 Patiekame dubenyje kartu su jogurtu, sūriu, šviežia kalendra bei jelapenais.  
-  
+</div> 
+ 
 Skanaus!  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg)
+![Čili troškinys](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg)
