@@ -28,7 +28,6 @@ Troškiniai - mėgiamiausias mūsų patiekalas. Juos lengva pagaminti o ir skoni
 * Sūris
 
 **![](https://res.cloudinary.com/monikagod/image/upload/v1603458749/2020/10/23/IMG_20201023_135640_Bokeh_2_bvxtev.jpg)  
-  
 Prieskoniai:**
 
 * 1 a. š. kumino
