@@ -7,7 +7,7 @@ title: Daržovių sriuba su moliūgu ir brokoliu
 cover: 2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg
 
 ---
-Šį kartą šaldytuve turėjau moliūgo gabalėlį.
+Jau ne kartą girdėjote, kad sriuba yra puikus būdas suvalgyti daugiau daržovių. Tarpusavyje dera begalė variantų. Šį kartą šaldytuve turėjau moliūgo gabalėlį. Priskyriau jam į porą brokolį. Gavosi maistinga, šildanti, rudeniša pietų sriuba, tikra vitaminų bomba!
 
 **Produktai:**
 
