@@ -10,7 +10,7 @@ title: Kepti brokoliai su ančiuviais
 cover: "/v1600781659/2020/09/22/IMG_20200922_162249_Bokeh_2_zmbhij.jpg"
 
 ---
-Š
+Man labai patinka, kaip šis patiekalas atrodo lėkštėje, ir nors iš pirmo žvilgsnio nepagalvotum, jog ančiuviai dera su brokoliais, duokite jiems šansą! Pastarieji puikiai susišoka lėkštėje bei ypatingai dera prie steiko.
 
 **Produktai:**
 
@@ -24,17 +24,17 @@ cover: "/v1600781659/2020/09/22/IMG_20200922_162249_Bokeh_2_zmbhij.jpg"
 * Druska
 * Pipirai
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1600781659/2020/09/22/IMG_20200922_154250_Bokeh_2_rl4cam.jpg)  
-  
-Supjaustome brokolį žiedais, o svogūnus ketvirčiais ir dedame į kepimo indą. Tuomet įkaitiname keptuvę su aliejumi. Į įkaitusią keptuvę dedame smulkintus česnakus ir ančiuvus. Pakepinę kelias minutes dedame česnakus su ančiuviais į kepimo indą ir viską išmaišome.  
-  
+![](https://res.cloudinary.com/monikagod/image/upload/v1600781659/2020/09/22/IMG_20200922_154250_Bokeh_2_rl4cam.jpg)
+
+Supjaustome brokolį žiedais, o svogūnus ketvirčiais ir dedame į kepimo indą. Tuomet įkaitiname keptuvę su aliejumi. Į įkaitusią keptuvę dedame smulkintus česnakus ir ančiuvus. Pakepinę kelias minutes dedame česnakus su ančiuviais į kepimo indą ir viską išmaišome.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600781659/2020/09/22/IMG_20200922_155319_Bokeh_2_vur4l3.jpg)  
-![](https://res.cloudinary.com/monikagod/image/upload/v1600781660/2020/09/22/IMG_20200922_155502_Bokeh_2_slhscr.jpg)  
-  
-Kepimo indą su daržovėmis dedame į 180 laipsnių įkaitintą orkaitę ir kepame 15-20 minučių. Išėmę kepimo indą pašlakstome daržoves citrinos sultimis ir pabarstome kietuoju sūriu.  
-  
+![](https://res.cloudinary.com/monikagod/image/upload/v1600781660/2020/09/22/IMG_20200922_155502_Bokeh_2_slhscr.jpg)
+
+Kepimo indą su daržovėmis dedame į 180 laipsnių įkaitintą orkaitę ir kepame 15-20 minučių. Išėmę kepimo indą pašlakstome daržoves citrinos sultimis ir pabarstome kietuoju sūriu.
+
 Receptas įkvėptas tinklaraščio bonappetit.com
 
-Skanaus!  
-  
+Skanaus!
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1600781659/2020/09/22/IMG_20200922_162249_Bokeh_2_zmbhij.jpg)
