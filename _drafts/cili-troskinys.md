@@ -11,7 +11,7 @@ title: Čili troškinys
 cover: "/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg"
 
 ---
-Troškiniai - mėgiamiausias mūsų patiekalas. Juos lengva pagaminti, o ir skonių skalė gali būti labai įvairi.
+Troškiniai - mėgiamiausias mūsų patiekalas. Ne vien dėl to, kad juos lengva pagaminti, bet ir jų skonių skalė gali būti labai įvairi. Mėgstame valgyti aštriai, todėl čili troškinys tapo neatsiejama mūsų virtuvės dalimi. Pagrindiniai šio patiekalo ingredientai čili pipirai (šviežūs arba miltelių pavidalu), malta jautiena, pomidorai ir pupelės. O toliau jau kiekvienos šeimininkės improvizacija, kaip paruošite šį patiekalą. Šiandieną supažindinsiu Jus su savuoju, jau nusistovėjusiu mūsų virtuvėje čili troškinio variantu, kurį užbaigsiu aitriais jelapenais, sūriu ir jogurto šaukšteliu. :)
 
 **Produktai:**
 
@@ -33,8 +33,8 @@ Prieskoniai:**
 * 1 a. š. kumino
 * 1 a. š. maltų kalendros sėklų
 * 1 a. š. raudonėlio
-* 1 a. š. saldžiosios papriko
-* 1 a. š. aitriosios papriko
+* 1 a. š. saldžiosios paprikos
+* 1 a. š. aitriosios čili paprikos
 * 1 a. š. juodųjų pipirų
 * Druskos
 
