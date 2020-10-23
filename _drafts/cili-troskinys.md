@@ -11,7 +11,7 @@ title: Čili troškinys
 cover: "/v1603458738/2020/10/23/IMG_20201023_150057_Bokeh_2_umo6ra.jpg"
 
 ---
-Troškiniai - mėgiamiausias mūsų patiekalas. Juos lengva pagaminti o ir skonių skalė gali būti labai įvairi.
+Troškiniai - mėgiamiausias mūsų patiekalas. Juos lengva pagaminti, o ir skonių skalė gali būti labai įvairi.
 
 **Produktai:**
 
