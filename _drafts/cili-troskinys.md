@@ -29,7 +29,7 @@ Troškiniai - mėgiamiausias mūsų patiekalas. Ne vien dėl to, kad juos lengva
 
 ![Čili troškinys-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1603458749/2020/10/23/IMG_20201023_135640_Bokeh_2_bvxtev.jpg)  
 
-Prieskoniai:**
+Prieskoniai:
 
 * <span itemprop="recipeIngredient">1 a. š. kumino</span>
 * <span itemprop="recipeIngredient">1 a. š. maltų kalendros sėklų</span>
