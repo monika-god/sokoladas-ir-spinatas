@@ -2,30 +2,36 @@
 layout: default
 ---
 
+<script defer src="{{ 'assets/vendor/macy.js' | relative_url }}"></script>
+<script>
+  window.onload = function () {
+    Macy({
+      container: '.post-list',
+      columns: 2,
+      margin: {
+        x: 15,
+        y: 15
+      },
+      trueOrder: true,
+      breakAt: {
+        550: {
+          columns: 1
+        }
+      }
+    });
+  };
+</script>
+
 <div class="home">
   {{ content }}
 
   {% if site.posts.size > 0 %}
-    <ul class="post-list">
-      <div class="row">
-        <div class="one-half column">
-          {% for post in site.posts %}
-            {% assign even_element = forloop.index | modulo:2 %}
-            {% if even_element == 1 %}
-              {% include post.html post=post %}
-            {% endif %}
-          {% endfor %}
-        </div>
-        <div class="one-half column">
-          {% for post in site.posts %}
-            {% assign even_element = forloop.index | modulo:2 %}
-            {% if even_element == 0 %}
-              {% include post.html post=post %}
-            {% endif %}
-          {% endfor %}
-        </div>
+    <div class="row">
+      <div class="post-list">
+        {% for post in site.posts %}
+          {% include post.html post=post %}
+        {% endfor %}
       </div>
-    </ul>
+    </div>
   {% endif %}
-
 </div>
