@@ -1,0 +1,34 @@
+#cookie-notice {
+  padding: 0.5rem 1rem;
+  display: none;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: calc(100% - 2rem);
+  background: #222;
+  color: rgba(255,255,255,0.8);
+  z-index: 9999;
+}
+
+#cookie-notice a {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.privacy-policy, #cookie-notice {
+  a {
+    color: $primary-color;
+  }
+
+  button {
+    color: rgba(255,255,255,0.8);
+  }
+}
+
+@media (max-width: 767px) {
+  #cookie-notice span {
+    display: block;
+    padding-top: 3px;
+    margin-bottom: 1rem;
+  }
+}
