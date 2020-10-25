@@ -9,16 +9,6 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="row">
-          <ul class="menu">
-            {% for menu_item in site.data.menu %}
-              <li class="menu-item">
-                <a href="{{ menu_item.url }}" class="button">{{ menu_item.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
-
         {{ content }}
       </div>
     </main>

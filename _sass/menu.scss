@@ -1,0 +1,19 @@
+.menu {
+  a {
+    color: $text-color;
+    width: 100%;
+  }
+
+  .menu-item {
+    display: inline-block;
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .menu-item {
+    display: block;
+    font-size: 2rem;
+    width: 98%;
+  }
+}
