@@ -27,6 +27,7 @@ url: "https://sokoladasirspinatas.lt" # the base hostname & protocol for your si
 facebook_username: 'sokoladasirspinatas.lt'
 instagram_username:  'sokoladasirspinatas'
 google_analytics: 'G-D1NWNHYCXX'
+rss: 'RSS Srautas'
 show_excerpts: true
 
 # Build settings
