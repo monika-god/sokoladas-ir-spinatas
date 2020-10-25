@@ -5,20 +5,15 @@
 }
 
 .banner {
-  display: block;
+  display: none;
   margin-right: auto;
   margin-left: auto;
 }
 
-.kredo {
-  margin-top: -4%;
+.banner.mobile {
   display: block;
   margin-right: auto;
   margin-left: auto;
-
-  @include media-query(1920px) {
-    margin-top: -7%;
-  }
 }
 
 .post-cover {
@@ -63,5 +58,15 @@
 .post-list {
   .post {
     margin: 0 0 15px;
+  }
+}
+
+@media (min-width: 400px) {
+  .banner {
+    display: block;;
+  }
+
+  .banner.mobile {
+    display: none;
   }
 }
