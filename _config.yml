@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://sokoladasirspinatas.lt" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: 'sokoladasirspinatas.lt'
 instagram_username:  'sokoladasirspinatas'
+rss: 'rss'
 show_excerpts: true
 
 # Build settings
