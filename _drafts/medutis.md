@@ -42,4 +42,17 @@ Išėmę iš šaldymo kameros tešlą imamės jos košiojimo. Iškošiojame 3 mm
 ![](https://res.cloudinary.com/monikagod/image/upload/v1603731742/2020/10/26/IMG_20201026_145321_Bokeh_2_ovpzzd.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1603731742/2020/10/26/IMG_20201026_145334_Bokeh_2_n0gwt2.jpg)  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1603731743/2020/10/26/IMG_20201026_150230_Bokeh_2_cqfarz.jpg)  
-Išpjautus lakštus dedame į skardą ir kepame 200 laipsnių įkaitintoje orkaitėje 8-10 minučių. Kol paruduoja ir teš
+Išpjautus lakštus dedame į skardą ir kepame 200 laipsnių įkaitintoje orkaitėje 8-10 minučių. Kol paruduoja arba su peiliu pakelti lakštą iš apačios bei patikrinti ar lakštai nelinksta ir yra iškepę.  
+Toliau išplakame grietinėlę su milteliniu cukrumi, kol gaunasi kremo konsistencija. Atskirai išplakame grietinę. Želatiną ištirpiname kaitinant ją ant silpnos ugnies su trupučiu karšto vandens. Viską sumaišome kartu. Gauname kremą. Pastarajį dedame į šaldymo kamerą 10 minučių, kad geriau sustingtų.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1603731742/2020/10/26/IMG_20201026_155927_Bokeh_2_jatro0.jpg)  
+Atvėsus papločiams pradedame torto sluoksniavimą. Dedame lakštą ir ant viršaus paskirstome kremą. Tortas užsibaigti turi kremu. Iš viso sunaudojau 4 lakštus, penktąjį pasilikau trupiniams.  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1603731743/2020/10/26/IMG_20201026_160152_Bokeh_2_awhs7d.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1603731742/2020/10/26/IMG_20201026_160302_Bokeh_2_d9uhrs.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1603731742/2020/10/26/IMG_20201026_160423_Bokeh_2_mqjjut.jpg)  
+Tortą dedame 30 minučių į šaldytuvą. Išėmus iš šaldytuvo papuošiame tortą trupiniais iš sutrupinto penktojo lakšto. Dedame tortą į šaldytuvą ir paliekame nakčiai. Skanauti tortą galėsite ryte.  
+  
+Skanaus!  
+  
+![](https://res.cloudinary.com/monikagod/image/upload/v1603731743/2020/10/26/IMG_20201026_170800_Bokeh_3_p9wpaa.jpg)
