@@ -10,7 +10,7 @@ title: Kepti brokoliai su ančiuviais
 cover: "/v1600781659/2020/09/22/IMG_20200922_162249_Bokeh_2_zmbhij.jpg"
 
 ---
-Man labai patinka, kaip šis patiekalas atrodo lėkštėje, ir nors iš pirmo žvilgsnio nepagalvotum, jog ančiuviai dera su brokoliais, duokite jiems šansą! Neįprastas derinys puikiai susišoka lėkštėje bei ypatingai dera prie steiko. :)
+Man labai patinka, kaip šis patiekalas atrodo vizualiai, ir nors iš pirmo žvilgsnio nepagalvotum, jog ančiuviai dera su brokoliais, duokite jiems šansą! Neįprastas derinys puikiai susišoka lėkštėje bei ypatingai dera prie steiko. :)
 
 **Produktai:**
 
