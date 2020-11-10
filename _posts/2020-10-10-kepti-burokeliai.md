@@ -1,11 +1,10 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-10-10 16:20:57 +0300
+date: 2020-10-10T16:20:57.000+03:00
 tags:
 - keptos daržovės
 - garnyrai
-- burokėliai
 title: Kepti burokėliai
 cover: "/v1601904013/2020/10/05/IMG_20201005_152808_Bokeh_2_xtefut.jpg"
 

@@ -5,6 +5,7 @@ date: 2020-09-14T16:05:44.000+03:00
 tags:
 - sriuba
 - žiemos patiekalai
+- daržovės
 title: Trinta pomidorų sriuba
 cover: "/v1599727979/2020/09/10/IMG_20200909_143837_Bokeh_2_sogcnp.jpg"
 

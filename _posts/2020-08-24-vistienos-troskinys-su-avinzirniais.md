@@ -5,8 +5,9 @@ date: 2020-08-24T16:06:03.000+03:00
 tags:
 - pietūs
 - vakarienė
-- vieno puodo troškinys
 - žiemos patiekalai
+- vištiena
+- troškinys
 title: Vištienos troškinys su avinžirniais
 cover: 2020/08/24/IMG_20200824_152820_Bokeh_fr5ftc.jpg
 

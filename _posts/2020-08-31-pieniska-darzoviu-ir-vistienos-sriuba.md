@@ -5,6 +5,8 @@ date: 2020-09-08T18:06:35.000+03:00
 tags:
 - sriuba
 - žiemos patiekalai
+- daržovės
+- vištiena
 title: Pieniška daržovių ir vištienos sriuba
 cover: 2020/08/30/IMG_20200831_171803_Bokeh_x8nkf7.jpg
 
