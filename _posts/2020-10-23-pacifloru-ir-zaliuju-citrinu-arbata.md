@@ -1,11 +1,11 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-10-23 20:53:12 +0300
+date: 2020-10-23T20:53:12.000+03:00
 tags:
 - arbata
-- paciflorai
 - gėrimas
+- užkandis
 title: Paciflorų ir žaliųjų citrinų arbata
 cover: "/v1602093416/2020/10/07/IMG_20201007_113226_Bokeh_2_kwa9ka.jpg"
 
