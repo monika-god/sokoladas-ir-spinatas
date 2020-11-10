@@ -5,6 +5,7 @@ date: 2020-09-10T17:59:52.000+03:00
 tags:
 - salotos
 - garnyras
+- šviežios daržovės
 title: Pomidorų salotos su perlinėmis kruopomis ir feta
 cover: "/v1599577174/2020/09/08/IMG_20200908_165222_Bokeh_k96gl3.jpg"
 
