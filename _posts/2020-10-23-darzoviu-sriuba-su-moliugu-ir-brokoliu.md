@@ -5,7 +5,6 @@ date: 2020-11-10 19:16:31 +0200
 tags:
 - sriuba
 - daržovės
-- moliūgas
 title: Daržovių sriuba su moliūgu ir brokoliu
 cover: 2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg
 
