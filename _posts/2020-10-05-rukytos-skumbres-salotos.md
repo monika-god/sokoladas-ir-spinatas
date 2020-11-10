@@ -1,10 +1,9 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-10-05 12:53:39 +0300
+date: 2020-10-05T12:53:39.000+03:00
 tags:
 - žuvis
-- rūkyta žuvis
 - salotos
 - pietūs
 title: Rūkytos žuvies salotos
