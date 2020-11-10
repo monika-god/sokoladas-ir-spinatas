@@ -3,7 +3,6 @@ author: Monika Godelienė
 layout: post
 date: 2020-09-08T18:06:35.000+03:00
 tags:
-- pietūs
 - sriuba
 - žiemos patiekalai
 title: Pieniška daržovių ir vištienos sriuba

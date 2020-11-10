@@ -1,11 +1,10 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-09-20 15:55:33 +0300
+date: 2020-09-20T15:55:33.000+03:00
 tags:
 - grybai
 - sriuba
-- pietūs
 title: Trinta grybų sriuba su mėlynuoju sūriu
 cover: "/v1600347882/2020/09/17/IMG_20200917_152506_Bokeh_2_cvtjrb.jpg"
 
