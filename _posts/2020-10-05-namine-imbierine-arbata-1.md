@@ -1,11 +1,11 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-10-07 18:04:08 +0300
+date: 2020-10-07T18:04:08.000+03:00
 tags:
 - arbata
 - imbieras
-- žiemos patiekalai
+- užkandis
 title: Naminė imbierinė arbata
 cover: "/v1601904013/2020/10/05/IMG_20201005_151431_Bokeh_2_osppys.jpg"
 
