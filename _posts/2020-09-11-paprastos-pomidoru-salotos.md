@@ -5,6 +5,7 @@ date: 2020-09-11T00:00:00.000+03:00
 tags:
 - salotos
 - garnyrai
+- šviežios daržovės
 title: Paprastos pomidorų salotos
 cover: "/v1599732521/2020/09/10/IMG_20200910_125349_Bokeh_2_xsowfn.jpg"
 
