@@ -1,7 +1,7 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2020-10-23 19:16:31 +0300
+date: 2020-10-23T19:16:31.000+03:00
 tags: []
 title: Daržovių sriuba su moliūgu ir brokoliu
 cover: 2020/08/22/IMG_20200820_184409_Bokeh_caxlwd.jpg
