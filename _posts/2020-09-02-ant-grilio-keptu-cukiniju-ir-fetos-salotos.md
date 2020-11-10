@@ -4,8 +4,8 @@ layout: post
 date: 2020-09-02T00:00:00.000+03:00
 tags:
 - garnyras
-- pietūs
 - salotos
+- keptos daržovės
 title: Ant grilio keptų cukinijų ir fetos salotos
 cover: "/v1598981675/2020/09/01/IMG_20200901_200324_Bokeh_2_dqankz.jpg"
 
