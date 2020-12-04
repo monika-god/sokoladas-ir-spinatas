@@ -9,7 +9,7 @@ title: Moliūgų sriuba su mėlynuoju pelėsiniu sūriu
 cover: "/v1607098420/2020/12/04/IMG_20201203_154505_Bokeh_2_codkgh.jpg"
 
 ---
-Nors patiekalų su moliūgais gaminimo bumas praėjo, bet tikiu, kad dar kai kurie iš Jūsų, kaip ir aš, turite namie pūpsantį, savo dydžiu besipuikuojantį naminį moliūgą. Kad ir kaip aš stengiausi į šį gražuolį nekreipti dėmesio, deja, mūsų susidurimo išvengti nepavyko. Jei jau esi mano namuose, būsi sunaudotas, niekas negali būti išmesta! Todėl šiandien viriau didžiulį puodą aitrios moliūgų sriubos, kurią gardinau moliūgų sėklomis ir nustebsite, mėlynuoju pelėsiniu sūriu! Tikrai verta šį derinį, išmėginti bent kartelį. :) 
+Nors patiekalų su moliūgais gaminimo bumas praėjo, bet tikiu, kad dar kai kurie iš Jūsų, kaip ir aš, turite namie pūpsantį, savo dydžiu besipuikuojantį naminį moliūgą. Kad ir kaip aš stengiausi į šį gražuolį nekreipti dėmesio, deja, mūsų susidurimo išvengti nepavyko. Laikausi taisyklės,jei jau esi mano namuose, būsi sunaudotas. Niekas negali būti išmesta! Todėl šiandien viriau didžiulį puodą aitrios moliūgų sriubos, kurią gardinau moliūgų sėklomis ir nustebsite, mėlynuoju pelėsiniu sūriu! Tikrai verta šį derinį, išmėginti bent kartelį. :) 
 
 **Produktai:**
 
