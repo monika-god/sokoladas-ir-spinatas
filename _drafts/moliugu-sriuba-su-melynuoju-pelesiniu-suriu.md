@@ -2,7 +2,9 @@
 author: Monika Godelienė
 layout: post
 date: 2020-12-04 18:11:23 +0200
-tags: []
+tags:
+- sriuba
+- daržovės
 title: Moliūgų sriuba su mėlynuoju pelėsiniu sūriu
 cover: "/v1607098420/2020/12/04/IMG_20201203_154505_Bokeh_2_codkgh.jpg"
 
