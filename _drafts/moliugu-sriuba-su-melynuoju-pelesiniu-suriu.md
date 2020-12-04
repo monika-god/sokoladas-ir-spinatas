@@ -14,9 +14,13 @@ Kkkk
 **Produktai:**
 
 * Moliūgas
-* Svogūnai
-* Skiltelės česnako
-* Grietinėlės
+* 5 vidutinio dydžio svogūnai
+* 4 skiltelės česnako
+* 200 ml grietinėlės
+* Moliūgų sėklos
+* 1 a. š. aitriosios paprikos
+* Druska
+* Pipirai
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1607098418/2020/12/04/IMG_20201203_140235_Bokeh_2_xtymlg.jpg)
 
