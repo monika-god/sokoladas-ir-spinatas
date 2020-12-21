@@ -20,11 +20,11 @@ cover: "/v1608549829/2020/12/21/IMG_20201221_131611_Bokeh_2_ttxy2g.jpg"
 <div itemprop="recipeInstructions" markdown="1">
 ![Lašiša su viskiu - produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608549829/2020/12/21/IMG_20201221_130722_Bokeh_2_ogaodq.jpg)
 
-![Lašiša su viskiu](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608549830/2020/12/21/IMG_20201221_130948_Bokeh_2_hz8ajs.jpg)
-
 Supjaustome lašišą gabalėliais. Dedame arbatinį šaukštelį grūdėtų Dijon garstyčių ir pilame šlakelį viskio. Viską išmaišome ir paliekame šiek tiek pasimarinuoti, kad lašiša pritrauktų skonio. Patiekti galite su salotomis.
 </div>
 
 Skanaus!
+
+![Lašiša su viskiu](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608549830/2020/12/21/IMG_20201221_130948_Bokeh_2_hz8ajs.jpg)
 
 ![Lašiša su viskiu](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608549829/2020/12/21/IMG_20201221_131611_Bokeh_2_ttxy2g.jpg){:itemprop="image"}
