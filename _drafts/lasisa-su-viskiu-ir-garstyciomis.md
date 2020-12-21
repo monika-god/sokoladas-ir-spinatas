@@ -9,7 +9,7 @@ title: Lašiša su viskiu ir garstyčiomis
 cover: "/v1608549829/2020/12/21/IMG_20201221_131611_Bokeh_2_ttxy2g.jpg"
 
 ---
-Įsivaizduokite, jog ant stalo išdėliojote visus kūčių vakarienės patiekalus, skaičiuojate, skaičiuojate dar kartą, ir dar... vienuolika! Tokiu atveju praverstų atsargoje turėti vieną papildomą, lengvai pagaminamą patiekalą. Būtent tokiu šiandiena dalinuosi su Jumis. Ant mano kūčių vakarienės stalo bus ši pikantiška lašiša su grūdėtomis Dijon garstyčiomis bei šlakeliu viskio. :)
+Įsivaizduokite, jog ant stalo išdėliojote visus Kūčių vakarienės patiekalus, skaičiuojate, skaičiuojate dar kartą, ir dar... vienuolika! Tokiu atveju praverstų atsargoje turėti vieną papildomą, lengvai pagaminamą patiekalą. Būtent tokiu šiandiena dalinuosi su Jumis. Ant mano Kūčių vakarienės stalo bus ši pikantiška lašiša su grūdėtomis Dijon garstyčiomis bei šlakeliu viskio. :)
 
 **Produktai:**
 
