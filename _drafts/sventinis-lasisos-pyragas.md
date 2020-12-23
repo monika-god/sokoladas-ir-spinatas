@@ -29,17 +29,27 @@ cover: "/v1608722146/2020/12/23/IMG_20201223_124629_2_qrpac6.jpg"
 
 Į dubenį dedame keptą lašišą, virtus ryžius, kepintą svogūną bei pievagrybius. Pilame išplaktą kiaušinį bei prieskonius. Viską išmaišome.
 
+<div class="row">
+<div class="six columns" markdown="1">
 ![Lašišos pyragas-įdaras](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608722144/2020/12/23/IMG_20201223_111459_Bokeh_2_cq4sh2.jpg)
-
+</div>
+<div class="six columns" markdown="1">
 ![Lašišos pyragas-įdaras](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608722144/2020/12/23/IMG_20201223_111523_Bokeh_2_ogiiun.jpg)
+</div>
+</div>
 
 ![Lašišos pyragas-įdaras](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608722145/2020/12/23/IMG_20201223_111730_Bokeh_2_vzwgxb.jpg)
 
 Imame atšildytus bemielės sluoksniuotos tešlos lakštus, juos šiek tiek į plotį pakočiojame, kad lakštai prasiplėstų ir tešla suminkštėtų. Dedame ant lakštų įdarą. Kraštus patepame kiaušinio plakymu. Ant viršaus dedame dar po vieną lakštą ir suformuojame pyragą. Pyragus papuošiame ir patepame kiaušinio plakymu. 
 
+<div class="row">
+<div class="six columns" markdown="1">
 ![Lašišos pyragas-pyragas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608722145/2020/12/23/IMG_20201223_112754_3_xblem7.jpg)
-
+</div>
+<div class="six columns" markdown="1">
 ![Lašišos pyragas-pyragas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1608722145/2020/12/23/IMG_20201223_114128_Bokeh_2_jwz5pw.jpg)
+</div>
+</div>
 
 Pagamintus pyragus dedame į 180 laipsnių įkaitintą orkaitę 30-40 minučių. Patiekti galite su mėgiamu majonezu.
 </div>
