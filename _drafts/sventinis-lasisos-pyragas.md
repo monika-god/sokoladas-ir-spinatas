@@ -9,7 +9,7 @@ title: Šventinis lašišos pyragas
 cover: "/v1608722146/2020/12/23/IMG_20201223_124629_2_qrpac6.jpg"
 
 ---
-Šventės jau čia pat.
+Šventės jau čia pat! Savųjų aš neįsivaizduoju be mamos kepto žuvies pyrago. Kadangi šiais metais susitiksime tik kamerų pagalba, norėjosi bent jau skoniais suartinti mūsų stalus. Mamos įkvėpta kepu jos skanųjį žuvies pyragą, su gardžiu įdaru bei traškia plutele. Susikurkime savo mažas šventes taip, kad mums patiems būtų gera ir šilta širdyje. :)
 
 **Produktai:**
 
