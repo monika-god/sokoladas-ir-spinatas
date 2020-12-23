@@ -4,7 +4,7 @@ layout: post
 date: 2020-12-21 13:23:53 +0200
 tags:
 - Lašiša
-- pagrindinis
+- pagrindiniai
 title: Lašiša su viskiu ir garstyčiomis
 cover: "/v1608549829/2020/12/21/IMG_20201221_131611_Bokeh_2_ttxy2g.jpg"
 
