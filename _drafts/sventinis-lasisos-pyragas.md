@@ -9,7 +9,7 @@ title: Šventinis lašišos pyragas
 cover: "/v1608722146/2020/12/23/IMG_20201223_124629_2_qrpac6.jpg"
 
 ---
-Kkkk
+Šventės jau čia pat.
 
 **Produktai:**
 
