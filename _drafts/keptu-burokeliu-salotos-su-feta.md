@@ -10,7 +10,7 @@ title: Keptų burokėlių salotos su feta
 cover: "/v1607098420/2020/12/04/IMG_20201204_143520_2_obaywe.jpg"
 
 ---
-Tarpšventiniu laikotarpiu norisi kažko lengvo? Paprasto tiek skonių palete, tiek paruošimo būdu? O po Kalėdinio stalo dar ir ypač išsiilgstame daržovių. Šios saldžiarūgščių burokėlių salotos pagardintos feta yra dažnas vegetariškas patiekalas mūsų namuose.
+Tarpšventiniu laikotarpiu norisi kažko lengvo? Paprasto tiek skonių palete, tiek paruošimo būdu? O po Kalėdinio stalo dar ir ypač išsiilgstame daržovių. Šios saldžiarūgščių burokėlių salotos pagardintos feta yra būtent toks patiekalas, kurio šiandien Jums reikia. :)
 
 **Produktai:**
 
