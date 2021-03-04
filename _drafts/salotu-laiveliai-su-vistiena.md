@@ -35,13 +35,13 @@ Iškepame vištieną taip kaip mėgstame labiausiai. Aš kepiau pamarinavusi ali
 ![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866402/2021/03/04/IMG_20210223_124706_Bokeh__01_s5qzxt.jpg)
 
 Formuojame laivelius. Imame romaninės salotos lapelį, į jį dedame sumaišytas daržoves, ant viršaus keptą vištieną ir prosciutto kumpį. Pagardiname šviežiomis žolelėmis.  
- </div>
+</div>
 
 Skanaus!
 
 <div class="row">
 <div class="six columns" markdown="1">
-![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866415/2021/03/04/IMG_20210223_125922__01_h9m6uo.jpg)  
+![](https://res.cloudinary.com/monikagod/image/upload/v1614869129/2021/03/04/IMG_20210223_125922__01_i7lfns.jpg)  
 </div>
 <div class="six columns" markdown="1">
 ![Salotų laiveliai-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866374/2021/03/04/IMG_20210223_130010_Bokeh__01_olnykq.jpg)
