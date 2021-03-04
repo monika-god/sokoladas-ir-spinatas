@@ -18,7 +18,7 @@ Kokias emocijas Jums atneša kalendorinis pavasaris? Man atrodo, vos tik išauš
 * <span itemprop="recipeIngredient">Prosciutto kumpis</span>
 * <span itemprop="recipeIngredient">Romaninės salotos</span>
 * <span itemprop="recipeIngredient">Žiedinis kopūstas</span>
-* <span itemprop="recipeIngredient">Vyšniai pomidorai</span>
+* <span itemprop="recipeIngredient">Vyšniniai pomidorai</span>
 * <span itemprop="recipeIngredient">Raudonas svogūnas</span>
 * <span itemprop="recipeIngredient">Šviežios petražolės</span>
 * <span itemprop="recipeIngredient">Svogūnų laiškai</span>
