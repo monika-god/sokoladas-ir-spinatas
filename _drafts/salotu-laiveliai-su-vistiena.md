@@ -30,7 +30,7 @@ Kokias emocijas Jums atneša kalendorinis pavasaris? Man atrodo, vos tik išauš
 <div itemprop="recipeInstructions" markdown="1">
 ![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866403/2021/03/04/IMG_20210223_120520_Bokeh__01_iqs8fg.jpg)
 
-Iškepame vištieną taip kaip mėgstame labiausiai. Aš kepiau pamarinavusi aliejuje, citrinos sultyse su druska ir pipirais. Susipjaustome ir sumaišome daržoves su majonezu ir jogurtu.
+Iškepame vištieną taip kaip mėgstame labiausiai. Aš kepiau pamarinavusi aliejuje, citrinos sultyse su druska ir pipirais. Toliau susipjaustome ir sumaišome daržoves su majonezu ir jogurtu.
 
 ![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866402/2021/03/04/IMG_20210223_124706_Bokeh__01_s5qzxt.jpg)
 
