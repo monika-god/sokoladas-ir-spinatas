@@ -1,8 +1,10 @@
 ---
 author: Monika Godelienė
 layout: post
-date: 2021-03-04 15:59:28 +0200
-tags: []
+date: 2021-03-05 15:59:28 +0200
+tags:
+- pagrindiniai
+- salotos
 title: Salotų laiveliai su vištiena
 cover: "/v1614866377/2021/03/04/IMG_20210223_131058_Bokeh__01_t8vers.jpg"
 
@@ -11,33 +13,47 @@ Kokias emocijas Jums atneša kalendorinis pavasaris? Man atrodo, vos tik išauš
 
 **Produktai:**
 
-Vištienos krūtinėlė  
-Prosciuto kumpelis  
-Romaninės salotos  
-Žiedinis kopūstas  
-Vyšniai pomidorai  
-Raudonas svogūnas  
-Šviežios petražolės  
-Svogūnų laiškai  
-2 a. š. graikiško jogurto  
-2 a. š. majonezo  
-Pipirai  
-Druska
+* <span itemprop="recipeIngredient">Vištienos krūtinėlė</span> 
+* <span itemprop="recipeIngredient">Prosciuto kumpelis</span>  
+* <span itemprop="recipeIngredient">Romaninės salotos</span>  
+* <span itemprop="recipeIngredient">Žiedinis kopūstas</span>  
+* <span itemprop="recipeIngredient">Vyšniai pomidorai</span> 
+* <span itemprop="recipeIngredient">Raudonas svogūnas</span>  
+* <span itemprop="recipeIngredient">Šviežios petražolės</span> 
+* <span itemprop="recipeIngredient">Svogūnų laiškai</span>
+* <span itemprop="recipeIngredient">2 a. š. graikiško jogurto</span>  
+* <span itemprop="recipeIngredient">2 a. š. majonezo</span>  
+* <span itemprop="recipeIngredient">Pipirai</span>  
+* <span itemprop="recipeIngredient">Druska</span>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866403/2021/03/04/IMG_20210223_120520_Bokeh__01_iqs8fg.jpg)  
+<div itemprop="recipeInstructions" markdown="1">
+![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866403/2021/03/04/IMG_20210223_120520_Bokeh__01_iqs8fg.jpg)  
+
 Iškepame vištieną taip kaip mėgstame labiausiai. Aš kepiau pamarinavusi aliejuje, citrinos sultyse su druska ir pipirais. Susipjaustome ir sumaišome daržoves su majonezu ir jogurtu.  
   
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866402/2021/03/04/IMG_20210223_124706_Bokeh__01_s5qzxt.jpg)  
-Formuojame laivelius. Imame romaninės salotos lapelį, į jį dedame sumaišytas daržoves, ant viršaus keptą vištieną ir prosciuto kumpelį. Pagardiname šviežiomis žolelėmis.  
+![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866402/2021/03/04/IMG_20210223_124706_Bokeh__01_s5qzxt.jpg)  
+
+Formuojame laivelius. Imame romaninės salotos lapelį, į jį dedame sumaišytas daržoves, ant viršaus keptą vištieną ir prosciuto kumpelį. Pagardiname šviežiomis žolelėmis.
+</div>  
   
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866415/2021/03/04/IMG_20210223_125922__01_h9m6uo.jpg)  
-  
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866374/2021/03/04/IMG_20210223_130010_Bokeh__01_olnykq.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![Salotų laiveliai-produktai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866415/2021/03/04/IMG_20210223_125922__01_h9m6uo.jpg)  
+</div>
+<div class="six columns" markdown="1">
+![Salotų laiveliai-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866374/2021/03/04/IMG_20210223_130010_Bokeh__01_olnykq.jpg)
+</div>
+</div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866406/2021/03/04/IMG_20210223_130050__01_uqdtj9.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![Salotų laiveliai-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866406/2021/03/04/IMG_20210223_130050__01_uqdtj9.jpg) 
+</div>
+<div class="six columns" markdown="1">
+![Salotų laiveliai-formavimas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866406/2021/03/04/IMG_20210223_130122__01_qbuxy0.jpg)
+</div>
+</div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866406/2021/03/04/IMG_20210223_130122__01_qbuxy0.jpg)
-
-![](https://res.cloudinary.com/monikagod/image/upload/v1614866377/2021/03/04/IMG_20210223_131058_Bokeh__01_t8vers.jpg)
+![Salotų laiveliai](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1614866377/2021/03/04/IMG_20210223_131058_Bokeh__01_t8vers.jpg){:itemprop="image"}
