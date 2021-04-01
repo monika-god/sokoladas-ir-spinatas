@@ -32,7 +32,7 @@ Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studi
 <div itemprop="recipeInstructions" markdown="1">
 ![Pievagrybių ir kreivabudžių sriuba-produktai](https://res.cloudinary.com/monikagod/image/upload/v1617294050/2021/04/01/IMG_20210325_135823_Bokeh__02_xyf8d6.jpg)
 
-Supjaustome bulves kubeliais ir uždedame virti. Taip pat supjaustome kubeliais svogūnus, morkas bei ketvirčiais grybus. Daržoves ir grybus apkepiname keptuvėje. Kai vanduo su bulvėmis užverda, sudedame į vandenį keptuvės turinį. Sudedame mairūnus, sultinio kubelius, lauro lapus, pipirus ir kiek trūksta druskos. Verdame 20 min. Po 20 min. supilame grietinėlę ir sudedame žoleles. Sriubą verdame dar 10 min. ir galime tiekti.  
+Supjaustome bulves kubeliais ir uždedame virti. Taip pat supjaustome kubeliais svogūnus, morkas bei ketvirčiais grybus. Daržoves ir grybus apkepiname keptuvėje. Kai vanduo su bulvėmis užverda, sudedame į vandenį keptuvės turinį. Taip pat sudedame mairūnus, sultinio kubelius, lauro lapus, pipirus ir kiek trūksta druskos. Verdame 20 min. Po 20 min. supilame grietinėlę ir sudedame žoleles. Sriubą verdame dar 10 min. ir galime tiekti.  
   
 Skanaus!
 
