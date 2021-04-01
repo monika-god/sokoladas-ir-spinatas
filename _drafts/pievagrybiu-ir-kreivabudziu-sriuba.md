@@ -35,12 +35,22 @@ Supjaustome bulves kubeliais ir uždedame virti. Taip pat supjaustome kubeliais 
   
 Skanaus!
 
+<div class="row">
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617297112/2021/04/01/IMG_20210325_141538__02_a5pbyw.jpg)
-
+</div>
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617297114/2021/04/01/IMG_20210325_142551__01_mimu2v.jpg)
+</div>
+</div>
 
+<div class="row">
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617297113/2021/04/01/IMG_20210325_143226__01_vbp8n2.jpg)
-
+</div>
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617297114/2021/04/01/IMG_20210325_144313_Bokeh__01_vjnjrf.jpg)
+</div>
+</div>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617294058/2021/04/01/IMG_20210325_145900_Bokeh__02_wdk8xk.jpg)
