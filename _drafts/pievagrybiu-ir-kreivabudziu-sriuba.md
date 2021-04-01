@@ -10,7 +10,7 @@ title: Pievagrybių ir kreivabudžių sriuba
 cover: "/v1617294058/2021/04/01/IMG_20210325_145900_Bokeh__02_wdk8xk.jpg"
 
 ---
-kkkk
+Pavasariška, šviežiomis žolelėmis kvepianti grybų sriuba.
 
 **Produktai:**
 
