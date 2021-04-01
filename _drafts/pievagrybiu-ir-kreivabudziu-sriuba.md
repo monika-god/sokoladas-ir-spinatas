@@ -14,20 +14,20 @@ Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studi
 
 **Produktai:**
 
-* 200 g. pievagrybių
-* 200-300 g. kreivabudžių
-* 200 ml. grietinėlės 30% riebumo
-* 2 vidutinio dydžio svogūnai
-* 3 didelės bulvės
-* 2 morkos
-* 2 kubeliai sultinio
-* Lauro lapai
-* Džiovinti mairūnai
-* Šviežūs krapai
-* Šviežios petražolės
-* Šviežūs svogūnų laiškai
-* Druska
-* Pipirai
+* <span itemprop="recipeIngredient">200 g. pievagrybių</span>
+* <span itemprop="recipeIngredient">200-300 g. kreivabudžių</span>
+* <span itemprop="recipeIngredient">200 ml. grietinėlės 30% riebumo</span>
+* <span itemprop="recipeIngredient">2 vidutinio dydžio svogūnai</span>
+* <span itemprop="recipeIngredient">3 didelės bulvės</span>
+* <span itemprop="recipeIngredient">2 morkos</span>
+* <span itemprop="recipeIngredient">2 kubeliai sultinio</span>
+* <span itemprop="recipeIngredient">Lauro lapai</span>
+* <span itemprop="recipeIngredient">Džiovinti mairūnai</span>
+* <span itemprop="recipeIngredient">Šviežūs krapai</span>
+* <span itemprop="recipeIngredient">Šviežios petražolės</span>
+* <span itemprop="recipeIngredient">Šviežūs svogūnų laiškai</span>
+* <span itemprop="recipeIngredient">Druska</span>
+* <span itemprop="recipeIngredient">Pipirai</span>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617294050/2021/04/01/IMG_20210325_135823_Bokeh__02_xyf8d6.jpg)
 
