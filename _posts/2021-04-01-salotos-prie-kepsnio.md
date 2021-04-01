@@ -35,7 +35,7 @@ cover: "/v1617284642/2021/04/01/IMG_20210331_125710_Bokeh__01_n9e5jb.jpg"
 <div itemprop="recipeInstructions" markdown="1">
 ![Salotos su mėlynuoju pelėsiniu sūriu-produktai](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_123559_Bokeh__01_z1ewfu.jpg)
 
-Supjaustome daržoves ir užpilame padažu. Viskas labai greita ir paprasta. Labai skanu patiekti kartu su vidutiniškai keptu jautienos kepsniu. :)
+Supjaustome daržoves, pakepiname riešutus, pabarstome mėlynuoju sūriu ir užpilame padažu. Viskas labai greita ir paprasta. Labai skanu patiekti kartu su vidutiniškai keptu jautienos kepsniu. :)
 </div>
 
 Skanaus!
