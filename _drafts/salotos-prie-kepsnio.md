@@ -38,10 +38,15 @@ Supjaustome daržoves ir užpilame padažu. Viskas labai greita ir paprasta. Lab
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_125016_Bokeh__01_ck0qto.jpg)
-
+<div class="row">
+<div class="six columns" markdown="1">
+![Vištienos troškinys su avinžirniais-pomidorai]![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_125016_Bokeh__01_ck0qto.jpg)
+</div>
+<div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_124722_Bokeh__01_myjkz4.jpg)
+</div>
+</div>
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1617285445/2021/04/01/IMG_20210330_191138_Bokeh__01_y7g99r.jpg)
+![](https://res.cloudinary.com/monikagod/image/upload/v1617286096/2021/04/01/IMG_20210330_191138_Bokeh__02_zwnejs.jpg)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_125710_Bokeh__01_n9e5jb.jpg)
