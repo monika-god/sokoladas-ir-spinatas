@@ -9,7 +9,7 @@ title: Salotos su mėlynuoju pelėsiniu sūriu
 cover: "/v1617284642/2021/04/01/IMG_20210331_125710_Bokeh__01_n9e5jb.jpg"
 
 ---
-Tekstas
+Šis receptas gimė, kai namuose atsirado jautienos antrekotas ir norėjosi šalia jo patiekti ne, kaip įprasta, grilintas daržoves, o kažką šviežio, subtilaus ir ypatingai skanaus. Man šalia gero kepsnio ne mažiau svarbus ir geras garnyras. Su šiomis salotomis namie ruoštą patiekalą pakilėsite į restorano lygmenį. Bon appetit! :)
 
 **Produktai salotoms:**
 
@@ -41,5 +41,7 @@ Skanaus!
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_125016_Bokeh__01_ck0qto.jpg)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_124722_Bokeh__01_myjkz4.jpg)
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1617285445/2021/04/01/IMG_20210330_191138_Bokeh__01_y7g99r.jpg)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617284642/2021/04/01/IMG_20210331_125710_Bokeh__01_n9e5jb.jpg)
