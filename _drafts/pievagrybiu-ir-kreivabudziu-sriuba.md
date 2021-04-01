@@ -31,7 +31,7 @@ Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studi
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617294050/2021/04/01/IMG_20210325_135823_Bokeh__02_xyf8d6.jpg)
 
-Supjaustome bulves kubeliais ir uždedame virti. Taip pat supjaustome kubeliais svogūnus, morkas bei ketvirčiais grybus. Daržoves ir grybus apkepiname keptuvėje. Kai vanduo su bulvėmis užverda, sudedame į vandenį keptuvės turinį. Sudedame mairūnus, sultinio kubelius, lauro lapus, pipirus ir kiek trūksta druskos. Verdame 20 min. Po 20 min. supilame grietinėlę ir sudedame žoleles. Verdame dar 10 min. ir galime tiekti.  
+Supjaustome bulves kubeliais ir uždedame virti. Taip pat supjaustome kubeliais svogūnus, morkas bei ketvirčiais grybus. Daržoves ir grybus apkepiname keptuvėje. Kai vanduo su bulvėmis užverda, sudedame į vandenį keptuvės turinį. Sudedame mairūnus, sultinio kubelius, lauro lapus, pipirus ir kiek trūksta druskos. Verdame 20 min. Po 20 min. supilame grietinėlę ir sudedame žoleles. Sriubą verdame dar 10 min. ir galime tiekti.  
   
 Skanaus!
 
@@ -42,3 +42,5 @@ Skanaus!
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617297113/2021/04/01/IMG_20210325_143226__01_vbp8n2.jpg)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617297114/2021/04/01/IMG_20210325_144313_Bokeh__01_vjnjrf.jpg)
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1617294058/2021/04/01/IMG_20210325_145900_Bokeh__02_wdk8xk.jpg)
