@@ -10,7 +10,7 @@ title: Pievagrybių ir kreivabudžių sriuba
 cover: "/v1617294058/2021/04/01/IMG_20210325_145900_Bokeh__02_wdk8xk.jpg"
 
 ---
-Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studijuoti. Man ji tokia skani, kad kažkada namiškiams išviriau jos net 8 litrus-  šį faktą man priminė sesė. :) Per tiek metų receptas koregavosi ne vieną kartą. Priklausomai nuo sezono varijuoja grybų rūšys, tačiau sriuba visad išlieka kvepianti šviežiomis žolelėmis ir pavasariu. :)
+Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studijuoti. Man ji tokia skani, kad kažkada namiškiams išviriau jos net 8 litrus - šį faktą man priminė sesė. :) Per tiek metų receptas koregavosi ne vieną kartą. Priklausomai nuo sezono varijuoja grybų rūšys, tačiau sriuba visad išlieka kvepianti šviežiomis žolelėmis ir pavasariu. :)
 
 **Produktai:**
 
@@ -23,10 +23,8 @@ Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studi
 * 2 kubeliai sultinio
 * Lauro lapai
 * Džiovinti mairūnai
-* Druska
-* Pipirai
 * Šviežūs krapai
 * Šviežios petražolės
 * Šviežūs svogūnų laiškai
-
-kkkk
+* Druska
+* Pipirai
