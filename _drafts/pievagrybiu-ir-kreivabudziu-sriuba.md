@@ -28,3 +28,11 @@ Panašią sriubą pradėjau virti dar prieš 10 metų, atvykusi į Vilnių studi
 * Šviežūs svogūnų laiškai
 * Druska
 * Pipirai
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1617294050/2021/04/01/IMG_20210325_135823_Bokeh__02_xyf8d6.jpg)
+
+Supjaustome bulves kubeliais ir uždedame virti. Taip pat supjaustome kubeliais svogūnus, morkas ir ketvirčiais grybus. Daržoves ir grybus apkepiname keptuvėje. Kai vanduo su bulvėmis užverda, sudedame į vandenį keptuvės turinį. Verdame 20 min. Sudedame mairūnus, sultinio kubelius, lauro lapus, pipirus ir kiek trūksta druskos. Po 20 min. supilame grietinėlę. Verdame dar 10 min. ir sudedame šviežias žoleles. Sriubą su žolelėmis verdame dar kelias minutes ir galime tiekti.  
+  
+Skanaus!
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1617297112/2021/04/01/IMG_20210325_141538__02_a5pbyw.jpg)
