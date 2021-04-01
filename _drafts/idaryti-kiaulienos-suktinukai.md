@@ -10,11 +10,11 @@ title: Įdaryti kiaulienos suktinukai
 cover: "/v1617300341/2021/04/01/IMG_20210325_164244_Bokeh__01_mpa1hh.jpg"
 
 ---
-kkkk
+Yra dienų, kai visiškai nenori nieko įmantraus, o tiesiog kažko komfortiško ir pažįstamo nuo vaikystės. 
 
 **Produktai:**
 
-* Kiaulienos nugarinė
+* 500 g. kiaulienos nugarinės
 * Pora saujų špinatų
 * 125 g. kreminio sūrio
 * 40 g. kietojo sūrio
