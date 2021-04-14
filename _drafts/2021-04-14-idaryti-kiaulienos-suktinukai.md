@@ -42,7 +42,7 @@ Išmušę mėsą formuojame suktinuką. Dedame pasigamintą sūrių įdarą bei 
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300341/2021/04/01/IMG_20210325_155522_Bokeh__01__01_baeg37.jpg)
 
-Kepame suktinukus 25 - 30 min. 180 laipsnių įkaitintoje orkaitėje. Suktinukus patiekiau su bulvių koše bei keptais baltaisiais smidrais ir pomidorais.
+Kepame suktinukus 25 - 30 min. 180 laipsnių įkaitintoje orkaitėje. Suktinukus patiekiau su bulvių koše bei keptais baltaisiais smidrais ir geltonaisiais vyšniniais pomidorais.
 
 Skanaus!
 
