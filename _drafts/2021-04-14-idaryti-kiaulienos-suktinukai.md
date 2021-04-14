@@ -10,7 +10,7 @@ title: Įdaryti kiaulienos suktinukai
 cover: "/v1617300341/2021/04/01/IMG_20210325_164244_Bokeh__01_mpa1hh.jpg"
 
 ---
-Yra dienų, kai visiškai nesinori nieko įmantraus, o tiesiog tokio skonio, kurį pažįsti nuo vaikystės. Tokia nostalgija mane apima su kiaulienos suktinukais, kurie dažniausiai mūsų šeimoje patiekiami per didžiasias metų šventes. Ir šiandieną, rekomenduoju jais pasilepinti penktadienio vakarienės metu.
+Yra dienų, kai visiškai nesinori nieko įmantraus, o tiesiog tokio skonio, kurį pažįsti nuo vaikystės. Tokia nostalgija mane apima su kiaulienos suktinukais, kurie dažniausiai mūsų šeimoje patiekiami per didžiasias metų šventes. Ir šiandieną, rekomenduoju jais pasilepinti penktadienio vakarienės metu. :)
 
 **Produktai:**
 
