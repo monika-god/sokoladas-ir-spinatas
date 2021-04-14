@@ -10,7 +10,7 @@ title: Įdaryti kiaulienos suktinukai
 cover: "/v1617300341/2021/04/01/IMG_20210325_164244_Bokeh__01_mpa1hh.jpg"
 
 ---
-Yra dienų, kai visiškai nenori nieko įmantraus, o tiesiog kažko komfortiško ir pažįstamo nuo vaikystės. 
+Yra dienų, kai visiškai nesinori nieko įmantraus, o tiesiog tokio skonio, kurį pažįsti nuo vaikystės. Tokia nostalgija mane apima su kiaulienos suktinukais, kurie dažniausiai mūsų šeimoje patiekiami per didžiasias metų šventes. Ir šiandieną, rekomenduoju jais pasilepinti penktadienio vakarienės metu.
 
 **Produktai:**
 
@@ -24,18 +24,18 @@ Yra dienų, kai visiškai nenori nieko įmantraus, o tiesiog kažko komfortiško
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300345/2021/04/01/IMG_20210325_152039_Bokeh__01_rfc8ib.jpg)
 
-Visų pirma sumaišome įdarą. Sutarkuotą kietąjį sūrį sumaišome su kreminiu sūriu, druska ir pipirais. Karštu vandeniu perpilame špinatus. 
+Visų pirma sumaišome įdarą. Sutarkuotą kietąjį sūrį sumaišome su kreminiu sūriu, druska ir pipirais. Karštu vandeniu perpilame špinatus.
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300346/2021/04/01/IMG_20210325_154055_Bokeh__01_jrsp1w.jpg)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300344/2021/04/01/IMG_20210325_154235_Bokeh__01_uhx8g5.jpg)
 
-Išmušame mėsą su česnaku, druska bei pipirais. 
+Išmušame mėsą su česnaku, druska bei pipirais.
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300346/2021/04/01/IMG_20210325_152540_Bokeh__01_xizh2s.jpg)
 
-Išmušę mėsą formuojame suktinuką. Dedame pasigamintą sūrių įdarą bei špinatus. Susukame suktinuką ir dedame jį taip, kad suktinuko kraštas būtų nukreiptas į apačią.  
-  
+Išmušę mėsą formuojame suktinuką. Dedame pasigamintą sūrių įdarą bei špinatus. Susukame suktinuką ir dedame jį taip, kad suktinuko kraštas būtų nukreiptas į apačią.
+
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300343/2021/04/01/IMG_20210325_154718_Bokeh__01_qw61kh.jpg)
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1617300341/2021/04/01/IMG_20210325_154918_Bokeh__01_tni8qv.jpg)
