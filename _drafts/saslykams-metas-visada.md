@@ -20,5 +20,10 @@ hhh
 * Pundelis šviežios kalendros
 * 2 valgomieji šaukštai grūdėtų garstyčių
 * Džiovinta čili paprika
+* Pusės citrinos sulčių
 * Druska
 * Pipirai
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441047/2021/09/12/IMG_20210911_131041_Bokeh_3_xqufnr.jpg)
+
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131134_Bokeh_2_mlfnmt.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg)
