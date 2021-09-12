@@ -46,14 +46,7 @@ Pradėkime nuo marinato šašlykams. Supjaustome norimo dydžio gabaliukais spra
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg
 </div>
 </div>
-<div class="row">
-<div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131134_Bokeh_2_mlfnmt.jpg)
-</div>
-<div class="six columns" markdown="1">
-![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg
-</div>
-</div>
+
 <div class="row">
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg)
