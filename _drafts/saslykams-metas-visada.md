@@ -39,7 +39,13 @@ cover: "/v1631441032/2021/09/12/IMG_20210911_193711_Bokeh__01_2_kfzwaf.jpg"
 Pradėkime nuo marinato šašlykams. Supjaustome norimo dydžio gabaliukais sprandinę. Tuomet supjaustome smulkiai svogūnus bei kalendra. Svogūnus su mėsa minkome apie 10 min., kad svogūnai paleistų sultis. Tuomet dedame 2 valgomuosius šaukštus grūdėtų garstyčių. Išspaudžiame pusės citrinos sultis bei sudedame pipirus ir džiovintą čili papriką. Viską išmaišome ir paliekame marinuotis kelias valandas.
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441047/2021/09/12/IMG_20210911_131041_Bokeh_3_xqufnr.jpg)
-
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131134_Bokeh_2_mlfnmt.jpg)
+</div>
+<div class="six columns" markdown="1">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg
+</div>
+</div>
 <div class="row">
 <div class="six columns" markdown="1">
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131134_Bokeh_2_mlfnmt.jpg)
