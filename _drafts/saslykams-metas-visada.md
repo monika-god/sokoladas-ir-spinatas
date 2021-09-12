@@ -10,7 +10,7 @@ title: Šašlykams metas visada
 cover: "/v1631441032/2021/09/12/IMG_20210911_193711_Bokeh__01_2_kfzwaf.jpg"
 
 ---
-Žinau, su šiuo receptu geriausiai būtų buvę pasirodyti grill'io sezono pradžioje. Na, bet aš pastarojo dar neuždarau, nes mūsų dar tikrai laukia bobų vasarą, ir daug gerų popiečių ir vakarų. 
+Žinau, su šiuo receptu geriausiai būtų buvę pasirodyti grill'io sezono pradžioje. Na, bet aš pastarojo dar neuždarau, nes mūsų dar tikrai laukia bobų vasara, ir daug šiltų popiečių ir bent keli vakarai. 
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441047/2021/09/12/IMG_20210911_103920_Bokeh__01_2_ntyllf.jpg)  
 **Produktai šašlykams:**
@@ -56,7 +56,8 @@ Tortilija arba lavašą ruošiame paprastai. Sitarkuojame pasirinktą sūrį, su
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_135715_Bokeh__01__01_2_gyzmlp.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_135742_Bokeh__01_2_qtrvxo.jpg)
 
-Tuomet reikia išsirinkti grill'inimui mėgiamą vietą. Tikriausiai dauguma Jūsų renkasi savo kiemą. Deja, mes, kaip ir daugėlis vilniečių, tokio neturime. Tačiau esame atradę mums idealią vietą, vos porą kilometrų nuo Vilniaus - Pasakiškės. Puiki bei rami vieta gamtoje, miške, su įrengtomis pavėsinėmis ir tuoletu. Kad kuriame Vilniaus gale begyventume, visada traukiame ten.  
+Tuomet reikia išsirinkti grill'inimui mėgiamą vietą. Tikriausiai dauguma Jūsų renkasi savo kiemą. Deja, mes, kaip ir daugėlis vilniečių, tokio neturime. Tačiau esame atradę mums idealią vietą, vos porą kilometrų nuo Vilniaus - Pasakiškių gyvenvietė. Puiki bei rami vieta gamtoje, miške, su įrengtomis pavėsinėmis ir tualetu. Kad ir kuriame Vilniaus gale begyventume, visada traukiame ten.  
+  
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_162316_2_cuafrv.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_181737_2_ovpxzl.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_162814_2_sqxrbg.jpg)
 
 Na, ir galiausiai, pasirinkus vietą, kur kepsite pasiruoštus produktus, belieka juos iškepti. Čia patarimų Jums daug neturiu. Daržovėms tereikia kelių minučių. Mėsai priklausomai nuo žarijų kaitros bei gabaliukų dydžio apie 20-30 minučių. Na, o tortilijoms, kol viduje išsilydis sūris.
