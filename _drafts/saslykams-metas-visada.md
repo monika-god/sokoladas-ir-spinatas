@@ -40,7 +40,15 @@ Pradėkime nuo marinato šašlykams. Supjaustome norimo dydžio gabaliukais spra
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441047/2021/09/12/IMG_20210911_131041_Bokeh_3_xqufnr.jpg)
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131134_Bokeh_2_mlfnmt.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_131445_Bokeh_2_rzrxm4.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131134_Bokeh_2_mlfnmt.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441032/2021/09/12/IMG_20210911_131200_Bokeh_2_k3bbgp.jpg
+</div>
+</div>
+![](https://res.cloudinary.com/monikagod/image/upload/v1631441033/2021/09/12/IMG_20210911_131445_Bokeh_2_rzrxm4.jpg)
 
 Paruošiame daržoves. Supjaustome papriką ir cukiniją bei sudedame grybus dubenį. Viską pašlakstome aliejumi bei pabarstome druska ir pipirais. Išmaišome.
 
