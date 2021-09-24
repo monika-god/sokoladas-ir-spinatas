@@ -10,7 +10,7 @@ title: Šašlykams metas visada
 cover: "/v1631441032/2021/09/12/IMG_20210911_193711_Bokeh__01_2_kfzwaf.jpg"
 
 ---
-Žinau, su šiuo receptu geriausiai būtų buvę pasirodyti grill'io sezono pradžioje. Na, bet aš pastarojo dar neuždarau, nes mūsų dar tikrai laukia bobų vasara, ir daug šiltų popiečių ir bent keli vakarai.
+Žinau, su šiuo receptu geriausiai būtų buvę pasirodyti grill'io sezono pradžioje. Na, bet aš pastarojo dar neuždarau, nes mūsų dar tikrai laukia bobų vasara, ir ne viena šilta popietė ir bent keli vakarai. Šio savaitgalio prognozė, puikiai patvirtina mano žodžius. Taigi taip pat žinau, kad ne vienas Jūsų rytoj išsitrauks savo šašlykines ar lauko grill'ių ir mėgausitės dūmais persmilkusia minkšta mėsyte, šeimos ir draugų kompanijoje. O jei pritrūkote idėjų, kaip pasiruošti mėsą, štai į pagalbą skubu su mūsų šeimos mėgiamu receptu.
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1631441047/2021/09/12/IMG_20210911_103920_Bokeh__01_2_ntyllf.jpg)  
 **Produktai šašlykams:**
@@ -37,7 +37,6 @@ cover: "/v1631441032/2021/09/12/IMG_20210911_193711_Bokeh__01_2_kfzwaf.jpg"
 * Pipirai
 
 Pradėkime nuo marinato šašlykams. Supjaustome norimo dydžio gabaliukais sprandinę. Tuomet supjaustome smulkiai svogūnus bei kalendra. Svogūnus su mėsa minkome apie 10 min., kad svogūnai paleistų sultis. Tuomet dedame 2 valgomuosius šaukštus grūdėtų garstyčių. Išspaudžiame pusės citrinos sultis bei sudedame pipirus ir džiovintą čili papriką. Viską išmaišome ir paliekame marinuotis kelias valandas.
-
 
 Paruošiame daržoves. Supjaustome papriką ir cukiniją bei sudedame grybus dubenį. Viską pašlakstome aliejumi bei pabarstome druska ir pipirais. Išmaišome.
 
