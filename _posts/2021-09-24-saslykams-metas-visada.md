@@ -64,7 +64,7 @@ Paruošiame daržoves. Supjaustome papriką ir cukiniją bei sudedame grybus į 
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1632486254/2021/09/24/IMG_20210911_134045_Bokeh__01_2_f4n0wh.jpg)
 
- </div> <div class="six columns" markdown="1"> ![Šašlykai-garnyras](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1631441032/2021/09/12/IMG_20210911_134627_Bokeh__01_2_jcplf2.jpg)
+</div> <div class="six columns" markdown="1"> ![Šašlykai-garnyras](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1631441032/2021/09/12/IMG_20210911_134627_Bokeh__01_2_jcplf2.jpg)
 </div>
 </div>
 
@@ -101,8 +101,8 @@ Tuomet reikia išsirinkti grill'inimui mėgiamą vietą. Tikriausiai dauguma Jū
 
 ![Pasakiškės](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1631441033/2021/09/12/IMG_20210911_162814_2_sqxrbg.jpg)
 
-Na, ir galiausiai, pasirinkus vietą, kur kepsite pasiruoštus produktus, belieka juos iškepti. Čia patarimų Jums daug neturiu. Daržovėms tereikia kelių minučių. Mėsai priklausomai nuo žarijų kaitros bei gabaliukų dydžio apie 20-30 minučių. Na, o tortilijoms, kol viduje išsilydis sūris.
-</div>
+Na, ir galiausiai, pasirinkus vietą, kur kepsite pasiruoštus produktus, belieka juos iškepti. Čia patarimų Jums daug neturiu. Daržovėms tereikia kelių minučių. Mėsai priklausomai nuo žarijų kaitros bei gabaliukų dydžio apie 20-30 minučių. Na, o tortilijoms, kol viduje išsilydis sūris. Patiekiu su turguje pirkta adžika.  
+ </div>
 
 Sėkmės ir skanaus!
 
