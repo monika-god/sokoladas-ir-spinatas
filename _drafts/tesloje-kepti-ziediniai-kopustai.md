@@ -28,7 +28,7 @@ Kkkk
 
 Pasigaminame tešlą. Įmušame 2 kiaušinius ir juos išplakame. Pilame stiklinę (300-350 ml.) vandens bei dedame 8-9 šaukštus miltų. Įberiame druskos ir pipirų. Tešla turi būti tirštesnė nei lietiniams, kad pastaroji nenubėgtų nuo daržovių.  
 Supjaustome norimo dydžio žiedais kopūstą. Voliojame jį tešloje ir kepame ant vidutinės ugnies keptuvėje.   
-Patiekiame su padažu. Sumaišome majonezą su pomidorų padažu.  
+Patiekiame su paprasčiausiu įmanomu padažu - sumaišome majonezą su pomidorų padažu.  
   
 Skanaus!  
   
