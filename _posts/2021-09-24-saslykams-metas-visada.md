@@ -6,6 +6,7 @@ tags:
 - kiauliena
 - šašlykai
 - grilius
+- pagrindinis
 title: Šašlykams metas visada
 cover: "/v1631441032/2021/09/12/IMG_20210911_193711_Bokeh__01_2_kfzwaf.jpg"
 
