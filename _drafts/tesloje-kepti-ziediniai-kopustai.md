@@ -35,6 +35,13 @@ Patiekiame su paprasčiausiu įmanomu padažu - sumaišome majonezą su pomidor�
 
 Skanaus!
 
-![](https://res.cloudinary.com/monikagod/image/upload/v1633701771/2021/10/08/IMG_20211008_160748_Bokeh_2_butkz3.jpg)![](https://res.cloudinary.com/monikagod/image/upload/v1633701771/2021/10/08/IMG_20211008_161016_Bokeh__01_2_el7jo5.jpg)
+<div class="row">
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1633701771/2021/10/08/IMG_20211008_160748_Bokeh_2_butkz3.jpg)
+</div>
+<div class="six columns" markdown="1">
+![](https://res.cloudinary.com/monikagod/image/upload/v1633701771/2021/10/08/IMG_20211008_161016_Bokeh__01_2_el7jo5.jpg)
+</div>
+</div>
 
 ![](https://res.cloudinary.com/monikagod/image/upload/v1632484737/2021/09/24/IMG_20210924_141651_Bokeh__01__01_z5tufz.jpg)
