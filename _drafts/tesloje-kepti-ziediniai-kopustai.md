@@ -10,7 +10,7 @@ title: Tešloje keptas žiedinis kopūstas
 cover: "/v1632484737/2021/09/24/IMG_20210924_141651_Bokeh__01__01_z5tufz.jpg"
 
 ---
-Žiedinis kopūstas man augant buvo labai nepopuliari daržovė. Nors daržuose augo puikiai, retas kuris ją augino. Atrodo niekas nežinojo, kaip ruošti, kur naudoti. Dabar labai įprasta, pateikti keptus žiedinius kopūstus, kaip garnyrą, naudoti sriuboje, salotose ar daryti iš jų piurė. Šiandien dalinuosi vaikystės receptu. Mamai kepant sukirsdavome dar neatvėsusius. Viskas labai paprasta, tačiau ir labai skanu.
+Žiedinis kopūstas man augant buvo labai nepopuliari daržovė. Nors daržuose augo puikiai, retas kuris ją augino. Atrodo niekas nežinojo, kaip ruošti, kur naudoti. Dabar labai įprasta, pateikti keptus žiedinius kopūstus, kaip garnyrą, naudoti sriuboje, salotose ar daryti iš jų piurė. Šiandien dalinuosi vaikystės receptu. Mamai kepant sukirsdavome dar neatvėsusius. Viskas labai paprasta, tačiau ir labai skanu! :)
 
 **Produktai:**
 
