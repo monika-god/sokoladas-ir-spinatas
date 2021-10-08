@@ -47,4 +47,4 @@ Skanaus!
 </div>
 </div>
 
-![Keptas žiedinis kopūstas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1632484737/2021/09/24/IMG_20210924_141651_Bokeh__01__01_z5tufz.jpg)
+![Keptas žiedinis kopūstas](https://res.cloudinary.com/monikagod/image/upload/w_1500,q_auto,c_fit/v1632484737/2021/09/24/IMG_20210924_141651_Bokeh__01__01_z5tufz.jpg){:itemprop="image"}
