@@ -1,0 +1,23 @@
+<script defer src="{{ 'assets/vendor/macy.js' | relative_url }}"></script>
+<script>
+  window.onload = function () {
+    var macy = Macy({
+      container: '.post-list',
+      columns: 2,
+      margin: {
+        x: 15,
+        y: 15
+      },
+      trueOrder: true,
+      breakAt: {
+        550: {
+          columns: 1
+        }
+      }
+    });
+
+    macy.runOnImageLoad(function () {
+      macy.recalculate(true);
+    }, true);
+  };
+</script>
